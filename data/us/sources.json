@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Y Combinator Startup Directory",
+    "name_zh": "Y Combinator 创业公司目录",
+    "name_en": "Y Combinator Startup Directory",
+    "icon": "🚀",
+    "url": "https://www.ycombinator.com/companies",
+    "desc_zh": "YC加速器的完整公司数据库，可按行业、批次、地区筛选。涵盖从种子轮到上市的所有阶段公司，是发现早期创新公司的首选资源。",
+    "desc_en": "Complete database of YC-backed companies. Filter by industry, batch, region. Covers companies from seed to IPO stage."
+  },
+  {
+    "name": "Product Hunt",
+    "name_zh": "Product Hunt",
+    "name_en": "Product Hunt",
+    "icon": "🏹",
+    "url": "https://www.producthunt.com",
+    "desc_zh": "全球最大的新产品发现平台，每日精选最新发布的科技产品和服务。创业者和产品经理必看，能第一时间发现市场趋势和创新产品。",
+    "desc_en": "The world's largest platform for discovering new products. Daily curated launches of tech products and services."
+  },
+  {
+    "name": "Indie Hackers",
+    "name_zh": "Indie Hackers 独立开发者社区",
+    "name_en": "Indie Hackers",
+    "icon": "💻",
+    "url": "https://www.indiehackers.com",
+    "desc_zh": "独立开发者和小团队创业者社区。大量真实的营收数据分享、创业故事和产品增长策略。特别适合寻找小而美、初期就盈利的产品模式。",
+    "desc_en": "Community for indie developers and small-team founders. Real revenue data, founder stories, and growth strategies."
+  },
+  {
+    "name": "Crunchbase",
+    "name_zh": "Crunchbase 创业公司数据库",
+    "name_en": "Crunchbase",
+    "icon": "📊",
+    "url": "https://www.crunchbase.com",
+    "desc_zh": "全球最全面的创业公司和投资数据库，提供融资信息、公司概况、行业分析等。可追踪公司从成立到上市的全生命周期。",
+    "desc_en": "The most comprehensive startup and investment database globally. Tracks company lifecycle from founding to IPO."
+  },
+  {
+    "name": "Exploding Topics",
+    "name_zh": "Exploding Topics 趋势发现",
+    "name_en": "Exploding Topics",
+    "icon": "📈",
+    "url": "https://explodingtopics.com",
+    "desc_zh": "通过数据分析发现还未成为主流但正在快速增长的趋势、产品和品牌。非常适合提前发现即将爆发的市场机会和消费趋势。",
+    "desc_en": "Discover rapidly growing trends, products, and brands before they go mainstream through data analysis."
+  },
+  {
+    "name": "The Information",
+    "name_zh": "The Information 科技深度报道",
+    "name_en": "The Information",
+    "icon": "📰",
+    "url": "https://www.theinformation.com",
+    "desc_zh": "高质量的科技行业深度报道，聚焦硅谷和全球科技公司的独家新闻和分析。付费订阅制，内容质量极高，很多独家信息。",
+    "desc_en": "Premium tech journalism with exclusive scoops and deep analysis on Silicon Valley and global tech companies."
+  },
+  {
+    "name": "AngelList / Wellfound",
+    "name_zh": "AngelList / Wellfound 创业人才与投资平台",
+    "name_en": "AngelList / Wellfound",
+    "icon": "👼",
+    "url": "https://wellfound.com",
+    "desc_zh": "创业公司招聘和早期投资平台。可以看到大量创业公司的团队规模、融资状态和产品方向，也能发现还在非常早期的项目。",
+    "desc_en": "Startup recruitment and early-stage investing platform. See team sizes, funding status, and product directions."
+  },
+  {
+    "name": "Starter Story",
+    "name_zh": "Starter Story 创业故事集",
+    "name_en": "Starter Story",
+    "icon": "📖",
+    "url": "https://www.starterstory.com",
+    "desc_zh": "收录了数千个真实创业故事和案例分析，涵盖各行各业。每个案例都包含营收数据、增长策略和创始人经验，非常适合找灵感和参考商业模式。",
+    "desc_en": "Thousands of real startup case studies with revenue data, growth strategies, and founder lessons across all industries."
+  },
+  {
+    "name": "Failory",
+    "name_zh": "Failory 创业成败分析",
+    "name_en": "Failory",
+    "icon": "📉",
+    "url": "https://www.failory.com",
+    "desc_zh": "专注于分析创业成功与失败案例的平台。除了失败案例，也有大量成功创业的深度访谈和盈利业务分析，视角独特有价值。",
+    "desc_en": "Platform analyzing startup successes and failures. Deep interviews and profitable business analyses with unique perspectives."
+  },
+  {
+    "name": "BetaList",
+    "name_zh": "BetaList 早期产品发现",
+    "name_en": "BetaList",
+    "icon": "🧪",
+    "url": "https://betalist.com",
+    "desc_zh": "专门收集还在beta测试阶段的新产品和创业项目，比Product Hunt更早期。能看到最前沿的产品创意和市场方向。",
+    "desc_en": "Curates products still in beta testing phase. Even earlier stage than Product Hunt, showing cutting-edge product ideas."
+  },
+  {
+    "name": "Trends.vc",
+    "name_zh": "Trends.vc 市场趋势分析",
+    "name_en": "Trends.vc",
+    "icon": "🔬",
+    "url": "https://trends.vc",
+    "desc_zh": "每周发布深度市场趋势报告，分析新兴行业的市场规模、竞争格局和机会。报告质量高，数据翔实，特别适合评估创业赛道。",
+    "desc_en": "Weekly deep-dive market trend reports analyzing market size, competition, and opportunities in emerging industries."
+  },
+  {
+    "name": "Glimpse",
+    "name_zh": "Glimpse 消费趋势追踪",
+    "name_en": "Glimpse",
+    "icon": "👁️",
+    "url": "https://meetglimpse.com",
+    "desc_zh": "通过分析搜索数据和社交媒体趋势，发现正在快速增长的消费品牌和产品类目。数据驱动，能量化趋势的增长速度。",
+    "desc_en": "Discovers fast-growing consumer brands and product categories through search data and social media trend analysis."
+  }
+]
