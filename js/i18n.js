@@ -12,11 +12,13 @@ const I18n = (() => {
       nav_fav: '我的收藏',
       lang_toggle: '显示原文',
       filter_date: '日期筛选:',
+      filter_date_toggle: '日期筛选',
       filter_apply: '应用',
       filter_clear: '清除',
       search_placeholder: '搜索公司、产品、关键词...',
       footer_text: '创业信息雷达 - 每日更新的创业生态信息聚合平台',
       footer_note: '数据仅供参考，不构成投资建议',
+      last_updated: '最后更新:',
       tab_all: '全部',
       tab_startups: '创业信息源',
       tab_ceo: 'CEO分享',
@@ -54,11 +56,13 @@ const I18n = (() => {
       nav_fav: 'Favorites',
       lang_toggle: 'Show Chinese',
       filter_date: 'Date Filter:',
+      filter_date_toggle: 'Date Filter',
       filter_apply: 'Apply',
       filter_clear: 'Clear',
       search_placeholder: 'Search companies, products, keywords...',
       footer_text: 'Startup Info Radar - Daily updated startup ecosystem intelligence',
       footer_note: 'For reference only, not investment advice',
+      last_updated: 'Last updated:',
       tab_all: 'All',
       tab_startups: 'Startup Sources',
       tab_ceo: 'CEO Talks',
@@ -128,6 +132,11 @@ const I18n = (() => {
     // Toggle original text visibility on cards
     document.querySelectorAll('.card-desc-original').forEach(el => {
       el.classList.toggle('show', showOriginal);
+    });
+
+    // Sync card-level lang toggle buttons
+    document.querySelectorAll('.card-lang-toggle').forEach(btn => {
+      btn.classList.toggle('showing-original', showOriginal);
     });
   }
 

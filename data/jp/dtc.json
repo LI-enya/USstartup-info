@@ -16,6 +16,8 @@
     "tags": ["男士美容", "极简设计", "海外扩张"],
     "founded": "2013",
     "funding": "D轮",
+    "source_url": "https://thebridge.jp",
+    "source_name": "BRIDGE",
     "date": "2026-03-15"
   },
   {
@@ -35,6 +37,8 @@
     "tags": ["AI定制", "订阅制", "个性化"],
     "founded": "2018",
     "funding": "B轮",
+    "source_url": "https://www.fastgrow.jp",
+    "source_name": "FastGrow",
     "date": "2026-03-12"
   },
   {
@@ -54,6 +58,8 @@
     "tags": ["数据驱动", "饮料", "年轻化"],
     "founded": "2019",
     "funding": "A轮",
+    "source_url": "https://signal.diamond.jp",
+    "source_name": "DIAMOND Signal",
     "date": "2026-03-08"
   },
   {
@@ -73,6 +79,8 @@
     "tags": ["健康食品", "KOL营销", "订阅制"],
     "founded": "2017",
     "funding": "盈利中",
+    "source_url": "https://newspicks.com",
+    "source_name": "NewsPicks",
     "date": "2026-03-05"
   },
   {
@@ -92,6 +100,8 @@
     "tags": ["植物成分", "设计驱动", "中端定位"],
     "founded": "2015",
     "funding": "盈利中（I-ne上市公司旗下）",
+    "source_url": "https://japan.cnet.com",
+    "source_name": "CNET Japan",
     "date": "2026-03-01"
   },
   {
@@ -111,6 +121,8 @@
     "tags": ["手工食品", "极简主义", "体验经济"],
     "founded": "2014",
     "funding": "A轮 · 盈利中",
+    "source_url": "https://www.timeout.jp",
+    "source_name": "Time Out Tokyo",
     "date": "2026-02-25"
   },
   {
@@ -130,6 +142,8 @@
     "tags": ["小众市场", "直播驱动", "社区品牌"],
     "founded": "2018",
     "funding": "A轮",
+    "source_url": "https://thebridge.jp",
+    "source_name": "BRIDGE",
     "date": "2026-02-22"
   },
   {
@@ -149,6 +163,8 @@
     "tags": ["订阅制", "健康食品", "便利消费"],
     "founded": "2018",
     "funding": "C轮",
+    "source_url": "https://signal.diamond.jp",
+    "source_name": "DIAMOND Signal",
     "date": "2026-02-18"
   },
   {
@@ -168,6 +184,8 @@
     "tags": ["和风美学", "香氛", "可持续"],
     "founded": "2019",
     "funding": "种子轮 · 盈利中",
+    "source_url": "https://www.fastgrow.jp",
+    "source_name": "FastGrow",
     "date": "2026-02-15"
   },
   {
@@ -187,6 +205,8 @@
     "tags": ["个性化", "健康生活", "社交传播"],
     "founded": "2019",
     "funding": "B轮",
+    "source_url": "https://newspicks.com",
+    "source_name": "NewsPicks",
     "date": "2026-02-10"
   }
 ]

@@ -1,5 +1,6 @@
 [
   {
+    "id": "us-src-001",
     "name": "Y Combinator Startup Directory",
     "name_zh": "Y Combinator 创业公司目录",
     "name_en": "Y Combinator Startup Directory",
@@ -9,6 +10,7 @@
     "desc_en": "Complete database of YC-backed companies. Filter by industry, batch, region. Covers companies from seed to IPO stage."
   },
   {
+    "id": "us-src-002",
     "name": "Product Hunt",
     "name_zh": "Product Hunt",
     "name_en": "Product Hunt",
@@ -18,6 +20,7 @@
     "desc_en": "The world's largest platform for discovering new products. Daily curated launches of tech products and services."
   },
   {
+    "id": "us-src-003",
     "name": "Indie Hackers",
     "name_zh": "Indie Hackers 独立开发者社区",
     "name_en": "Indie Hackers",
@@ -27,6 +30,7 @@
     "desc_en": "Community for indie developers and small-team founders. Real revenue data, founder stories, and growth strategies."
   },
   {
+    "id": "us-src-004",
     "name": "Crunchbase",
     "name_zh": "Crunchbase 创业公司数据库",
     "name_en": "Crunchbase",
@@ -36,6 +40,7 @@
     "desc_en": "The most comprehensive startup and investment database globally. Tracks company lifecycle from founding to IPO."
   },
   {
+    "id": "us-src-005",
     "name": "Exploding Topics",
     "name_zh": "Exploding Topics 趋势发现",
     "name_en": "Exploding Topics",
@@ -45,6 +50,7 @@
     "desc_en": "Discover rapidly growing trends, products, and brands before they go mainstream through data analysis."
   },
   {
+    "id": "us-src-006",
     "name": "The Information",
     "name_zh": "The Information 科技深度报道",
     "name_en": "The Information",
@@ -54,6 +60,7 @@
     "desc_en": "Premium tech journalism with exclusive scoops and deep analysis on Silicon Valley and global tech companies."
   },
   {
+    "id": "us-src-007",
     "name": "AngelList / Wellfound",
     "name_zh": "AngelList / Wellfound 创业人才与投资平台",
     "name_en": "AngelList / Wellfound",
@@ -63,6 +70,7 @@
     "desc_en": "Startup recruitment and early-stage investing platform. See team sizes, funding status, and product directions."
   },
   {
+    "id": "us-src-008",
     "name": "Starter Story",
     "name_zh": "Starter Story 创业故事集",
     "name_en": "Starter Story",
@@ -72,6 +80,7 @@
     "desc_en": "Thousands of real startup case studies with revenue data, growth strategies, and founder lessons across all industries."
   },
   {
+    "id": "us-src-009",
     "name": "Failory",
     "name_zh": "Failory 创业成败分析",
     "name_en": "Failory",
@@ -81,6 +90,7 @@
     "desc_en": "Platform analyzing startup successes and failures. Deep interviews and profitable business analyses with unique perspectives."
   },
   {
+    "id": "us-src-010",
     "name": "BetaList",
     "name_zh": "BetaList 早期产品发现",
     "name_en": "BetaList",
@@ -90,6 +100,7 @@
     "desc_en": "Curates products still in beta testing phase. Even earlier stage than Product Hunt, showing cutting-edge product ideas."
   },
   {
+    "id": "us-src-011",
     "name": "Trends.vc",
     "name_zh": "Trends.vc 市场趋势分析",
     "name_en": "Trends.vc",
@@ -99,6 +110,7 @@
     "desc_en": "Weekly deep-dive market trend reports analyzing market size, competition, and opportunities in emerging industries."
   },
   {
+    "id": "us-src-012",
     "name": "Glimpse",
     "name_zh": "Glimpse 消费趋势追踪",
     "name_en": "Glimpse",

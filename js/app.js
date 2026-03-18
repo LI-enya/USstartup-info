@@ -10,6 +10,7 @@ const App = (() => {
     bindEvents();
     handleRoute();
     window.addEventListener('hashchange', handleRoute);
+    initBackToTop();
   }
 
   function bindEvents() {
@@ -19,7 +20,14 @@ const App = (() => {
       renderCurrentPage();
     });
 
-    // Date filter
+    // Date filter toggle (mobile)
+    document.getElementById('dateToggleBtn').addEventListener('click', () => {
+      const panel = document.getElementById('dateFilterPanel');
+      panel.classList.toggle('show');
+      document.getElementById('dateToggleBtn').classList.toggle('active');
+    });
+
+    // Date filter apply
     document.getElementById('applyDateFilter').addEventListener('click', () => {
       const from = document.getElementById('dateFrom').value;
       const to = document.getElementById('dateTo').value;
@@ -27,6 +35,7 @@ const App = (() => {
       renderCurrentPage();
     });
 
+    // Date filter clear
     document.getElementById('clearDateFilter').addEventListener('click', () => {
       Filter.clearDateRange();
       renderCurrentPage();
@@ -43,6 +52,16 @@ const App = (() => {
     });
   }
 
+  function initBackToTop() {
+    const btn = document.getElementById('backToTop');
+    window.addEventListener('scroll', () => {
+      btn.classList.toggle('show', window.scrollY > 400);
+    });
+    btn.addEventListener('click', () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  }
+
   function handleRoute() {
     const hash = window.location.hash || '#/us';
     const path = hash.replace('#/', '') || 'us';
@@ -54,7 +73,7 @@ const App = (() => {
       renderMarketPage(path);
     } else if (path === 'favorites') {
       currentPage = 'favorites';
-      showFilterBar(false);
+      showFilterBar(true);
       renderFavoritesPage();
     } else {
       currentPage = 'us';
@@ -77,10 +96,23 @@ const App = (() => {
     const mainContent = document.getElementById('mainContent');
     filterBar.classList.toggle('hidden', !show);
     mainContent.classList.toggle('no-filter', !show);
+
+    // Hide tabs on favorites page but keep search/filter
+    const tabsContainer = document.getElementById('sectionTabs');
+    if (currentPage === 'favorites') {
+      tabsContainer.style.display = 'none';
+    } else {
+      tabsContainer.style.display = '';
+    }
   }
 
   function renderTabs() {
     const tabsContainer = document.getElementById('sectionTabs');
+    if (currentPage === 'favorites') {
+      tabsContainer.style.display = 'none';
+      return;
+    }
+    tabsContainer.style.display = '';
     const tabs = [
       { key: 'all', label: I18n.t('tab_all') },
       { key: 'sources', label: I18n.t('tab_startups') },
@@ -107,6 +139,15 @@ const App = (() => {
     marketData = await DataStore.loadMarketData(market);
     renderTabs();
     renderMarketContent();
+    updateLastUpdated(marketData);
+  }
+
+  function updateLastUpdated(data) {
+    const el = document.getElementById('lastUpdated');
+    const date = DataStore.getLastUpdateDate(data);
+    if (el && date) {
+      el.textContent = `${I18n.t('last_updated')} ${date}`;
+    }
   }
 
   function renderMarketContent() {
@@ -124,9 +165,10 @@ const App = (() => {
       ${Components.renderStatsBar(marketData, market)}
     `;
 
-    // Sources section
+    // Sources section (also filtered by search)
     if (currentTab === 'all' || currentTab === 'sources') {
-      html += renderSourcesSection(marketData.sources);
+      const filteredSources = Filter.applyFilters(marketData.sources);
+      html += renderSourcesSection(filteredSources, marketData.sources.length);
     }
 
     // CEO section
@@ -144,16 +186,19 @@ const App = (() => {
     main.innerHTML = html;
   }
 
-  function renderSourcesSection(sources) {
+  function renderSourcesSection(sources, total) {
+    const countText = sources.length === total ? `(${total})` : `(${sources.length}/${total})`;
     let html = `
       <div class="section-header">
-        <h2>${I18n.t('section_sources')} <span class="section-count">(${sources.length})</span></h2>
+        <h2>${I18n.t('section_sources')} <span class="section-count">${countText}</span></h2>
       </div>
       <p style="color:var(--text-secondary);font-size:14px;margin-bottom:16px;">${I18n.t('section_sources_desc')}</p>
-      <div class="info-sources-grid">
-        ${sources.map(s => Components.renderInfoSourceCard(s)).join('')}
-      </div>
     `;
+    if (sources.length === 0) {
+      html += Components.renderEmpty('search');
+    } else {
+      html += `<div class="info-sources-grid">${sources.map(s => Components.renderInfoSourceCard(s)).join('')}</div>`;
+    }
     return html;
   }
 
@@ -206,9 +251,14 @@ const App = (() => {
     }
 
     const allItems = await DataStore.getAllItems();
-    const favItems = favIds.map(id => allItems[id]).filter(Boolean);
-    const ceoItems = favItems.filter(item => item.id.includes('-ceo-'));
-    const dtcItems = favItems.filter(item => item.id.includes('-dtc-'));
+    let favItems = favIds.map(id => allItems[id]).filter(Boolean);
+
+    // Apply search filter to favorites
+    favItems = Filter.applyFilters(favItems);
+
+    const sourceItems = favItems.filter(item => (item.id || '').includes('-src-'));
+    const ceoItems = favItems.filter(item => (item.id || '').includes('-ceo-'));
+    const dtcItems = favItems.filter(item => (item.id || '').includes('-dtc-'));
 
     let html = `
       <div class="page-header fade-in">
@@ -216,6 +266,19 @@ const App = (() => {
         <p>${I18n.t('fav_desc')}</p>
       </div>
     `;
+
+    if (favItems.length === 0 && favIds.length > 0) {
+      html += Components.renderEmpty('search');
+    }
+
+    if (sourceItems.length > 0) {
+      html += `
+        <div class="fav-section">
+          <h3>${I18n.t('section_sources')} (${sourceItems.length})</h3>
+          <div class="info-sources-grid">${sourceItems.map(item => Components.renderInfoSourceCard(item)).join('')}</div>
+        </div>
+      `;
+    }
 
     if (ceoItems.length > 0) {
       html += `

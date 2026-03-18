@@ -16,6 +16,8 @@
     "tags": ["订阅制", "播客营销", "健康生活"],
     "founded": "2010",
     "funding": "B轮",
+    "source_url": "https://www.fastcompany.com",
+    "source_name": "Fast Company",
     "date": "2026-03-15"
   },
   {
@@ -35,6 +37,8 @@
     "tags": ["厨房用品", "名人代言", "社交媒体"],
     "founded": "2017",
     "funding": "盈利中",
+    "source_url": "https://www.cnbc.com",
+    "source_name": "CNBC",
     "date": "2026-03-12"
   },
   {
@@ -54,6 +58,8 @@
     "tags": ["品牌故事", "娱乐营销", "文化现象"],
     "founded": "2019",
     "funding": "D轮 · $14亿估值",
+    "source_url": "https://www.bloomberg.com",
+    "source_name": "Bloomberg",
     "date": "2026-03-10"
   },
   {
@@ -73,6 +79,8 @@
     "tags": ["硬件+订阅", "健康科技", "可穿戴"],
     "founded": "2013",
     "funding": "D轮 · $26亿估值",
+    "source_url": "https://techcrunch.com",
+    "source_name": "TechCrunch",
     "date": "2026-03-08"
   },
   {
@@ -92,6 +100,8 @@
     "tags": ["健康消费", "社交媒体", "零售扩张"],
     "founded": "2017",
     "funding": "C轮",
+    "source_url": "https://www.forbes.com",
+    "source_name": "Forbes",
     "date": "2026-03-05"
   },
   {
@@ -111,6 +121,8 @@
     "tags": ["服饰", "生活方式", "线下零售"],
     "founded": "2015",
     "funding": "软银投资 · $40亿估值",
+    "source_url": "https://www.businessinsider.com",
+    "source_name": "Business Insider",
     "date": "2026-03-02"
   },
   {
@@ -130,6 +142,8 @@
     "tags": ["食品升级", "设计驱动", "小团队盈利"],
     "founded": "2018",
     "funding": "种子轮 · 盈利中",
+    "source_url": "https://www.bonappetit.com",
+    "source_name": "Bon Appétit",
     "date": "2026-02-28"
   },
   {
@@ -149,6 +163,8 @@
     "tags": ["健康厨具", "设计感", "Instagram营销"],
     "founded": "2019",
     "funding": "A轮",
+    "source_url": "https://www.nytimes.com/wirecutter",
+    "source_name": "NY Times Wirecutter",
     "date": "2026-02-25"
   },
   {
@@ -168,6 +184,8 @@
     "tags": ["环保", "众筹成功", "可持续"],
     "founded": "2021",
     "funding": "众筹+盈利中",
+    "source_url": "https://www.theverge.com",
+    "source_name": "The Verge",
     "date": "2026-02-22"
   },
   {
@@ -187,6 +205,8 @@
     "tags": ["睡眠科技", "高客单价", "订阅制"],
     "founded": "2014",
     "funding": "D轮 · $10亿估值",
+    "source_url": "https://www.wired.com",
+    "source_name": "WIRED",
     "date": "2026-02-18"
   },
   {
@@ -206,6 +226,8 @@
     "tags": ["名厨品牌", "食品", "社交传播"],
     "founded": "2020",
     "funding": "盈利中",
+    "source_url": "https://www.eater.com",
+    "source_name": "Eater",
     "date": "2026-02-15"
   },
   {
@@ -225,6 +247,8 @@
     "tags": ["中华美食出海", "文化品牌", "零售扩张"],
     "founded": "2018",
     "funding": "A轮",
+    "source_url": "https://www.bonappetit.com",
+    "source_name": "Bon Appétit",
     "date": "2026-02-10"
   }
 ]

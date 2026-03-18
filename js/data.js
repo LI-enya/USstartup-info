@@ -7,7 +7,7 @@ const DataStore = (() => {
   async function loadJSON(path) {
     if (cache[path]) return cache[path];
     try {
-      const res = await fetch(path);
+      const res = await fetch(path, { cache: 'no-cache' });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data = await res.json();
       cache[path] = data;
@@ -28,18 +28,28 @@ const DataStore = (() => {
     return { sources, ceo, dtc };
   }
 
-  // Get all items across both markets for favorites lookup
+  // Get all items across both markets for favorites lookup (includes sources)
   async function getAllItems() {
     const [us, jp] = await Promise.all([
       loadMarketData('us'),
       loadMarketData('jp'),
     ]);
     const allItems = {};
-    [...us.ceo, ...us.dtc, ...jp.ceo, ...jp.dtc].forEach(item => {
-      allItems[item.id] = item;
+    [...us.sources, ...us.ceo, ...us.dtc, ...jp.sources, ...jp.ceo, ...jp.dtc].forEach(item => {
+      const id = item.id || item.name;
+      allItems[id] = item;
     });
     return allItems;
   }
 
-  return { loadMarketData, getAllItems };
+  // Get last update date from all data
+  function getLastUpdateDate(marketData) {
+    let latest = '';
+    [...(marketData.ceo || []), ...(marketData.dtc || [])].forEach(item => {
+      if (item.date && item.date > latest) latest = item.date;
+    });
+    return latest;
+  }
+
+  return { loadMarketData, getAllItems, getLastUpdateDate };
 })();

@@ -32,8 +32,11 @@ const Components = (() => {
   }
 
   function renderInfoSourceCard(item) {
+    const id = item.id || item.name;
+    const isFav = Favorites.isFavorited(id);
+
     return `
-      <div class="info-source-card fade-in">
+      <div class="info-source-card fade-in" data-id="${id}" data-type="source">
         <div class="info-source-icon">${item.icon || '🌐'}</div>
         <div class="info-source-content">
           <div class="info-source-name">
@@ -41,6 +44,9 @@ const Components = (() => {
           </div>
           <div class="info-source-desc">${I18n.isShowingOriginal() ? (item.desc_en || item.desc_zh) : item.desc_zh}</div>
         </div>
+        <button class="btn-icon source-fav-btn ${isFav ? 'favorited' : ''}" onclick="Components.toggleFav('${id}', this)" title="${isFav ? I18n.t('unfav_btn') : I18n.t('fav_btn')}">
+          ${isFav ? '★' : '☆'}
+        </button>
       </div>
     `;
   }
@@ -74,7 +80,7 @@ const Components = (() => {
             <div class="card-subtitle">${I18n.isShowingOriginal() ? (item.speaker_en || item.speaker) : (item.speaker_zh || item.speaker)} · ${item.company || item.company_zh || ''}</div>
           </div>
           <div class="card-actions">
-            <button class="btn-icon card-lang-toggle" onclick="Components.toggleCardLang(this)" title="${I18n.t('show_original')}">文/En</button>
+            <button class="btn-icon card-lang-toggle ${I18n.isShowingOriginal() ? 'showing-original' : ''}" onclick="Components.toggleCardLang(this)" title="${I18n.t('show_original')}">文/En</button>
             <button class="btn-icon ${isFav ? 'favorited' : ''}" onclick="Components.toggleFav('${item.id}', this)" title="${isFav ? I18n.t('unfav_btn') : I18n.t('fav_btn')}">
               ${isFav ? '★' : '☆'}
             </button>
@@ -111,7 +117,7 @@ const Components = (() => {
             <div class="card-subtitle">${I18n.isShowingOriginal() ? (item.tagline_en || item.tagline_zh || '') : (item.tagline_zh || '')}</div>
           </div>
           <div class="card-actions">
-            <button class="btn-icon card-lang-toggle" onclick="Components.toggleCardLang(this)" title="${I18n.t('show_original')}">文/En</button>
+            <button class="btn-icon card-lang-toggle ${I18n.isShowingOriginal() ? 'showing-original' : ''}" onclick="Components.toggleCardLang(this)" title="${I18n.t('show_original')}">文/En</button>
             <button class="btn-icon ${isFav ? 'favorited' : ''}" onclick="Components.toggleFav('${item.id}', this)" title="${isFav ? I18n.t('unfav_btn') : I18n.t('fav_btn')}">
               ${isFav ? '★' : '☆'}
             </button>
@@ -130,6 +136,7 @@ const Components = (() => {
           <div class="card-source">
             ${item.founded ? `成立: ${item.founded}` : ''}
             ${item.funding ? ` · ${item.funding}` : ''}
+            ${item.source_url ? ` · <a href="${item.source_url}" target="_blank" rel="noopener">${item.source_name || '来源'}</a>` : ''}
           </div>
           <div class="card-date">${item.date || ''}</div>
         </div>
@@ -139,7 +146,7 @@ const Components = (() => {
 
   // Toggle individual card language
   function toggleCardLang(btn) {
-    const card = btn.closest('.card');
+    const card = btn.closest('.card') || btn.closest('.info-source-card');
     if (!card) return;
     const originals = card.querySelectorAll('.card-desc-original');
     originals.forEach(el => el.classList.toggle('show'));

@@ -1,5 +1,6 @@
 [
   {
+    "id": "jp-src-001",
     "name": "BRIDGE (旧 The Bridge)",
     "name_zh": "BRIDGE 日本创业媒体",
     "name_en": "BRIDGE (formerly The Bridge)",
@@ -9,6 +10,7 @@
     "desc_en": "One of Japan's largest startup news outlets covering Japan and Asia's startup ecosystem. Available in English."
   },
   {
+    "id": "jp-src-002",
     "name": "TechCrunch Japan",
     "name_zh": "TechCrunch 日本版",
     "name_en": "TechCrunch Japan",
@@ -18,6 +20,7 @@
     "desc_en": "TechCrunch's Japan edition covering local and global tech startup news. Mix of translated articles and original Japanese reporting."
   },
   {
+    "id": "jp-src-003",
     "name": "INITIAL (formerly entrepedia)",
     "name_zh": "INITIAL 日本创业数据库",
     "name_en": "INITIAL (formerly entrepedia)",
@@ -27,6 +30,7 @@
     "desc_en": "Japan's Crunchbase equivalent by UB Ventures. Japanese startup funding data, company info, and industry analysis reports."
   },
   {
+    "id": "jp-src-004",
     "name": "DIAMOND Signal",
     "name_zh": "钻石Signal 创业新闻",
     "name_en": "DIAMOND Signal",
@@ -36,6 +40,7 @@
     "desc_en": "Startup channel from Japan's Diamond Inc. High-quality reporting with in-depth founder interviews. Great for growth-stage company strategies."
   },
   {
+    "id": "jp-src-005",
     "name": "FastGrow",
     "name_zh": "FastGrow 成长企业媒体",
     "name_en": "FastGrow",
@@ -45,6 +50,7 @@
     "desc_en": "Focused on fast-growing Japanese startups and business leader interviews. Deep content with CEO interviews and organizational management insights."
   },
   {
+    "id": "jp-src-006",
     "name": "CNET Japan",
     "name_zh": "CNET 日本",
     "name_en": "CNET Japan",
@@ -54,6 +60,7 @@
     "desc_en": "CNET Japan covers consumer electronics plus Japanese startup and tech news. 'Startup Features' section introduces interesting Japanese startups."
   },
   {
+    "id": "jp-src-007",
     "name": "J-Startup",
     "name_zh": "J-Startup 日本政府创业支持计划",
     "name_en": "J-Startup",
@@ -63,6 +70,7 @@
     "desc_en": "Japan's METI-led startup support program featuring ~200 Japanese startups with global potential. Official channel for government-recognized high-potential companies."
   },
   {
+    "id": "jp-src-008",
     "name": "Makuake",
     "name_zh": "Makuake 日本众筹平台",
     "name_en": "Makuake",
@@ -72,6 +80,7 @@
     "desc_en": "Japan's largest crowdfunding platform where many domestic consumer products launch. Shows what Japanese consumers want and which categories are growing."
   },
   {
+    "id": "jp-src-009",
     "name": "NewsPicks",
     "name_zh": "NewsPicks 经济新闻平台",
     "name_en": "NewsPicks",
@@ -81,6 +90,7 @@
     "desc_en": "Japan's most influential business news platform, featuring expert comments under each article. Premium members access exclusive deep dives and founder interview videos."
   },
   {
+    "id": "jp-src-010",
     "name": "IVS (Infinity Ventures Summit)",
     "name_zh": "IVS 日本创业峰会",
     "name_en": "IVS (Infinity Ventures Summit)",
