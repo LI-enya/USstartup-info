@@ -620,6 +620,62 @@ body {
   margin-top: 2px;
 }
 
+/* ============ Update Info Bar ============ */
+.update-info-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 16px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 12px 20px;
+  margin-bottom: 24px;
+}
+
+.update-info-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+}
+
+.update-icon {
+  font-size: 14px;
+}
+
+.update-label {
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+.update-value {
+  color: var(--text-secondary);
+  font-weight: 600;
+}
+
+.update-value.fresh {
+  color: var(--success);
+}
+
+.update-value.aging {
+  color: #d97706;
+}
+
+.update-value.stale {
+  color: var(--danger);
+}
+
+@media (max-width: 768px) {
+  .update-info-bar {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    padding: 10px 16px;
+  }
+}
+
 /* ============ Empty State ============ */
 .empty-state {
   text-align: center;

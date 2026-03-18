@@ -51,5 +51,22 @@ const DataStore = (() => {
     return latest;
   }
 
-  return { loadMarketData, getAllItems, getLastUpdateDate };
+  // Get update stats: latest date, earliest date, items with dates count
+  function getUpdateStats(marketData) {
+    let latest = '';
+    let earliest = '9999-99-99';
+    let datedCount = 0;
+    const allItems = [...(marketData.ceo || []), ...(marketData.dtc || [])];
+    allItems.forEach(item => {
+      if (item.date) {
+        datedCount++;
+        if (item.date > latest) latest = item.date;
+        if (item.date < earliest) earliest = item.date;
+      }
+    });
+    if (!latest) earliest = '';
+    return { latest, earliest, datedCount, totalItems: allItems.length };
+  }
+
+  return { loadMarketData, getAllItems, getLastUpdateDate, getUpdateStats };
 })();

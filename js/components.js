@@ -33,6 +33,47 @@ const Components = (() => {
     const ceo = data.ceo ? data.ceo.length : 0;
     const dtc = data.dtc ? data.dtc.length : 0;
     const total = sources + ceo + dtc;
+    const stats = DataStore.getUpdateStats(data);
+
+    let updateInfoHtml = '';
+    if (stats.latest) {
+      const now = new Date();
+      const lastDate = new Date(stats.latest);
+      const diffDays = Math.floor((now - lastDate) / (1000 * 60 * 60 * 24));
+      let freshnessClass = 'fresh';
+      let freshnessIcon = '🟢';
+      if (diffDays > 14) {
+        freshnessClass = 'stale';
+        freshnessIcon = '🔴';
+      } else if (diffDays > 7) {
+        freshnessClass = 'aging';
+        freshnessIcon = '🟡';
+      }
+
+      const daysAgoText = diffDays === 0 ? I18n.t('update_today') :
+        diffDays === 1 ? I18n.t('update_yesterday') :
+        `${diffDays} ${I18n.t('update_days_ago')}`;
+
+      updateInfoHtml = `
+        <div class="update-info-bar fade-in">
+          <div class="update-info-item">
+            <span class="update-icon">${freshnessIcon}</span>
+            <span class="update-label">${I18n.t('update_last')}:</span>
+            <span class="update-value ${freshnessClass}">${stats.latest} (${daysAgoText})</span>
+          </div>
+          <div class="update-info-item">
+            <span class="update-icon">📅</span>
+            <span class="update-label">${I18n.t('update_range')}:</span>
+            <span class="update-value">${stats.earliest} ~ ${stats.latest}</span>
+          </div>
+          <div class="update-info-item">
+            <span class="update-icon">🔄</span>
+            <span class="update-label">${I18n.t('update_freq_label')}:</span>
+            <span class="update-value">${I18n.t('update_freq_value')}</span>
+          </div>
+        </div>
+      `;
+    }
 
     return `
       <div class="stats-banner fade-in">
@@ -53,6 +94,7 @@ const Components = (() => {
           <div class="stat-label">${I18n.t('stat_dtc')}</div>
         </div>
       </div>
+      ${updateInfoHtml}
     `;
   }
 

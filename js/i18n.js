@@ -48,6 +48,13 @@ const I18n = (() => {
       stat_sources: '信息源',
       stat_ceo: 'CEO内容',
       stat_dtc: 'DTC品牌',
+      update_last: '最近更新',
+      update_range: '数据覆盖',
+      update_freq_label: '更新频率',
+      update_freq_value: '每周更新',
+      update_today: '今天',
+      update_yesterday: '昨天',
+      update_days_ago: '天前',
     },
     en: {
       logo: 'Startup Info Radar',
@@ -92,6 +99,13 @@ const I18n = (() => {
       stat_sources: 'Sources',
       stat_ceo: 'CEO Content',
       stat_dtc: 'DTC Brands',
+      update_last: 'Last Update',
+      update_range: 'Data Range',
+      update_freq_label: 'Frequency',
+      update_freq_value: 'Weekly updates',
+      update_today: 'today',
+      update_yesterday: 'yesterday',
+      update_days_ago: 'days ago',
     }
   };
 
