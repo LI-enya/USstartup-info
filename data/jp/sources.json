@@ -4,99 +4,119 @@
     "name": "BRIDGE (旧 The Bridge)",
     "name_zh": "BRIDGE 日本创业媒体",
     "name_en": "BRIDGE (formerly The Bridge)",
+    "name_ja": "BRIDGE（旧 The Bridge）",
     "icon": "🌉",
     "url": "https://thebridge.jp",
     "desc_zh": "日本最大的创业新闻媒体之一，报道日本和亚洲的创业生态。有英文版本，覆盖融资、产品发布、行业趋势等。适合追踪日本创业公司的最新动态。",
-    "desc_en": "One of Japan's largest startup news outlets covering Japan and Asia's startup ecosystem. Available in English."
+    "desc_en": "One of Japan's largest startup news outlets covering Japan and Asia's startup ecosystem. Available in English.",
+    "desc_ja": "日本とアジアのスタートアップ・エコシステムを幅広くカバーする国内最大級のスタートアップメディア。資金調達、プロダクトローンチ、業界トレンドなどを網羅し、英語版も提供。日本のスタートアップの最新動向を追うのに最適。"
   },
   {
     "id": "jp-src-002",
     "name": "TechCrunch Japan",
     "name_zh": "TechCrunch 日本版",
     "name_en": "TechCrunch Japan",
+    "name_ja": "TechCrunch Japan",
     "icon": "📱",
     "url": "https://jp.techcrunch.com",
     "desc_zh": "TechCrunch的日本版本，报道日本本地和全球的科技创业新闻。翻译文章和原创日本报道兼有，是了解日本科技创业最方便的中转站。",
-    "desc_en": "TechCrunch's Japan edition covering local and global tech startup news. Mix of translated articles and original Japanese reporting."
+    "desc_en": "TechCrunch's Japan edition covering local and global tech startup news. Mix of translated articles and original Japanese reporting.",
+    "desc_ja": "米国TechCrunchの日本版として、国内外のテックスタートアップニュースを配信。本家記事の翻訳に加え、日本独自の取材記事も充実しており、国内テックスタートアップ情報の入り口として重宝する。"
   },
   {
     "id": "jp-src-003",
     "name": "INITIAL (formerly entrepedia)",
     "name_zh": "INITIAL 日本创业数据库",
     "name_en": "INITIAL (formerly entrepedia)",
+    "name_ja": "INITIAL（旧 entrepedia）",
     "icon": "📊",
     "url": "https://initial.inc",
     "desc_zh": "日本版Crunchbase，由UB Ventures运营。提供日本创业公司的融资数据、公司信息和行业分析报告。数据最全面的日本创业数据库，有部分英文内容。",
-    "desc_en": "Japan's Crunchbase equivalent by UB Ventures. Japanese startup funding data, company info, and industry analysis reports."
+    "desc_en": "Japan's Crunchbase equivalent by UB Ventures. Japanese startup funding data, company info, and industry analysis reports.",
+    "desc_ja": "ユーザベース傘下のスタートアップデータベースで、国内スタートアップの資金調達データ、企業情報、業界分析レポートを提供。日本のスタートアップデータベースとしては最も網羅性が高く、投資家・起業家の必携ツール。"
   },
   {
     "id": "jp-src-004",
     "name": "DIAMOND Signal",
     "name_zh": "钻石Signal 创业新闻",
     "name_en": "DIAMOND Signal",
+    "name_ja": "ダイヤモンド・シグナル",
     "icon": "💎",
     "url": "https://signal.diamond.jp",
     "desc_zh": "日本老牌商业媒体钻石社旗下的创业频道，报道质量高，深度访谈多。特别适合了解日本成长期公司的创始人思考和商业战略。",
-    "desc_en": "Startup channel from Japan's Diamond Inc. High-quality reporting with in-depth founder interviews. Great for growth-stage company strategies."
+    "desc_en": "Startup channel from Japan's Diamond Inc. High-quality reporting with in-depth founder interviews. Great for growth-stage company strategies.",
+    "desc_ja": "老舗ビジネスメディア・ダイヤモンド社が運営するスタートアップ専門チャンネル。取材の質が高く、創業者への深掘りインタビューが豊富。成長フェーズにある企業の経営戦略や起業家の思考に迫る記事が読み応えあり。"
   },
   {
     "id": "jp-src-005",
     "name": "FastGrow",
     "name_zh": "FastGrow 成长企业媒体",
     "name_en": "FastGrow",
+    "name_ja": "FastGrow",
     "icon": "🌱",
     "url": "https://www.fastgrow.jp",
     "desc_zh": "专注于报道日本快速成长的创业公司和商业领袖的访谈。内容偏深度，有大量的CEO访谈和组织管理分享，适合了解日本创业者的思考方式。",
-    "desc_en": "Focused on fast-growing Japanese startups and business leader interviews. Deep content with CEO interviews and organizational management insights."
+    "desc_en": "Focused on fast-growing Japanese startups and business leader interviews. Deep content with CEO interviews and organizational management insights.",
+    "desc_ja": "急成長スタートアップやビジネスリーダーへのインタビューに特化したメディア。CEOの経営哲学や組織づくりに関する記事が多く、日本の起業家がどのような考え方で事業を推進しているかを深く理解できる。"
   },
   {
     "id": "jp-src-006",
     "name": "CNET Japan",
     "name_zh": "CNET 日本",
     "name_en": "CNET Japan",
+    "name_ja": "CNET Japan",
     "icon": "🔌",
     "url": "https://japan.cnet.com",
     "desc_zh": "CNET日本版，除了消费电子还报道大量日本创业和科技新闻。'创业公司特集'栏目经常介绍有趣的日本初创公司和新产品。",
-    "desc_en": "CNET Japan covers consumer electronics plus Japanese startup and tech news. 'Startup Features' section introduces interesting Japanese startups."
+    "desc_en": "CNET Japan covers consumer electronics plus Japanese startup and tech news. 'Startup Features' section introduces interesting Japanese startups.",
+    "desc_ja": "米国CNETの日本版で、コンシューマエレクトロニクスに加えてスタートアップやテック関連のニュースも幅広くカバー。「スタートアップ特集」コーナーでは注目の国内スタートアップや新プロダクトが紹介されている。"
   },
   {
     "id": "jp-src-007",
     "name": "J-Startup",
     "name_zh": "J-Startup 日本政府创业支持计划",
     "name_en": "J-Startup",
+    "name_ja": "J-Startup",
     "icon": "🇯🇵",
     "url": "https://www.j-startup.go.jp",
     "desc_zh": "日本经济产业省(METI)主导的创业支持计划，精选了约200家有全球化潜力的日本创业公司。是了解日本政府认可的高潜力公司的官方渠道。",
-    "desc_en": "Japan's METI-led startup support program featuring ~200 Japanese startups with global potential. Official channel for government-recognized high-potential companies."
+    "desc_en": "Japan's METI-led startup support program featuring ~200 Japanese startups with global potential. Official channel for government-recognized high-potential companies.",
+    "desc_ja": "経済産業省が主導するスタートアップ育成支援プログラム。グローバル展開のポテンシャルを持つ国内スタートアップ約200社を選定し、海外展開や官民連携を支援。政府が認定する有望スタートアップを把握できる公式チャンネル。"
   },
   {
     "id": "jp-src-008",
     "name": "Makuake",
     "name_zh": "Makuake 日本众筹平台",
     "name_en": "Makuake",
+    "name_ja": "Makuake（マクアケ）",
     "icon": "🎯",
     "url": "https://www.makuake.com",
     "desc_zh": "日本最大的众筹平台，大量日本本土消费品和创新产品在这里首发。可以看到日本消费者对什么新产品感兴趣，以及哪些品类正在快速增长。比Kickstarter更适合了解日本本土消费趋势。",
-    "desc_en": "Japan's largest crowdfunding platform where many domestic consumer products launch. Shows what Japanese consumers want and which categories are growing."
+    "desc_en": "Japan's largest crowdfunding platform where many domestic consumer products launch. Shows what Japanese consumers want and which categories are growing.",
+    "desc_ja": "国内最大級のクラウドファンディングプラットフォームで、多くの国産消費財や革新的プロダクトがここから世に出る。日本の消費者がどんな新商品に関心を持ち、どのカテゴリが伸びているかをリアルタイムで把握でき、国内消費トレンドの先読みに役立つ。"
   },
   {
     "id": "jp-src-009",
     "name": "NewsPicks",
     "name_zh": "NewsPicks 经济新闻平台",
     "name_en": "NewsPicks",
+    "name_ja": "NewsPicks（ニューズピックス）",
     "icon": "📋",
     "url": "https://newspicks.com",
     "desc_zh": "日本最有影响力的经济新闻平台，特色是每条新闻下面都有行业专家的评论和讨论。付费会员可以看到大量独家深度报道和创业者访谈视频。",
-    "desc_en": "Japan's most influential business news platform, featuring expert comments under each article. Premium members access exclusive deep dives and founder interview videos."
+    "desc_en": "Japan's most influential business news platform, featuring expert comments under each article. Premium members access exclusive deep dives and founder interview videos.",
+    "desc_ja": "国内で最も影響力のある経済ニュースプラットフォーム。各記事に業界の専門家やプロピッカーのコメントが付く独自の仕組みが特徴。有料会員向けには独自の深掘り特集や起業家インタビュー動画も豊富に揃う。"
   },
   {
     "id": "jp-src-010",
     "name": "IVS (Infinity Ventures Summit)",
     "name_zh": "IVS 日本创业峰会",
     "name_en": "IVS (Infinity Ventures Summit)",
+    "name_ja": "IVS（インフィニティ・ベンチャーズ・サミット）",
     "icon": "🏔️",
     "url": "https://www.ivs.events",
     "desc_zh": "日本最具影响力的创业峰会之一，每年举办的Launch Pad创业比赛是发现日本新兴创业公司的绝佳窗口。会议内容和参赛公司信息通常在网站上公开。",
-    "desc_en": "One of Japan's most influential startup summits. Annual Launch Pad startup competition is a great window into emerging Japanese startups."
+    "desc_en": "One of Japan's most influential startup summits. Annual Launch Pad startup competition is a great window into emerging Japanese startups.",
+    "desc_ja": "日本を代表するスタートアップカンファレンスの一つ。毎年開催されるピッチコンテスト「LaunchPad」は、次世代の注目スタートアップを発掘する場として業界内で高い注目を集めており、登壇企業の情報はサイト上で公開されている。"
   }
 ]

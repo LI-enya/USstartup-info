@@ -3,6 +3,31 @@
  */
 const Components = (() => {
 
+  // Helper: get original text field (prefer _ja for JP items, _en for US items)
+  function orig(item, field) {
+    return item[field + '_ja'] || item[field + '_en'] || item[field + '_zh'] || item[field] || '';
+  }
+
+  // Helper: get Chinese text field
+  function zh(item, field) {
+    return item[field + '_zh'] || item[field] || '';
+  }
+
+  // Helper: get display text based on language toggle
+  function localized(item, field) {
+    return I18n.isShowingOriginal() ? orig(item, field) : zh(item, field);
+  }
+
+  // Helper: detect if item is from JP market
+  function isJP(item) {
+    return (item.id || '').startsWith('jp-');
+  }
+
+  // Helper: get card lang toggle label
+  function langLabel(item) {
+    return isJP(item) ? '中/日' : '中/En';
+  }
+
   function renderStatsBar(data, market) {
     const sources = data.sources ? data.sources.length : 0;
     const ceo = data.ceo ? data.ceo.length : 0;
@@ -40,9 +65,9 @@ const Components = (() => {
         <div class="info-source-icon">${item.icon || '🌐'}</div>
         <div class="info-source-content">
           <div class="info-source-name">
-            <a href="${item.url}" target="_blank" rel="noopener">${I18n.isShowingOriginal() ? (item.name_en || item.name) : (item.name_zh || item.name)}</a>
+            <a href="${item.url}" target="_blank" rel="noopener">${localized(item, 'name')}</a>
           </div>
-          <div class="info-source-desc">${I18n.isShowingOriginal() ? (item.desc_en || item.desc_zh) : item.desc_zh}</div>
+          <div class="info-source-desc">${localized(item, 'desc')}</div>
         </div>
         <button class="btn-icon source-fav-btn ${isFav ? 'favorited' : ''}" onclick="Components.toggleFav('${id}', this)" title="${isFav ? I18n.t('unfav_btn') : I18n.t('fav_btn')}">
           ${isFav ? '★' : '☆'}
@@ -75,24 +100,24 @@ const Components = (() => {
               <span class="content-type-badge ${badgeClass}">${typeLabel}</span>
             </div>
             <div style="font-size:15px;font-weight:600;margin-top:6px;">
-              ${I18n.isShowingOriginal() ? (item.title_en || item.title_zh) : item.title_zh}
+              ${localized(item, 'title')}
             </div>
-            <div class="card-subtitle">${I18n.isShowingOriginal() ? (item.speaker_en || item.speaker) : (item.speaker_zh || item.speaker)} · ${item.company || item.company_zh || ''}</div>
+            <div class="card-subtitle">${localized(item, 'speaker')} · ${item.company || item.company_zh || ''}</div>
           </div>
           <div class="card-actions">
-            <button class="btn-icon card-lang-toggle ${I18n.isShowingOriginal() ? 'showing-original' : ''}" onclick="Components.toggleCardLang(this)" title="${I18n.t('show_original')}">文/En</button>
+            <button class="btn-icon card-lang-toggle ${I18n.isShowingOriginal() ? 'showing-original' : ''}" onclick="Components.toggleCardLang(this)" title="${I18n.t('show_original')}">${langLabel(item)}</button>
             <button class="btn-icon ${isFav ? 'favorited' : ''}" onclick="Components.toggleFav('${item.id}', this)" title="${isFav ? I18n.t('unfav_btn') : I18n.t('fav_btn')}">
               ${isFav ? '★' : '☆'}
             </button>
           </div>
         </div>
         <div class="card-body">
-          <div class="card-desc">${item.desc_zh}</div>
-          <div class="card-desc-original ${I18n.isShowingOriginal() ? 'show' : ''}">${item.desc_en || ''}</div>
+          <div class="card-desc">${zh(item, 'desc')}</div>
+          <div class="card-desc-original ${I18n.isShowingOriginal() ? 'show' : ''}">${orig(item, 'desc')}</div>
         </div>
         <div class="card-tags">
           ${(item.tags || []).map(tag => `<span class="tag tag-ceo">${tag}</span>`).join('')}
-          ${item.market_zh ? `<span class="tag tag-market">${I18n.isShowingOriginal() ? (item.market_en || item.market_zh) : item.market_zh}</span>` : ''}
+          ${item.market_zh ? `<span class="tag tag-market">${localized(item, 'market')}</span>` : ''}
         </div>
         <div class="card-footer">
           <div class="card-source">
@@ -112,24 +137,24 @@ const Components = (() => {
         <div class="card-header">
           <div class="card-title-area">
             <div class="card-title">
-              <a href="${item.url || '#'}" target="_blank" rel="noopener">${I18n.isShowingOriginal() ? (item.name_en || item.name) : (item.name_zh || item.name)}</a>
+              <a href="${item.url || '#'}" target="_blank" rel="noopener">${localized(item, 'name')}</a>
             </div>
-            <div class="card-subtitle">${I18n.isShowingOriginal() ? (item.tagline_en || item.tagline_zh || '') : (item.tagline_zh || '')}</div>
+            <div class="card-subtitle">${localized(item, 'tagline')}</div>
           </div>
           <div class="card-actions">
-            <button class="btn-icon card-lang-toggle ${I18n.isShowingOriginal() ? 'showing-original' : ''}" onclick="Components.toggleCardLang(this)" title="${I18n.t('show_original')}">文/En</button>
+            <button class="btn-icon card-lang-toggle ${I18n.isShowingOriginal() ? 'showing-original' : ''}" onclick="Components.toggleCardLang(this)" title="${I18n.t('show_original')}">${langLabel(item)}</button>
             <button class="btn-icon ${isFav ? 'favorited' : ''}" onclick="Components.toggleFav('${item.id}', this)" title="${isFav ? I18n.t('unfav_btn') : I18n.t('fav_btn')}">
               ${isFav ? '★' : '☆'}
             </button>
           </div>
         </div>
         <div class="card-body">
-          <div class="card-desc">${I18n.isShowingOriginal() ? (item.desc_en || item.desc_zh) : item.desc_zh}</div>
-          <div class="card-desc-original ${I18n.isShowingOriginal() ? 'show' : ''}">${item.desc_en || ''}</div>
+          <div class="card-desc">${zh(item, 'desc')}</div>
+          <div class="card-desc-original ${I18n.isShowingOriginal() ? 'show' : ''}">${orig(item, 'desc')}</div>
         </div>
         <div class="card-tags">
-          ${item.category_zh ? `<span class="tag tag-category">${I18n.isShowingOriginal() ? (item.category_en || item.category_zh) : item.category_zh}</span>` : ''}
-          ${item.market_zh ? `<span class="tag tag-market">${I18n.isShowingOriginal() ? (item.market_en || item.market_zh) : item.market_zh}</span>` : ''}
+          ${item.category_zh ? `<span class="tag tag-category">${localized(item, 'category')}</span>` : ''}
+          ${item.market_zh ? `<span class="tag tag-market">${localized(item, 'market')}</span>` : ''}
           ${(item.tags || []).map(tag => `<span class="tag tag-dtc">${tag}</span>`).join('')}
         </div>
         <div class="card-footer">

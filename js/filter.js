@@ -44,15 +44,16 @@ const Filter = (() => {
   function matchesSearch(item) {
     if (!searchQuery) return true;
     const fields = [
-      item.name, item.name_zh, item.name_en,
-      item.desc_zh, item.desc_en,
+      item.name, item.name_zh, item.name_en, item.name_ja,
+      item.desc_zh, item.desc_en, item.desc_ja,
       item.product_zh, item.product_en,
       item.company, item.company_zh,
-      item.category, item.category_zh,
-      item.market, item.market_zh,
+      item.category, item.category_zh, item.category_ja,
+      item.market, item.market_zh, item.market_ja,
       item.tags ? item.tags.join(' ') : '',
-      item.speaker, item.speaker_zh,
-      item.title_zh, item.title_en,
+      item.speaker, item.speaker_zh, item.speaker_ja,
+      item.title_zh, item.title_en, item.title_ja,
+      item.tagline_zh, item.tagline_en, item.tagline_ja,
     ].filter(Boolean).join(' ').toLowerCase();
     return fields.includes(searchQuery);
   }
