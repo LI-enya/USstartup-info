@@ -8,14 +8,23 @@ const Components = (() => {
     return item[field + '_ja'] || item[field + '_en'] || item[field + '_zh'] || item[field] || '';
   }
 
-  // Helper: get Chinese text field
+  // Helper: get Chinese text field (falls back to original if no Chinese exists)
   function zh(item, field) {
-    return item[field + '_zh'] || item[field] || '';
+    const zhText = item[field + '_zh'];
+    if (zhText) return zhText;
+    // No Chinese translation: fall back to original
+    return orig(item, field);
+  }
+
+  // Helper: check if item has a real Chinese translation for a field
+  function hasZh(item, field) {
+    return !!(item[field + '_zh']);
   }
 
   // Helper: get display text based on language toggle
   function localized(item, field) {
-    return I18n.isShowingOriginal() ? orig(item, field) : zh(item, field);
+    if (I18n.isShowingOriginal()) return orig(item, field);
+    return zh(item, field);
   }
 
   // Helper: detect if item is from JP market
@@ -147,7 +156,7 @@ const Components = (() => {
             <div class="card-subtitle">${localized(item, 'speaker')} · ${item.company || item.company_zh || ''}</div>
           </div>
           <div class="card-actions">
-            <button class="btn-icon card-lang-toggle ${I18n.isShowingOriginal() ? 'showing-original' : ''}" onclick="Components.toggleCardLang(this)" title="${I18n.t('show_original')}">${langLabel(item)}</button>
+            ${hasZh(item, 'desc') ? `<button class="btn-icon card-lang-toggle ${I18n.isShowingOriginal() ? 'showing-original' : ''}" onclick="Components.toggleCardLang(this)" title="${I18n.t('show_original')}">${langLabel(item)}</button>` : ''}
             <button class="btn-icon ${isFav ? 'favorited' : ''}" onclick="Components.toggleFav('${item.id}', this)" title="${isFav ? I18n.t('unfav_btn') : I18n.t('fav_btn')}">
               ${isFav ? '★' : '☆'}
             </button>
@@ -155,7 +164,7 @@ const Components = (() => {
         </div>
         <div class="card-body">
           <div class="card-desc">${zh(item, 'desc')}</div>
-          <div class="card-desc-original ${I18n.isShowingOriginal() ? 'show' : ''}">${orig(item, 'desc')}</div>
+          ${hasZh(item, 'desc') ? `<div class="card-desc-original ${I18n.isShowingOriginal() ? 'show' : ''}">${orig(item, 'desc')}</div>` : ''}
         </div>
         <div class="card-tags">
           ${(item.tags || []).map(tag => `<span class="tag tag-ceo">${tag}</span>`).join('')}
@@ -184,7 +193,7 @@ const Components = (() => {
             <div class="card-subtitle">${localized(item, 'tagline')}</div>
           </div>
           <div class="card-actions">
-            <button class="btn-icon card-lang-toggle ${I18n.isShowingOriginal() ? 'showing-original' : ''}" onclick="Components.toggleCardLang(this)" title="${I18n.t('show_original')}">${langLabel(item)}</button>
+            ${hasZh(item, 'desc') ? `<button class="btn-icon card-lang-toggle ${I18n.isShowingOriginal() ? 'showing-original' : ''}" onclick="Components.toggleCardLang(this)" title="${I18n.t('show_original')}">${langLabel(item)}</button>` : ''}
             <button class="btn-icon ${isFav ? 'favorited' : ''}" onclick="Components.toggleFav('${item.id}', this)" title="${isFav ? I18n.t('unfav_btn') : I18n.t('fav_btn')}">
               ${isFav ? '★' : '☆'}
             </button>
@@ -192,7 +201,7 @@ const Components = (() => {
         </div>
         <div class="card-body">
           <div class="card-desc">${zh(item, 'desc')}</div>
-          <div class="card-desc-original ${I18n.isShowingOriginal() ? 'show' : ''}">${orig(item, 'desc')}</div>
+          ${hasZh(item, 'desc') ? `<div class="card-desc-original ${I18n.isShowingOriginal() ? 'show' : ''}">${orig(item, 'desc')}</div>` : ''}
         </div>
         <div class="card-tags">
           ${item.category_zh ? `<span class="tag tag-category">${localized(item, 'category')}</span>` : ''}

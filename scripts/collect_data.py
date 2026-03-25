@@ -287,18 +287,20 @@ def collect_ceo_entries(market):
             # Extract speaker/company from title using common patterns
             speaker, company = extract_speaker_company(entry["title"])
 
+            desc_text = entry["description"][:300] if entry["description"] else entry["title"]
+
             new_entry = {
                 "id": generate_id(f"{market}-ceo", entry["title"], entry["url"]),
                 "type": "article",
-                "title_zh": entry["title"],  # Keep original, no auto-translation
+                "title_zh": "",  # Empty = no Chinese translation, UI will fall back to original
                 "title_en": entry["title"],
                 "speaker": speaker,
                 "speaker_zh": speaker,
                 "speaker_en": speaker,
                 "company": company,
                 "company_zh": company,
-                "desc_zh": entry["description"][:300] if entry["description"] else entry["title"],
-                "desc_en": entry["description"][:300] if entry["description"] else entry["title"],
+                "desc_zh": "",  # Empty = no Chinese translation
+                "desc_en": desc_text,
                 "tags": extract_tags(entry["title"] + " " + entry["description"]),
                 "market_zh": "北美" if market == "us" else "日本",
                 "market_en": "North America" if market == "us" else "Japan",
@@ -307,12 +309,14 @@ def collect_ceo_entries(market):
                 "source_name": source["name"],
             }
 
-            # Add Japanese fields for JP market
+            # For JP market, original text goes to _ja fields, _zh stays empty
             if market == "jp":
                 new_entry["title_ja"] = entry["title"]
+                new_entry["title_en"] = ""
                 new_entry["speaker_ja"] = speaker
                 new_entry["company_ja"] = company
-                new_entry["desc_ja"] = entry["description"][:300] if entry["description"] else entry["title"]
+                new_entry["desc_ja"] = desc_text
+                new_entry["desc_en"] = ""
                 new_entry["market_ja"] = "日本"
 
             new_entries.append(new_entry)
@@ -350,16 +354,18 @@ def collect_dtc_entries(market):
             # Extract brand name from title
             brand_name = extract_brand_name(entry["title"])
 
+            desc_text = entry["description"][:300] if entry["description"] else entry["title"]
+
             new_entry = {
                 "id": generate_id(f"{market}-dtc", entry["title"], entry["url"]),
                 "name": brand_name,
-                "name_zh": brand_name,
+                "name_zh": "",  # Empty = no Chinese translation
                 "name_en": brand_name,
-                "tagline_zh": entry["title"][:60],
+                "tagline_zh": "",
                 "tagline_en": entry["title"][:60],
                 "url": entry["url"],
-                "desc_zh": entry["description"][:300] if entry["description"] else entry["title"],
-                "desc_en": entry["description"][:300] if entry["description"] else entry["title"],
+                "desc_zh": "",  # Empty = no Chinese translation
+                "desc_en": desc_text,
                 "category_zh": "DTC品牌",
                 "category_en": "DTC Brand",
                 "market_zh": "美国" if market == "us" else "日本",
@@ -374,8 +380,11 @@ def collect_dtc_entries(market):
 
             if market == "jp":
                 new_entry["name_ja"] = brand_name
+                new_entry["name_en"] = ""
                 new_entry["tagline_ja"] = entry["title"][:60]
-                new_entry["desc_ja"] = entry["description"][:300] if entry["description"] else entry["title"]
+                new_entry["tagline_en"] = ""
+                new_entry["desc_ja"] = desc_text
+                new_entry["desc_en"] = ""
                 new_entry["category_ja"] = "DTCブランド"
                 new_entry["market_ja"] = "日本"
 
@@ -443,8 +452,14 @@ def load_existing_data(filepath):
         return []
 
 
+def has_chinese(item):
+    """Check if item has real Chinese translations (hand-curated)."""
+    return bool(item.get("title_zh") or item.get("name_zh"))
+
+
 def merge_entries(existing, new_entries, max_items=20):
-    """Merge new entries into existing, avoiding duplicates by URL. Keep max_items."""
+    """Merge new entries into existing, avoiding duplicates by URL.
+    Keep max_items total, but always preserve hand-curated entries (with Chinese)."""
     existing_urls = {item.get("source_url", item.get("url", "")) for item in existing}
     existing_ids = {item.get("id", "") for item in existing}
 
@@ -459,12 +474,20 @@ def merge_entries(existing, new_entries, max_items=20):
         existing_urls.add(entry_url)
         added += 1
 
-    # Sort by date (newest first) and trim
-    existing.sort(key=lambda x: x.get("date", ""), reverse=True)
-    if len(existing) > max_items:
-        existing = existing[:max_items]
+    # Split into curated (with Chinese) and auto-collected
+    curated = [e for e in existing if has_chinese(e)]
+    auto = [e for e in existing if not has_chinese(e)]
 
-    return existing, added
+    # Sort auto by date (newest first), keep all curated
+    auto.sort(key=lambda x: x.get("date", ""), reverse=True)
+    remaining_slots = max(max_items - len(curated), 0)
+    auto = auto[:remaining_slots]
+
+    # Merge back: curated first by date, then auto by date
+    result = curated + auto
+    result.sort(key=lambda x: x.get("date", ""), reverse=True)
+
+    return result, added
 
 
 def save_data(filepath, data):
