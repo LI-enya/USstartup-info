@@ -1,5 +1,90 @@
 [
   {
+    "id": "us-ceo-719ee99a",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Conntour uses AI models to let security teams query camera feeds using natural language to find any object, person, or situation.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-03-26",
+    "source_url": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-ff9598e7",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Why hiring the weirdos works",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "When you’re building at breakneck speed, hiring a trusted team is crucial for an early-stage startup. Bland CEO and co-founder Isaiah Granet has tactical advice on how the company managed to find hidden talent in unlikely places.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-03-26",
+    "source_url": "https://techcrunch.com/2026/03/26/why-hiring-the-weirdos-works/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-07d941eb",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Defense startup Shield AI lands $12.7B valuation, up 140%, after US Air Force deal",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "In one year, Shield AI's value has leaped 140%. This after it won a contract to be the software provider to Anduril's Fury fighter jet for the U.S. Air Force.",
+    "tags": [
+      "AI",
+      "funding"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-03-26",
+    "source_url": "https://techcrunch.com/2026/03/26/defense-startup-shield-ai-lands-12-7b-valuation-up-140-after-u-s-air-force-deal/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-0a535a6d",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "16 of the most interesting startups from YC W26 Demo Day",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "From redirecting doomscrolling to training humanoid robots, these 16 startups stood out as the most interesting ones from an overflowing YC cohort.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-03-26",
+    "source_url": "https://techcrunch.com/2026/03/26/16-of-the-most-interesting-startups-from-yc-w26-demo-day/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-16190d53",
     "type": "article",
     "title_zh": "",
@@ -164,92 +249,6 @@
     "market_en": "North America",
     "date": "2026-03-25",
     "source_url": "https://techcrunch.com/2026/03/24/a-former-thiel-fellows-startup-just-launched-a-drone-it-says-can-replace-police-helicopters/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-17eb0db5",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Insight Partners scrubs investment post about Delve amid ‘fake compliance’ allegations",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "After a whistleblower alleged that the startup fabricated audit evidence, its prominent Series A investor removed an article detailing why it led the deal.",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-03-24",
-    "source_url": "https://techcrunch.com/2026/03/23/insight-partners-scrubs-investment-post-amid-fake-compliance-allegations/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-16cb9fb6",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Doss raises $55M for AI inventory management that plugs into ERP",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Doss's AI-powered inventory management system integrates with existing ERP systems. The Series B round was co-led by Madrona and Premji Invest.",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-03-24",
-    "source_url": "https://techcrunch.com/2026/03/24/doss-raises-55m-for-ai-inventory-management-that-plugs-into-erp/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-71a27577",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "BKR Capital raises $14.5M (so far) to  invest in Black founders",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "BKR Capital announced Monday that its Fund II closed $20 million Canadian toward its $50 million target.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-03-24",
-    "source_url": "https://techcrunch.com/2026/03/24/bkr-capital-raises-14-5m-so-far-to-invest-in-black-founders/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-1a8dc973",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Databricks bought two startups to underpin its new AI security product",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "With an overflowing war chest from its recent $5 billion raise, Databricks is buying startups and looking for more. It acquired Antimatter and SiftD.ai.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-03-24",
-    "source_url": "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/",
     "source_name": "TechCrunch"
   },
   {
