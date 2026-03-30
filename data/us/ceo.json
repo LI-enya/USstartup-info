@@ -167,6 +167,47 @@
     "source_name": "TechCrunch"
   },
   {
+    "id": "us-ceo-4ee32878",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Harvey confirms $11B valuation: Sequoia triples down",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Investors like Sequoia, Andreessen Horowitz,  Kleiner Perkins, and Elad Gil can't get enough of AI legal tech startup Harvey.",
+    "tags": [
+      "AI",
+      "funding"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-03-25",
+    "source_url": "https://techcrunch.com/2026/03/25/harvey-confirms-11b-valuation-sequoia-triples-down/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-24c7e71f",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Riding the GLP-1 boom, VITL lands $7.5M to overhaul cash-pay clinic prescribing",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "The startup provides an e-prescribing marketplace for the booming cash-pay clinic market.",
+    "tags": [],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-03-25",
+    "source_url": "https://techcrunch.com/2026/03/25/riding-the-glp-1-boom-vitl-lands-7-5m-to-overhaul-cash-pay-clinic-prescribing/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-fd63062d",
     "type": "article",
     "title_zh": "",
@@ -206,50 +247,6 @@
     "market_en": "North America",
     "date": "2026-03-25",
     "source_url": "https://techcrunch.com/2026/03/25/arinna-4-million-seed-round-solar-energy-space-power-problem/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-14dad5ee",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Harbinger’s next product will be hybrid emergency vehicles",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "The young California startup is already building RVs, FedEx vans, and box trucks. Now its hybrid powertrain will underpin ambulances and mobile healthcare units.",
-    "tags": [
-      "AI",
-      "health"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-03-25",
-    "source_url": "https://techcrunch.com/2026/03/25/harbingers-next-product-will-be-hybrid-emergency-vehicles/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-bedd3765",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "After pivoting, Y Combinator grad Glimpse raises $35M led by a16z",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Glimpse announced on Wednesday a $35 million Series A led by Andreessen Horowitz, with participation from 8VC and YC.",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-03-25",
-    "source_url": "https://techcrunch.com/2026/03/25/a16z-backed-glimpse-raises-new-funds-accelerates-dispute-tracking-automation-for-cpg-brands/",
     "source_name": "TechCrunch"
   },
   {
