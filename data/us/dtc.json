@@ -1,5 +1,29 @@
 [
   {
+    "id": "us-dtc-569cfb4d",
+    "name": "RealReal CMO Samantha",
+    "name_zh": "",
+    "name_en": "RealReal CMO Samantha",
+    "tagline_zh": "",
+    "tagline_en": "The RealReal CMO Samantha McCandless on resale math, vintage",
+    "url": "https://www.modernretail.co/marketing/the-realreal-cmo-samantha-mccandless-on-resale-math-vintage-bulgari-and-her-go-to-sneakers/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "desc_zh": "",
+    "desc_en": "In the latest installment of \"What's in Your Cart,\" The RealReal's Chief Merchandising Officer, Samantha McCandless, shares her personal shopping habits with Modern Retail, including her resale shopping strategy.",
+    "category_zh": "DTC品牌",
+    "category_en": "DTC Brand",
+    "market_zh": "美国",
+    "market_en": "United States",
+    "tags": [
+      "AI",
+      "e-commerce"
+    ],
+    "founded": "",
+    "funding": "",
+    "source_url": "https://www.modernretail.co/marketing/the-realreal-cmo-samantha-mccandless-on-resale-math-vintage-bulgari-and-her-go-to-sneakers/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "source_name": "Modern Retail",
+    "date": "2026-04-06"
+  },
+  {
     "id": "us-dtc-7173f36c",
     "name": "Modern Retail Podcast:",
     "name_zh": "",
@@ -254,30 +278,6 @@
     "founded": "",
     "funding": "",
     "source_url": "https://www.retaildive.com/news/aerie-real-pamela-anderson-campaign-against-ai-advertising/815942/",
-    "source_name": "Retail Dive",
-    "date": "2026-03-31"
-  },
-  {
-    "id": "us-dtc-52d50be2",
-    "name": "Macy’s introduces AI-powered",
-    "name_zh": "",
-    "name_en": "Macy’s introduces AI-powered",
-    "tagline_zh": "",
-    "tagline_en": "Macy’s introduces AI-powered shopping assistant",
-    "url": "https://www.retaildive.com/news/ask-macys-AI-conversational-shopping-assistant/815928/",
-    "desc_zh": "",
-    "desc_en": "After an initial dark launch, Ask Macy’s helps users discover brands and receive personalized product recommendations.",
-    "category_zh": "DTC品牌",
-    "category_en": "DTC Brand",
-    "market_zh": "美国",
-    "market_en": "United States",
-    "tags": [
-      "AI",
-      "e-commerce"
-    ],
-    "founded": "",
-    "funding": "",
-    "source_url": "https://www.retaildive.com/news/ask-macys-AI-conversational-shopping-assistant/815928/",
     "source_name": "Retail Dive",
     "date": "2026-03-31"
   },

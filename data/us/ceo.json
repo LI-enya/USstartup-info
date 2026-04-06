@@ -1,5 +1,26 @@
 [
   {
+    "id": "us-ceo-23dd2f2d",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Anthropic’s $1B to $19B growth run: how Claude became the fastest-growing AI product in history | Amol Avasare",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Listen now | Anthropic’s Head of Growth on scaling from $1B to $19B ARR in 14 months through big bets, intentional onboarding friction, deep focus, and CASH—an internal AI system for autonomous growth experiments",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-04-05",
+    "source_url": "https://www.lennysnewsletter.com/p/anthropics-1b-to-19b-growth-run",
+    "source_name": "Lenny's Podcast"
+  },
+  {
     "id": "us-ceo-1ed2bd92",
     "type": "article",
     "title_zh": "",
@@ -183,67 +204,47 @@
     "source_name": "TechCrunch"
   },
   {
-    "id": "us-ceo-0fefa6dc",
+    "id": "us-ceo-4b5efa1e",
     "type": "article",
     "title_zh": "",
-    "title_en": "Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups",
+    "title_en": "Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
     "speaker": "",
     "speaker_zh": "",
     "speaker_en": "",
     "company": "",
     "company_zh": "",
     "desc_zh": "",
-    "desc_en": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
+    "desc_en": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
     "tags": [
-      "AI"
+      "AI",
+      "crypto"
     ],
     "market_zh": "北美",
     "market_en": "North America",
     "date": "2026-03-31",
-    "source_url": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
+    "source_url": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
     "source_name": "TechCrunch"
   },
   {
-    "id": "us-ceo-41ac76c4",
+    "id": "us-ceo-9d3d7604",
     "type": "article",
     "title_zh": "",
-    "title_en": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
+    "title_en": "It’s not your imagination: AI seed startups are commanding higher valuations",
     "speaker": "",
     "speaker_zh": "",
     "speaker_en": "",
     "company": "",
     "company_zh": "",
     "desc_zh": "",
-    "desc_en": "The company turns footage from robots into structured, searchable datasets with a deep learning model.",
+    "desc_en": "Among the most recent Y Combinator cohort, many startups were commanding $40 million valuations. But with more money comes higher expectations.",
     "tags": [
-      "AI"
+      "AI",
+      "funding"
     ],
     "market_zh": "北美",
     "market_en": "North America",
     "date": "2026-03-31",
-    "source_url": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-b9232621",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Whoop’s valuation just tripled to $10 billion",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "The fitness tracking startup just closed a $575 million Series G with Cristiano Ronaldo and LeBron James among its investors. The obvious question looming over a round of this size at this valuation: Is an IPO coming?",
-    "tags": [
-      "funding",
-      "IPO"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-03-31",
-    "source_url": "https://techcrunch.com/2026/03/31/whoop-valuation-10b-series-g-fundraise/",
+    "source_url": "https://techcrunch.com/2026/03/31/its-not-your-imagination-ai-seed-startups-are-commanding-higher-valuations/",
     "source_name": "TechCrunch"
   },
   {
