@@ -1,5 +1,68 @@
 [
   {
+    "id": "us-ceo-bbae182b",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Hermeus raises $350M to build unmanned hypersonic fighters",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "The defense aviation startup is coming off two successful flight demonstrations, and with the next one, it's aiming to go supersonic.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-04-07",
+    "source_url": "https://techcrunch.com/2026/04/07/hermeus-raises-350m-to-build-unmanned-hypersonic-fighters/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-c5183da1",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "VC Eclipse has a new $1.3B fund to back — and build — ‘physical AI’ startups",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Eclipse will put some of that money towards incubating, or building startups.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-04-07",
+    "source_url": "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-b2f0e18b",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "I can’t help rooting for tiny open source AI model maker Arcee",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Arcee is a tiny 26-person U.S. startup that built a high-performing, massive, open source LLM. And it's gaining popularity with OpenClaw users.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-04-07",
+    "source_url": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-750fdf9f",
     "type": "article",
     "title_zh": "",
@@ -182,68 +245,6 @@
     "market_en": "North America",
     "date": "2026-04-03",
     "source_url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-d6ec9c22",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Diverse teams start with diverse VCs",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "It is the path of least resistance for a growth-stage company to hire from the familiar Silicon Valley pipelines but if a founder wants a diverse team, that value has to be put into practice from the very first hire.",
-    "tags": [],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-04-02",
-    "source_url": "https://techcrunch.com/2026/04/02/diverse-teams-start-with-diverse-vcs/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-b3a23fd4",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Startup funding shatters all records in Q1",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "The record quarterly fundraise largely fueled four mega-deals into  OpenAI, Anthropic, xAI, and Waymo. But it also indicates a generally hot market.",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-04-01",
-    "source_url": "https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-e5fd45f2",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "The reputation of troubled YC startup Delve has gotten even worse",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Delve faces new allegations that it violated the open source license of its customer, Sim.ai, by taking the customers's tool and passing it off as its own.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-04-01",
-    "source_url": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
     "source_name": "TechCrunch"
   },
   {
