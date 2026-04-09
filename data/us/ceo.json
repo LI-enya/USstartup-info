@@ -1,5 +1,26 @@
 [
   {
+    "id": "us-ceo-42ad4d5e",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Databricks co-founder wins prestigious ACM award, says ‘AGI is here already’",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Matei Zaharia has won the top honor from the Association for Computing Machinery. Now he's working on AI for research and says AGI is simply misunderstood.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-04-08",
+    "source_url": "https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-bbae182b",
     "type": "article",
     "title_zh": "",
@@ -224,28 +245,6 @@
     "date": "2026-04-04",
     "source_url": "https://www.lennysnewsletter.com/p/community-wisdom-evaluating-startup",
     "source_name": "Lenny's Podcast"
-  },
-  {
-    "id": "us-ceo-2fad973a",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
-    "tags": [
-      "AI",
-      "health"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-04-03",
-    "source_url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
-    "source_name": "TechCrunch"
   },
   {
     "id": "us-ceo-005",
