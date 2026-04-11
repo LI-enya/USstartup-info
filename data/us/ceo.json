@@ -1,5 +1,49 @@
 [
   {
+    "id": "us-ceo-9047693f",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Every fusion startup that has raised over $100M",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+    "tags": [
+      "AI",
+      "funding"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-04-10",
+    "source_url": "https://techcrunch.com/2026/04/10/every-fusion-startup-that-has-raised-over-100m/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-f094d63a",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software revolution, deep dives into cyber defense and climate tech, and candid conversations about how AI i",
+    "tags": [
+      "AI",
+      "climate"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-04-10",
+    "source_url": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-c28c360a",
     "type": "article",
     "title_zh": "",
@@ -198,48 +242,6 @@
     "market_en": "North America",
     "date": "2026-04-07",
     "source_url": "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-b2f0e18b",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "I can’t help rooting for tiny open source AI model maker Arcee",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Arcee is a tiny 26-person U.S. startup that built a high-performing, massive, open source LLM. And it's gaining popularity with OpenClaw users.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-04-07",
-    "source_url": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-750fdf9f",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-04-07",
-    "source_url": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
     "source_name": "TechCrunch"
   },
   {
