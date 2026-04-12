@@ -1,5 +1,29 @@
 [
   {
+    "id": "us-dtc-60d7dd9c",
+    "name": "Modern Retail Podcast:",
+    "name_zh": "",
+    "name_en": "Modern Retail Podcast:",
+    "tagline_zh": "",
+    "tagline_en": "Modern Retail Podcast: Has the latest sneaker bubble officia",
+    "url": "https://www.modernretail.co/podcasts/modern-retail-podcast-has-the-latest-sneaker-bubble-officially-burst/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "desc_zh": "",
+    "desc_en": "Allbirds' downward trajectory is indicative of how fierce the sneaker competition has become, as newer and legacy players vie for market share. This week's episode of the Modern Retail Podcast digs into the state of the sneaker market, looking at which players are up and which ones are down.",
+    "category_zh": "DTC品牌",
+    "category_en": "DTC Brand",
+    "market_zh": "美国",
+    "market_en": "United States",
+    "tags": [
+      "AI",
+      "e-commerce"
+    ],
+    "founded": "",
+    "funding": "",
+    "source_url": "https://www.modernretail.co/podcasts/modern-retail-podcast-has-the-latest-sneaker-bubble-officially-burst/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "source_name": "Modern Retail",
+    "date": "2026-04-11"
+  },
+  {
     "id": "us-dtc-21aae9b4",
     "name": "Wacoal America CEO",
     "name_zh": "",
@@ -247,30 +271,6 @@
     "source_url": "https://www.modernretail.co/marketing/google-says-its-ai-powered-ads-help-some-brands-lift-online-sales-by-80/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
     "source_name": "Modern Retail",
     "date": "2026-04-07"
-  },
-  {
-    "id": "us-dtc-0725fe3d",
-    "name": "From carrier-centric to",
-    "name_zh": "",
-    "name_en": "From carrier-centric to",
-    "tagline_zh": "",
-    "tagline_en": "From carrier-centric to customer-centric: How SmartKargo is ",
-    "url": "https://www.retaildive.com/spons/from-carrier-centric-to-customer-centric-how-smartkargo-is-helping-ecommer/816608/",
-    "desc_zh": "",
-    "desc_en": "Parcel delivery now shapes customer experience. Rising fees and delays push retailers toward airline-powered models for speed, visibility and predictable costs.",
-    "category_zh": "DTC品牌",
-    "category_en": "DTC Brand",
-    "market_zh": "美国",
-    "market_en": "United States",
-    "tags": [
-      "AI",
-      "e-commerce"
-    ],
-    "founded": "",
-    "funding": "",
-    "source_url": "https://www.retaildive.com/spons/from-carrier-centric-to-customer-centric-how-smartkargo-is-helping-ecommer/816608/",
-    "source_name": "Retail Dive",
-    "date": "2026-04-06"
   },
   {
     "id": "us-dtc-005",
