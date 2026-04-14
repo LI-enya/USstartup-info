@@ -1,5 +1,32 @@
 [
   {
+    "id": "jp-ceo-e789d941",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "",
+    "tags": [
+      "AI",
+      "funding"
+    ],
+    "market_zh": "日本",
+    "market_en": "Japan",
+    "date": "2026-04-14",
+    "source_url": "https://www.fastgrow.jp/articles/finance-sideview-syslea",
+    "source_name": "FastGrow",
+    "title_ja": "「入力」という負債に終止符を──営業の生産性をAIネイティブで解放、6.1億円調達の株式会社SYSLEAが描く次世代CRMとは",
+    "speaker_ja": "",
+    "company_ja": "",
+    "desc_ja": "重要なのは、調達額の大きさ？バリュエーション？ラウンド？いやいや、スタートアップの資金調達とは、もっと奥深く、緻密で複雑なものである。\n\nFastGrow編集部では、調達リリースを見るたび、その裏側について思いを巡らせ、その後のビジョンについて予測や仮説立てをしてきた。そのために知りたい情報を、ぜひ外部向けにも記事としてまとめてみよう──そんな想いで始まったこの連載。\n\n今回は、2026年3月に6.1億円の資金調達を発表した株式会社SYSLEAについて、その「横顔」をまとめる。",
+    "market_ja": "日本"
+  },
+  {
     "id": "jp-ceo-3a6cb782",
     "type": "article",
     "title_zh": "",
@@ -301,33 +328,6 @@
     "speaker_ja": "",
     "company_ja": "",
     "desc_ja": "商社・製造業の発注最適化サービスを提供する LEAN PATH は24日、 East Ventures 、ユナイテッドの2社より、シードラウンドで資金調達を実施したことを公表した。調達額は非公開。今回の資金調達により、発 […]",
-    "market_ja": "日本"
-  },
-  {
-    "id": "jp-ceo-ebad5c28",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "日本",
-    "market_en": "Japan",
-    "date": "2026-03-25",
-    "source_url": "https://thebridge.jp/2026/03/the-chain-museum-artsticker-raises-funding-from-nomura-real-estate",
-    "source_name": "BRIDGE",
-    "title_ja": "The Chain Museum、野村不動産らから資金調達を実施——ArtSticker のプロダクト開発を加速",
-    "speaker_ja": "",
-    "company_ja": "",
-    "desc_ja": "アート・コミュニケーションプラットフォーム「ArtSticker」を運営する The Chain Museum は24日、事業拡大に向けた資金調達を実施したことを公表した。野村不動産を引受先とする第三者割当増資と、りそな […]",
     "market_ja": "日本"
   },
   {
