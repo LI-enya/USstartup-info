@@ -1,5 +1,31 @@
 [
   {
+    "id": "jp-ceo-1c19ea87",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "",
+    "tags": [
+      "funding"
+    ],
+    "market_zh": "日本",
+    "market_en": "Japan",
+    "date": "2026-04-15",
+    "source_url": "https://www.fastgrow.jp/articles/finance-sideview-bluefieldenergy",
+    "source_name": "FastGrow",
+    "title_ja": "「20兆円の巨大レガシー」に挑む──大手電力を動かす“実力派”集団、シード6.6億円調達のBluefield Energyが描くエネルギーDXの「勝算」とは",
+    "speaker_ja": "",
+    "company_ja": "",
+    "desc_ja": "重要なのは、調達額の大きさ？バリュエーション？ラウンド？いやいや、スタートアップの資金調達とは、もっと奥深く、緻密で複雑なものである。\n\nFastGrow編集部では、調達リリースを見るたび、その裏側について思いを巡らせ、その後のビジョンについて予測や仮説立てをしてきた。そのために知りたい情報を、ぜひ外部向けにも記事としてまとめてみよう──そんな想いで始まったこの連載。\n\n今回は、2026年2月に6.6億円の資金調達を発表したBluefield Energy株式会社について、その「横顔」をまとめる。",
+    "market_ja": "日本"
+  },
+  {
     "id": "jp-ceo-e789d941",
     "type": "article",
     "title_zh": "",
@@ -302,32 +328,6 @@
     "speaker_ja": "",
     "company_ja": "",
     "desc_ja": "ファインワインの売買・管理プラットフォームを運営する WineBank は24日、シリーズ A ラウンドで3.6億円超の資金調達を実施したと発表した。内訳は第三者割当増資による1.6億円超のエクイティと、みずほ銀行からの […]",
-    "market_ja": "日本"
-  },
-  {
-    "id": "jp-ceo-0347ee16",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "",
-    "tags": [
-      "funding"
-    ],
-    "market_zh": "日本",
-    "market_en": "Japan",
-    "date": "2026-03-25",
-    "source_url": "https://thebridge.jp/2026/03/lean-path-raises-seed-funding-for-supply-chain-optimization",
-    "source_name": "BRIDGE",
-    "title_ja": "LEAN PATH、シードラウンドで資金調達を実施——商社・製造業向け発注最適化サービスを開発",
-    "speaker_ja": "",
-    "company_ja": "",
-    "desc_ja": "商社・製造業の発注最適化サービスを提供する LEAN PATH は24日、 East Ventures 、ユナイテッドの2社より、シードラウンドで資金調達を実施したことを公表した。調達額は非公開。今回の資金調達により、発 […]",
     "market_ja": "日本"
   },
   {
