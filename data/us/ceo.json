@@ -1,5 +1,45 @@
 [
   {
+    "id": "us-ceo-5c6c2abd",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "The 12-month window",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-04-19",
+    "source_url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-3b978a12",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Why half of product managers are in trouble | Nikhyl Singhal (Meta, Google)",
+    "speaker": "Nikhyl Singhal",
+    "speaker_zh": "Nikhyl Singhal",
+    "speaker_en": "Nikhyl Singhal",
+    "company": "Meta, Google",
+    "company_zh": "Meta, Google",
+    "desc_zh": "",
+    "desc_en": "Listen now | Nikhyl Singhal on why half of product managers are at risk, how to cross the reinvention threshold, and why the next two years will be chaotic for PMs",
+    "tags": [],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-04-19",
+    "source_url": "https://www.lennysnewsletter.com/p/why-half-of-product-managers-are-in-trouble",
+    "source_name": "Lenny's Podcast"
+  },
+  {
     "id": "us-ceo-5c803a9c",
     "type": "article",
     "title_zh": "",
@@ -210,49 +250,6 @@
     "market_en": "North America",
     "date": "2026-04-15",
     "source_url": "https://techcrunch.com/podcast/the-musician-turned-biotech-founder-waiting-to-fundraise/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-4d7b3421",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "AI learning app Gizmo levels up with 13M users and a $22M investment",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-04-15",
-    "source_url": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-00aa36b4",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-04-15",
-    "source_url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
     "source_name": "TechCrunch"
   },
   {
