@@ -1,5 +1,29 @@
 [
   {
+    "id": "jp-ceo-35fb9af1",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "",
+    "tags": [],
+    "market_zh": "日本",
+    "market_en": "Japan",
+    "date": "2026-04-24",
+    "source_url": "https://www.fastgrow.jp/articles/cxo-grit-shopline-oyama",
+    "source_name": "FastGrow",
+    "title_ja": "アリババ最高峰ポストを捨て、泥臭い「アジア進出支援」に狂う──SHOPLINE Japan・大山代表が仕掛ける越境ECの正体",
+    "speaker_ja": "",
+    "company_ja": "",
+    "desc_ja": "「電車を待つ時間も、タクシーを待つ1分30秒も、一切無駄にしない。音声メッセージで次々と指示を出し続けているんです」──BizDevメンバーの宮内氏は、SHOPLINE Japan代表・大山廣貴氏のことをそう語る。\n\nその猛烈なスピード感の源流は、アリババ中国本社での経験だ。倍率300倍超のグローバルエリート養成コースを突破し、外国人として異例の最上位クラスまで昇り詰めた大山氏は、「入社説明会でいきなり『待っているのは地獄だ』と脅されました」と振り返る。それを聞いて、逆に燃え上がった男だ。\nしかし大山氏は、その「超絶待遇」のキャリアをあっさりと手放した。次に選んだ戦場は、日本の中小企業のアジア",
+    "market_ja": "日本"
+  },
+  {
     "id": "jp-ceo-1c19ea87",
     "type": "article",
     "title_zh": "",
@@ -302,32 +326,6 @@
     "speaker_ja": "",
     "company_ja": "",
     "desc_ja": "「あの会社の急成長は、なぜ実現できたのか？」その答えは、最前線で事業の課題と格闘し、成果を出し続けている「ベンチャーキーパーソン」の仕事術に隠されています。\n\n本連載では、スタートアップやベンチャー企業が事業を伸ばす上で避けて通れない具体的な「業務の壁」を、彼ら/彼女たちがどう乗り越えてきたのかを徹底解剖。\n\n日々の業務ですぐに役立つ実践的なノウハウ、困難な意思決定を支えた思考プロセス、そしてリアルな成功と失敗の事例、そこから得たノウハウを、ご本人たちの言葉で共有する。（掲載希望企業はこちらのフォームからご回答ください。）\n\n彼ら/彼女たちの生きた経験は、あなた自身の課題解決のヒントとなり、ス",
-    "market_ja": "日本"
-  },
-  {
-    "id": "jp-ceo-e0bb4ea1",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "",
-    "tags": [
-      "funding"
-    ],
-    "market_zh": "日本",
-    "market_en": "Japan",
-    "date": "2026-03-25",
-    "source_url": "https://thebridge.jp/2026/03/winebank-raises-follow-on-funding-from-hirac-fund",
-    "source_name": "BRIDGE",
-    "title_ja": "WineBank、シリーズAで3.6億円超を調達——ファインワイン売買プラットフォームの流通基盤拡大へ",
-    "speaker_ja": "",
-    "company_ja": "",
-    "desc_ja": "ファインワインの売買・管理プラットフォームを運営する WineBank は24日、シリーズ A ラウンドで3.6億円超の資金調達を実施したと発表した。内訳は第三者割当増資による1.6億円超のエクイティと、みずほ銀行からの […]",
     "market_ja": "日本"
   },
   {
