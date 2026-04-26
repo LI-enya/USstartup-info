@@ -1,5 +1,29 @@
 [
   {
+    "id": "us-dtc-6a5e9b71",
+    "name": "Modern Retail Podcast:",
+    "name_zh": "",
+    "name_en": "Modern Retail Podcast:",
+    "tagline_zh": "",
+    "tagline_en": "Modern Retail Podcast: What it takes to build a true lifesty",
+    "url": "https://www.modernretail.co/operations/modern-retail-podcast-what-it-takes-to-build-a-true-lifestyle-brand/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "desc_zh": "",
+    "desc_en": "The latest episode of the Modern Retail Podcast — recorded live at the Modern Retail Marketing Summit in Huntington Beach, California — gets into what it means to be a lifestyle brand, featuring Mandy Fry of Z Supply.",
+    "category_zh": "DTC品牌",
+    "category_en": "DTC Brand",
+    "market_zh": "美国",
+    "market_en": "United States",
+    "tags": [
+      "AI",
+      "e-commerce"
+    ],
+    "founded": "",
+    "funding": "",
+    "source_url": "https://www.modernretail.co/operations/modern-retail-podcast-what-it-takes-to-build-a-true-lifestyle-brand/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "source_name": "Modern Retail",
+    "date": "2026-04-25"
+  },
+  {
     "id": "us-dtc-e6a86d3b",
     "name": "Retail just lost",
     "name_zh": "",
@@ -256,27 +280,6 @@
     "founded": "",
     "funding": "",
     "source_url": "https://www.retaildive.com/news/amazon-allegedly-pushed-vendors-to-set-higher-prices-at-target-walmart/818045/",
-    "source_name": "Retail Dive",
-    "date": "2026-04-21"
-  },
-  {
-    "id": "us-dtc-5357cd05",
-    "name": "Vuori taps Rothy’s",
-    "name_zh": "",
-    "name_en": "Vuori taps Rothy’s",
-    "tagline_zh": "",
-    "tagline_en": "Vuori taps Rothy’s exec for first product chief",
-    "url": "https://www.retaildive.com/news/vuori-rothys-exec-heather-archibald-chief-product-officer/817821/",
-    "desc_zh": "",
-    "desc_en": "Heather Archibald, who has also held roles at RH and Gap Inc., will oversee design, merchandising and sourcing for the brand.",
-    "category_zh": "DTC品牌",
-    "category_en": "DTC Brand",
-    "market_zh": "美国",
-    "market_en": "United States",
-    "tags": [],
-    "founded": "",
-    "funding": "",
-    "source_url": "https://www.retaildive.com/news/vuori-rothys-exec-heather-archibald-chief-product-officer/817821/",
     "source_name": "Retail Dive",
     "date": "2026-04-21"
   },
