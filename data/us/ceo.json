@@ -1,5 +1,24 @@
 [
   {
+    "id": "us-ceo-80022454",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Snapchat CEO: Why distribution has become the most important moat | Evan Spiegel",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Listen now | Snap's co-founder on why only two consumer apps broke through in 15 years, how every major Snapchat feature was cloned, why hardware is the only real moat, and why distribution beats product",
+    "tags": [],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-04-26",
+    "source_url": "https://www.lennysnewsletter.com/p/snapchat-ceo-why-distribution-is",
+    "source_name": "Lenny's Podcast"
+  },
+  {
     "id": "us-ceo-bd81a7f4",
     "type": "article",
     "title_zh": "",
@@ -142,6 +161,27 @@
     "source_name": "TechCrunch"
   },
   {
+    "id": "us-ceo-55f0a870",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "How Anthropic’s product team moves faster than anyone else | Cat Wu (Head of Product, Claude Code)",
+    "speaker": "Cat Wu",
+    "speaker_zh": "Cat Wu",
+    "speaker_en": "Cat Wu",
+    "company": "Head of Product, Claude Code",
+    "company_zh": "Head of Product, Claude Code",
+    "desc_zh": "",
+    "desc_en": "Listen now | Head of Product for Claude Code on how AI is changing the PM role, building products before the model is ready, inside Claude Code's launch room process, and why speed now matters more than strategy",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-04-23",
+    "source_url": "https://www.lennysnewsletter.com/p/how-anthropics-product-team-moves",
+    "source_name": "Lenny's Podcast"
+  },
+  {
     "id": "us-ceo-cf1b4cb5",
     "type": "article",
     "title_zh": "",
@@ -200,48 +240,6 @@
     "market_en": "North America",
     "date": "2026-04-23",
     "source_url": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-c42efd7d",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Don’t stop hiring humans — stop hiring the wrong humans, Artisan’s founder says",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Artisan may be known for their bold “Stop Hiring Humans” campaign but the reality is every founder needs to assemble the right team if they want to scale.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-04-23",
-    "source_url": "https://techcrunch.com/2026/04/23/dont-stop-hiring-humans-stop-hiring-the-wrong-humans-artisans-founder-says/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-34f31fcd",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-04-23",
-    "source_url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
     "source_name": "TechCrunch"
   },
   {
