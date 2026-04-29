@@ -1,5 +1,43 @@
 [
   {
+    "id": "us-ceo-de335bff",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "BCI startup Neurable looks to license its ‘mind-reading’ tech for consumer wearables",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "The startup specializes in \"non-invasive\" \"mind-reading\" tech — a kind of neural data collection that, its CEO hopes, will have all sorts of consumer applications.",
+    "tags": [],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-04-28",
+    "source_url": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-2513809f",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Founder of Shark Tank-backed startup Scholly sues his acquirer Sallie Mae",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Chris Gray is suing his startup’s acquirer, Sallie Mae, for wrongful termination and alleging it's selling student data through a subsidiary. Sallie Mae denies the allegations and vows to fight.",
+    "tags": [],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-04-28",
+    "source_url": "https://techcrunch.com/2026/04/28/founder-of-shark-tank-backed-startup-scholly-sues-his-acquirer-sallie-mae/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-c830c846",
     "type": "article",
     "title_zh": "",
@@ -198,48 +236,6 @@
     "market_en": "North America",
     "date": "2026-04-24",
     "source_url": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-c42efd7d",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Don’t stop hiring humans — stop hiring the wrong humans, Artisan’s founder says",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Artisan may be known for their bold “Stop Hiring Humans” campaign but the reality is every founder needs to assemble the right team if they want to scale.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-04-23",
-    "source_url": "https://techcrunch.com/2026/04/23/dont-stop-hiring-humans-stop-hiring-the-wrong-humans-artisans-founder-says/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-34f31fcd",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-04-23",
-    "source_url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
     "source_name": "TechCrunch"
   },
   {
