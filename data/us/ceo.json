@@ -1,5 +1,47 @@
 [
   {
+    "id": "us-ceo-6c7f1fab",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Beyond Lovable and Mistral: 21 European startups to watch",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "It is not that European startups never get attention — Lovable and Mistral AI are proof of that. But there are many more that insiders are tracking.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-05-02",
+    "source_url": "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-ab590a00",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "🧠 Community Wisdom: Claude Code tips for ADHD users, resources for managing up, going from corporate to startup, tiring of being your company’s AI evangelist, and more",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Community Wisdom 184",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-05-02",
+    "source_url": "https://www.lennysnewsletter.com/p/community-wisdom-claude-code-tips",
+    "source_name": "Lenny's Podcast"
+  },
+  {
     "id": "us-ceo-1d9d8cdb",
     "type": "article",
     "title_zh": "",
@@ -213,46 +255,6 @@
     "date": "2026-04-28",
     "source_url": "https://techcrunch.com/2026/04/28/founder-of-shark-tank-backed-startup-scholly-sues-his-acquirer-sallie-mae/",
     "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-c830c846",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-04-27",
-    "source_url": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-e0b04794",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "From a $6.90 newsletter to $3M API: How a non-coder built Memelord | Jason Levin",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Listen now | 🎙️Jason Levin (CEO of Memelord) shows how he built a $100K ARR meme company without coding—plus why every marketer should vibe code and how agents are becoming his primary users",
-    "tags": [],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-04-27",
-    "source_url": "https://www.lennysnewsletter.com/p/from-a-690-newsletter-to-3m-api-how",
-    "source_name": "Lenny's Podcast"
   },
   {
     "id": "us-ceo-005",
