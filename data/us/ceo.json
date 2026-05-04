@@ -1,5 +1,47 @@
 [
   {
+    "id": "us-ceo-086c414d",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "‘This is fine’ creator says AI startup stole his art",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-05-03",
+    "source_url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-f20a4ba5",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Why cultivating agency matters more than cultivating skills in the AI era | Max Schoening (Head of Product, Notion)",
+    "speaker": "Max Schoening",
+    "speaker_zh": "Max Schoening",
+    "speaker_en": "Max Schoening",
+    "company": "Head of Product, Notion",
+    "company_zh": "Head of Product, Notion",
+    "desc_zh": "",
+    "desc_en": "Notion’s design and product lead on why agency beats skills in the AI era, why vibe coding made more software but not better software, and how Notion ships with “drive it like it’s stolen”",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-05-03",
+    "source_url": "https://www.lennysnewsletter.com/p/why-cultivating-agency-matters-more",
+    "source_name": "Lenny's Podcast"
+  },
+  {
     "id": "us-ceo-6c7f1fab",
     "type": "article",
     "title_zh": "",
@@ -216,44 +258,6 @@
     "market_en": "North America",
     "date": "2026-04-29",
     "source_url": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-de335bff",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "BCI startup Neurable looks to license its ‘mind-reading’ tech for consumer wearables",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "The startup specializes in \"non-invasive\" \"mind-reading\" tech — a kind of neural data collection that, its CEO hopes, will have all sorts of consumer applications.",
-    "tags": [],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-04-28",
-    "source_url": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-2513809f",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Founder of Shark Tank-backed startup Scholly sues his acquirer Sallie Mae",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Chris Gray is suing his startup’s acquirer, Sallie Mae, for wrongful termination and alleging it's selling student data through a subsidiary. Sallie Mae denies the allegations and vows to fight.",
-    "tags": [],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-04-28",
-    "source_url": "https://techcrunch.com/2026/04/28/founder-of-shark-tank-backed-startup-scholly-sues-his-acquirer-sallie-mae/",
     "source_name": "TechCrunch"
   },
   {
