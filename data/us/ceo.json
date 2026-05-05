@@ -1,5 +1,70 @@
 [
   {
+    "id": "us-ceo-66db92af",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Katie Haun raises $1B for new venture funds",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Katie Haun announced on Monday that $1 billion has been raised across new funds to continue the firm’s thesis of backing crypto and blockchain startups.",
+    "tags": [
+      "AI",
+      "crypto",
+      "funding"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-05-04",
+    "source_url": "https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-7418eb5a",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "The internal AI tool that’s transforming how Stripe designs products | Owen Williams",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Watch now | 🎙️ Owen Williams (Stripe) shows how he vibe coded Protodash, the internal tool that turns Stripe’s design system into clickable prototypes in two minutes",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-05-04",
+    "source_url": "https://www.lennysnewsletter.com/p/the-internal-ai-tool-thats-transforming",
+    "source_name": "Lenny's Podcast"
+  },
+  {
+    "id": "us-ceo-99ce32c8",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "🎙️ This week on How I AI: The internal AI tool that’s transforming how Stripe designs products",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-05-04",
+    "source_url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-the-internal",
+    "source_name": "Lenny's Podcast"
+  },
+  {
     "id": "us-ceo-086c414d",
     "type": "article",
     "title_zh": "",
@@ -193,71 +258,6 @@
     "market_en": "North America",
     "date": "2026-04-30",
     "source_url": "https://techcrunch.com/2026/04/30/y-combinator-alum-skio-sells-for-105m-cash-only-raised-8m-founder-says/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-f538bb19",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Firestorm Labs raises $82M to take drone factories into the field",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines.",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-04-29",
-    "source_url": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-cf4d06f9",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Bill Gurley, Jack Altman back startup Pursuit, which helps companies sell to government",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "On Wednesday, Pursuit announced a $22 million Series A round led by Mike Rosengarten, the co-founder of OpenGov, with big-name VCs participating.",
-    "tags": [
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-04-29",
-    "source_url": "https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-b41ecde0",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Parallel Web Systems hits $2B valuation five months after its last big raise",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million.",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-04-29",
-    "source_url": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
     "source_name": "TechCrunch"
   },
   {
