@@ -1,5 +1,112 @@
 [
   {
+    "id": "us-ceo-9272c169",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing complex tasks.",
+    "tags": [
+      "AI",
+      "funding"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-05-06",
+    "source_url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-b0d4554c",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "DeepSeek could hit $45B valuation from its first investment round",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic.",
+    "tags": [
+      "AI",
+      "funding"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-05-06",
+    "source_url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-06b72942",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Insurance startup Corgi hits $1.3B valuation 4 months after its Series A",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Corgi announced on Wednesday a $160 million Series B, led by TCV, valuing the startup at $1.3 billion.",
+    "tags": [
+      "funding"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-05-06",
+    "source_url": "https://techcrunch.com/2026/05/06/insurance-startup-corgi-hits-1-3b-valuation-4-months-after-its-series-a/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-f6fc00f4",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "The investment comes as Pronto scales to 26,000 daily bookings and the market heads toward a potential $18 billion size.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-05-06",
+    "source_url": "https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-a674f0a8",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Quests, token leaderboards, and a skills marketplace: The elite AI adoption playbook | John Kim (Sendbird)",
+    "speaker": "John Kim",
+    "speaker_zh": "John Kim",
+    "speaker_en": "John Kim",
+    "company": "Sendbird",
+    "company_zh": "Sendbird",
+    "desc_zh": "",
+    "desc_en": "Watch now | 🎙️Sendbird’s CEO turned AI adoption into a product, including quests, token tiers, and a marketing team that ships live swag stores in a day with zero engineers",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-05-06",
+    "source_url": "https://www.lennysnewsletter.com/p/quests-token-leaderboards-and-a-skills",
+    "source_name": "Lenny's Podcast"
+  },
+  {
     "id": "us-ceo-66db92af",
     "type": "article",
     "title_zh": "",
@@ -147,118 +254,6 @@
     "date": "2026-05-02",
     "source_url": "https://www.lennysnewsletter.com/p/community-wisdom-claude-code-tips",
     "source_name": "Lenny's Podcast"
-  },
-  {
-    "id": "us-ceo-1d9d8cdb",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "SpaceX backer 137 Ventures raises $700M for two growth-stage funds",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "VC firm 137 Ventures has raised over $700 million to back growth-stage startups. Its portfolio includes SpaceX, Anduril, Hadrian.",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-04-30",
-    "source_url": "https://techcrunch.com/2026/04/30/spacex-backer-137-ventures-raises-700m-for-two-growth-stage-funds/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-42e7115d",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red tape.",
-    "tags": [
-      "AI",
-      "health"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-04-30",
-    "source_url": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-708a1d44",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "EV startup Faraday Future paid $7.5M to company tied to founder Jia Yueting",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "The perpetually struggling EV company made the payments while being investigated by the SEC. That four-year probe was ultimately closed in March.",
-    "tags": [
-      "AI",
-      "fintech"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-04-30",
-    "source_url": "https://techcrunch.com/2026/04/30/ev-startup-faraday-future-paid-7-5m-to-company-tied-to-founder-jia-yueting/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-fd8b0926",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-04-30",
-    "source_url": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-fb059fec",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Y Combinator alum Skio sells for $105M cash, only raised $8M, founder says",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Subscription billing fintech Skio sold to its competitor Recharge in what was a healthy exit, according to its founder and former CEO.",
-    "tags": [
-      "AI",
-      "fintech",
-      "health",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-04-30",
-    "source_url": "https://techcrunch.com/2026/04/30/y-combinator-alum-skio-sells-for-105m-cash-only-raised-8m-founder-says/",
-    "source_name": "TechCrunch"
   },
   {
     "id": "us-ceo-005",
