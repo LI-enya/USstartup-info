@@ -1,5 +1,52 @@
 [
   {
+    "id": "us-dtc-770d9fc3",
+    "name": "As Gen Z",
+    "name_zh": "",
+    "name_en": "As Gen Z",
+    "tagline_zh": "",
+    "tagline_en": "As Gen Z embraces Coach, Tapestry raises expectations",
+    "url": "https://www.retaildive.com/news/gen-z-embraces-coach-tapestry-raises-expectations-kate-spade-slump/819564/",
+    "desc_zh": "",
+    "desc_en": "CEO Joanne Crevoiserat described opportunity in footwear for what she ultimately sees as a $10 billion brand. Meanwhile, Kate Spade stumbled in Q3.",
+    "category_zh": "DTC品牌",
+    "category_en": "DTC Brand",
+    "market_zh": "美国",
+    "market_en": "United States",
+    "tags": [
+      "AI"
+    ],
+    "founded": "",
+    "funding": "",
+    "source_url": "https://www.retaildive.com/news/gen-z-embraces-coach-tapestry-raises-expectations-kate-spade-slump/819564/",
+    "source_name": "Retail Dive",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "us-dtc-5fe13471",
+    "name": "Target’s new supply",
+    "name_zh": "",
+    "name_en": "Target’s new supply",
+    "tagline_zh": "",
+    "tagline_en": "Target’s new supply chain facility could be first of many",
+    "url": "https://www.modernretail.co/operations/targets-new-supply-chain-facility-could-be-first-of-many/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "desc_zh": "",
+    "desc_en": "A new Target warehouse in Houston represents more than just a new building serving one region. It's  potentially a new way in which the retailer's supply chain will operate throughout the U.S.",
+    "category_zh": "DTC品牌",
+    "category_en": "DTC Brand",
+    "market_zh": "美国",
+    "market_en": "United States",
+    "tags": [
+      "AI",
+      "e-commerce"
+    ],
+    "founded": "",
+    "funding": "",
+    "source_url": "https://www.modernretail.co/operations/targets-new-supply-chain-facility-could-be-first-of-many/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "source_name": "Modern Retail",
+    "date": "2026-05-07"
+  },
+  {
     "id": "us-dtc-af0738d9",
     "name": "Dollar General bridges",
     "name_zh": "",
@@ -228,55 +275,6 @@
     "founded": "",
     "funding": "",
     "source_url": "https://www.modernretail.co/operations/why-many-retailers-are-redesigning-their-private-label-packaging/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "source_name": "Modern Retail",
-    "date": "2026-05-04"
-  },
-  {
-    "id": "us-dtc-f7c078e9",
-    "name": "Legacy retailers like",
-    "name_zh": "",
-    "name_en": "Legacy retailers like",
-    "tagline_zh": "",
-    "tagline_en": "Legacy retailers like Party City and Staples are increasingl",
-    "url": "https://www.modernretail.co/operations/legacy-retailers-like-party-city-and-staples-are-increasingly-teaming-up-on-shop-in-shops-in-a-bid-for-relevance/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "desc_zh": "",
-    "desc_en": "Retailers like Staples and Bed Bath & Beyond are identifying opportunities to scoop up struggling brands — like Party City and The Container Store — and using their name recognition to bring new customers into stores.",
-    "category_zh": "DTC品牌",
-    "category_en": "DTC Brand",
-    "market_zh": "美国",
-    "market_en": "United States",
-    "tags": [
-      "AI",
-      "e-commerce"
-    ],
-    "founded": "",
-    "funding": "",
-    "source_url": "https://www.modernretail.co/operations/legacy-retailers-like-party-city-and-staples-are-increasingly-teaming-up-on-shop-in-shops-in-a-bid-for-relevance/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "source_name": "Modern Retail",
-    "date": "2026-05-04"
-  },
-  {
-    "id": "us-dtc-257cf483",
-    "name": "Winx Health has",
-    "name_zh": "",
-    "name_en": "Winx Health has",
-    "tagline_zh": "",
-    "tagline_en": "Winx Health has tripled its retail revenue in the last three",
-    "url": "https://www.modernretail.co/operations/winx-health-has-tripled-its-retail-revenue-in-the-last-three-months-now-its-launching-into-walmart/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "desc_zh": "",
-    "desc_en": "Winx Health, a women's health startup, is continuing its push into more U.S. doors through a partnership with Walmart.",
-    "category_zh": "DTC品牌",
-    "category_en": "DTC Brand",
-    "market_zh": "美国",
-    "market_en": "United States",
-    "tags": [
-      "AI",
-      "health",
-      "e-commerce"
-    ],
-    "founded": "",
-    "funding": "",
-    "source_url": "https://www.modernretail.co/operations/winx-health-has-tripled-its-retail-revenue-in-the-last-three-months-now-its-launching-into-walmart/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
     "source_name": "Modern Retail",
     "date": "2026-05-04"
   },
