@@ -1,5 +1,47 @@
 [
   {
+    "id": "us-ceo-bb54678a",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Fintech startup Parker files for bankruptcy",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Parker, a well-funded startup offering corporate credit cards and banking services, has filed for bankruptcy and is widely reported to have shut down.",
+    "tags": [
+      "fintech"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-05-09",
+    "source_url": "https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-1da7465b",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "🧠 Community Wisdom: What to do when non-PMs start shipping directly to production, thoughts on Claude Code’s pricing A/B test, the use of gen AI in games, and more",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Community Wisdom 185",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-05-09",
+    "source_url": "https://www.lennysnewsletter.com/p/community-wisdom-what-to-do-when",
+    "source_name": "Lenny's Podcast"
+  },
+  {
     "id": "us-ceo-61f2ed1c",
     "type": "article",
     "title_zh": "",
@@ -205,50 +247,6 @@
     "market_en": "North America",
     "date": "2026-05-07",
     "source_url": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-9272c169",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing complex tasks.",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-05-06",
-    "source_url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-b0d4554c",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "DeepSeek could hit $45B valuation from its first investment round",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic.",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-05-06",
-    "source_url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
     "source_name": "TechCrunch"
   },
   {
