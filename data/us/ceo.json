@@ -1,5 +1,27 @@
 [
   {
+    "id": "us-ceo-d5487b6f",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "How to build a company that withstands any era | Eric Ries, Lean Startup author",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Listen now | The Lean Startup author on why most mission-driven companies are just mission-“hopeful,” why only 20% of founders remain CEO three years post-IPO, and the Delaware filing every founder should make",
+    "tags": [
+      "AI",
+      "IPO"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-05-10",
+    "source_url": "https://www.lennysnewsletter.com/p/how-to-build-a-company-that-withstands",
+    "source_name": "Lenny's Podcast"
+  },
+  {
     "id": "us-ceo-bb54678a",
     "type": "article",
     "title_zh": "",
@@ -225,28 +247,6 @@
     "market_en": "North America",
     "date": "2026-05-07",
     "source_url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-88881893",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "The company made a series of other announcements during earnings, including a new commercial contract, a pilot program in Canada, and a collaboration.",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-05-07",
-    "source_url": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/",
     "source_name": "TechCrunch"
   },
   {
