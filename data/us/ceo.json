@@ -1,5 +1,28 @@
 [
   {
+    "id": "us-ceo-619a36e6",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Riding an AI rally, Robinhood preps second retail venture IPO",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
+    "tags": [
+      "AI",
+      "e-commerce",
+      "IPO"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-05-12",
+    "source_url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-d5487b6f",
     "type": "article",
     "title_zh": "",
@@ -126,6 +149,28 @@
     "source_name": "TechCrunch"
   },
   {
+    "id": "us-ceo-88881893",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "The company made a series of other announcements during earnings, including a new commercial contract, a pilot program in Canada, and a collaboration.",
+    "tags": [
+      "AI",
+      "funding"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-05-07",
+    "source_url": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-cc1ead11",
     "type": "article",
     "title_zh": "",
@@ -204,49 +249,6 @@
     "market_en": "North America",
     "date": "2026-05-07",
     "source_url": "https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-791c7f8f",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Kalshi doubles valuation in 5 months, hitting $22B",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Prediction market startup Kalshi has raised a $1 billion Series F round led by Coatue.",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-05-07",
-    "source_url": "https://techcrunch.com/2026/05/07/kalshi-doubles-valuation-in-5-months-hitting-22-billion/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-950b74ad",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-05-07",
-    "source_url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
     "source_name": "TechCrunch"
   },
   {
