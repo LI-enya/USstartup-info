@@ -1,5 +1,29 @@
 [
   {
+    "id": "us-dtc-19d6fb8f",
+    "name": "Bed Bath &",
+    "name_zh": "",
+    "name_en": "Bed Bath &",
+    "tagline_zh": "",
+    "tagline_en": "Bed Bath & Beyond’s first co-branded store with The Containe",
+    "url": "https://www.retaildive.com/news/bed-bath-beyond-container-store-cobranded-store-opens-texas/820360/",
+    "desc_zh": "",
+    "desc_en": "The location in Fort Worth, Texas, comes just over a month after Bed Bath & Beyond announced plans to acquire the organizational retailer.",
+    "category_zh": "DTC品牌",
+    "category_en": "DTC Brand",
+    "market_zh": "美国",
+    "market_en": "United States",
+    "tags": [
+      "AI",
+      "e-commerce"
+    ],
+    "founded": "",
+    "funding": "",
+    "source_url": "https://www.retaildive.com/news/bed-bath-beyond-container-store-cobranded-store-opens-texas/820360/",
+    "source_name": "Retail Dive",
+    "date": "2026-05-15"
+  },
+  {
     "id": "us-dtc-a1abc6c3",
     "name": "Wacoal America’s new",
     "name_zh": "",
@@ -250,27 +274,6 @@
     "founded": "",
     "funding": "",
     "source_url": "https://www.retaildive.com/news/grocery-shoppers-value-trading-down-lower-priced-retailer/819609/",
-    "source_name": "Retail Dive",
-    "date": "2026-05-11"
-  },
-  {
-    "id": "us-dtc-6cb8ece3",
-    "name": "Bed Bath &",
-    "name_zh": "",
-    "name_en": "Bed Bath &",
-    "tagline_zh": "",
-    "tagline_en": "Bed Bath & Beyond Inc. subsidiary closing Tennessee office",
-    "url": "https://www.retaildive.com/news/bed-bath-beyond-brand-house-collective-close-office-tennessee/819827/",
-    "desc_zh": "",
-    "desc_en": "The Brand House Collective, formerly known as Kirkland’s Home, will close its Brentwood office —  impacting 88 employees.",
-    "category_zh": "DTC品牌",
-    "category_en": "DTC Brand",
-    "market_zh": "美国",
-    "market_en": "United States",
-    "tags": [],
-    "founded": "",
-    "funding": "",
-    "source_url": "https://www.retaildive.com/news/bed-bath-beyond-brand-house-collective-close-office-tennessee/819827/",
     "source_name": "Retail Dive",
     "date": "2026-05-11"
   },
