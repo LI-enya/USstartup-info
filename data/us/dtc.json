@@ -1,5 +1,26 @@
 [
   {
+    "id": "us-dtc-d500d156",
+    "name": "every brand is",
+    "name_zh": "",
+    "name_en": "every brand is",
+    "tagline_zh": "",
+    "tagline_en": "Why every brand is now its own media company, featuring Prin",
+    "url": "https://www.modernretail.co/podcasts/why-every-brand-is-now-their-own-media-company-featuring-prince-street-pizza/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "desc_zh": "",
+    "desc_en": "Prince Street Pizza is boosting brand awareness with its \"Delivering Happiness\" online talk show, hosted by actor Nick Turturro and launched last September.",
+    "category_zh": "DTC品牌",
+    "category_en": "DTC Brand",
+    "market_zh": "美国",
+    "market_en": "United States",
+    "tags": [],
+    "founded": "",
+    "funding": "",
+    "source_url": "https://www.modernretail.co/podcasts/why-every-brand-is-now-their-own-media-company-featuring-prince-street-pizza/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "source_name": "Modern Retail",
+    "date": "2026-05-16"
+  },
+  {
     "id": "us-dtc-19d6fb8f",
     "name": "Bed Bath &",
     "name_zh": "",
@@ -252,30 +273,6 @@
     "source_url": "https://www.modernretail.co/sponsored/what-gen-z-wants-from-brands-instead-of-the-traditional-sales-funnel/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
     "source_name": "Modern Retail",
     "date": "2026-05-12"
-  },
-  {
-    "id": "us-dtc-0b9f3d05",
-    "name": "Grocery shoppers are",
-    "name_zh": "",
-    "name_en": "Grocery shoppers are",
-    "tagline_zh": "",
-    "tagline_en": "Grocery shoppers are trading down to lower-priced retailers,",
-    "url": "https://www.retaildive.com/news/grocery-shoppers-value-trading-down-lower-priced-retailer/819609/",
-    "desc_zh": "",
-    "desc_en": "Rather than just seeking cheaper brands, more shoppers are planning to switch retailers entirely, opting for less expensive stores, Alvarez & Marsal found.",
-    "category_zh": "DTC品牌",
-    "category_en": "DTC Brand",
-    "market_zh": "美国",
-    "market_en": "United States",
-    "tags": [
-      "AI",
-      "e-commerce"
-    ],
-    "founded": "",
-    "funding": "",
-    "source_url": "https://www.retaildive.com/news/grocery-shoppers-value-trading-down-lower-priced-retailer/819609/",
-    "source_name": "Retail Dive",
-    "date": "2026-05-11"
   },
   {
     "id": "us-dtc-005",
