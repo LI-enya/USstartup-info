@@ -1,5 +1,26 @@
 [
   {
+    "id": "us-ceo-d51649f3",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Why we’re at the beginning of the AI hardware boom | Caitlin Kalinowski (ex–OpenAI, Meta, Apple)",
+    "speaker": "Caitlin Kalinowski",
+    "speaker_zh": "Caitlin Kalinowski",
+    "speaker_en": "Caitlin Kalinowski",
+    "company": "ex–OpenAI, Meta, Apple",
+    "company_zh": "ex–OpenAI, Meta, Apple",
+    "desc_zh": "",
+    "desc_en": "Listen now | Caitlin Kalinowski on supply chain vulnerabilities threaten the robotics revolution, why consumer VR failed, and what she learned building products at Apple, Meta, and OpenAI",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-05-17",
+    "source_url": "https://www.lennysnewsletter.com/p/why-were-at-the-beginning-of-the",
+    "source_name": "Lenny's Podcast"
+  },
+  {
     "id": "us-ceo-6e1dc07a",
     "type": "article",
     "title_zh": "",
@@ -235,28 +256,6 @@
     "date": "2026-05-12",
     "source_url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
     "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-d5487b6f",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "How to build a company that withstands any era | Eric Ries, Lean Startup author",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Listen now | The Lean Startup author on why most mission-driven companies are just mission-“hopeful,” why only 20% of founders remain CEO three years post-IPO, and the Delaware filing every founder should make",
-    "tags": [
-      "AI",
-      "IPO"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-05-10",
-    "source_url": "https://www.lennysnewsletter.com/p/how-to-build-a-company-that-withstands",
-    "source_name": "Lenny's Podcast"
   },
   {
     "id": "us-ceo-005",
