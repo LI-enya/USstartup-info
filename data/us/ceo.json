@@ -1,5 +1,26 @@
 [
   {
+    "id": "us-ceo-32ee4451",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "South Korea’s LetinAR is building optics behind AI glasses",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-05-18",
+    "source_url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-d51649f3",
     "type": "article",
     "title_zh": "",
@@ -232,29 +253,6 @@
     "market_en": "North America",
     "date": "2026-05-12",
     "source_url": "https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-619a36e6",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Riding an AI rally, Robinhood preps second retail venture IPO",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
-    "tags": [
-      "AI",
-      "e-commerce",
-      "IPO"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-05-12",
-    "source_url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
     "source_name": "TechCrunch"
   },
   {
