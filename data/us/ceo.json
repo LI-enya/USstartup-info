@@ -1,5 +1,26 @@
 [
   {
+    "id": "us-ceo-fbb14109",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Peec, which helps brands track their presence in AI searches, offers proof of a key trend among European startups.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-05-23",
+    "source_url": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-a404c57a",
     "type": "article",
     "title_zh": "",
@@ -134,6 +155,28 @@
     "source_name": "TechCrunch"
   },
   {
+    "id": "us-ceo-21e0769d",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Clouted wants to take the guesswork out of making short videos go viral",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
+    "tags": [
+      "AI",
+      "funding"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-05-20",
+    "source_url": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-27197f7a",
     "type": "article",
     "title_zh": "",
@@ -215,49 +258,6 @@
     "market_en": "North America",
     "date": "2026-05-20",
     "source_url": "https://techcrunch.com/podcast/how-lucra-raised-20m-as-an-esports-play-when-every-vc-only-wants-ai/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-dceda2a8",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "You don’t need to be an AI startup to raise. Lucra has $20M to prove it.",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Slapping “AI” on your startup’s pitch deck is basically table stakes right now. When a founder raised $20 million from Cathie Wood’s ARK Invest for an eSports gamification loyalty startup without those two letters in the spotlight, it got us wondering how the conversation even started — especially w",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-05-20",
-    "source_url": "https://techcrunch.com/video/you-dont-need-to-be-an-ai-startup-to-raise-lucra-has-20m-to-prove-it/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-04091fd3",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Sam Altman makes ‘mic drop’ offer to every Y Combinator startup",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Altman offered to have OpenAI invest in every single startup in this Y Combinator class: tokens for equity.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-05-20",
-    "source_url": "https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/",
     "source_name": "TechCrunch"
   },
   {
