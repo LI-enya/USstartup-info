@@ -155,6 +155,49 @@
     "source_name": "TechCrunch"
   },
   {
+    "id": "us-ceo-dceda2a8",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "You don’t need to be an AI startup to raise. Lucra has $20M to prove it.",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Slapping “AI” on your startup’s pitch deck is basically table stakes right now. When a founder raised $20 million from Cathie Wood’s ARK Invest for an eSports gamification loyalty startup without those two letters in the spotlight, it got us wondering how the conversation even started — especially w",
+    "tags": [
+      "AI",
+      "funding"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-05-20",
+    "source_url": "https://techcrunch.com/video/you-dont-need-to-be-an-ai-startup-to-raise-lucra-has-20m-to-prove-it/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-04091fd3",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Sam Altman makes ‘mic drop’ offer to every Y Combinator startup",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Altman offered to have OpenAI invest in every single startup in this Y Combinator class: tokens for equity.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-05-20",
+    "source_url": "https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-21e0769d",
     "type": "article",
     "title_zh": "",
@@ -217,47 +260,6 @@
     "market_en": "North America",
     "date": "2026-05-20",
     "source_url": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-d459bed2",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Startup Battlefield 200 applications close in 1 week: Window to nominate and apply for the most promising startups closes May 27",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Startup Battlefield 200 applications close May 27. Pitch at TechCrunch Disrupt, get investor access, win $100K, plus more scaling perks. Nominate an early-stage founder or submit your startup today.",
-    "tags": [],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-05-20",
-    "source_url": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-1-week-window-to-nominate-and-apply-for-the-most-promising-startups-closes-may-27/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-18f3c293",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "How Lucra raised $20M as an eSports play when every VC only wants AI",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Slapping “AI” on your startup’s pitch deck is basically table stakes right now. When a founder raised $20 million from Cathie Wood’s ARK Invest for an eSports gamification loyalty startup without those two letters in the spotlight, it got us wondering how the conversation even started — especially w",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-05-20",
-    "source_url": "https://techcrunch.com/podcast/how-lucra-raised-20m-as-an-esports-play-when-every-vc-only-wants-ai/",
     "source_name": "TechCrunch"
   },
   {
