@@ -1,5 +1,46 @@
 [
   {
+    "id": "us-ceo-ca689e4b",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Snap alums unveil Ghost Angels fund",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "A group of 20 Snap alumni has come together to launch a fund called Ghost Angels to back the next generation of social media.",
+    "tags": [],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-05-30",
+    "source_url": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-b3999eaf",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "🧠 Community Wisdom: Catching people using AI during an interview, org design when everything lives in one person’s head, when to rename your product, from nurse to health-tech PM, and more",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Community Wisdom 187",
+    "tags": [
+      "AI",
+      "health"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-05-30",
+    "source_url": "https://www.lennysnewsletter.com/p/community-wisdom-catching-people",
+    "source_name": "Lenny's Podcast"
+  },
+  {
     "id": "us-ceo-00780d54",
     "type": "article",
     "title_zh": "",
@@ -207,48 +248,6 @@
     "market_en": "North America",
     "date": "2026-05-28",
     "source_url": "https://techcrunch.com/2026/05/28/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-the-june-8-deadline/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-716d3698",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-05-27",
-    "source_url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-34883582",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Airbnb-backed WeRoad raises $58M to take its group travel platform to the US",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "WeRoad trips are primarily designed for younger travelers and grouped around shared interests and travel styles. Customers can book trips through the platform based on themes such as beach vacations or skiing.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-05-27",
-    "source_url": "https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/",
     "source_name": "TechCrunch"
   },
   {
