@@ -1,5 +1,70 @@
 [
   {
+    "id": "us-ceo-dc9e7047",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Black founders raise highest amount of quarterly funding since 2022, but there’s a catch",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Speaking to TechCrunch, Crunchbase’s head of research Gené Teare, said the factors holding back Black founders include “access to networks, relationships, and early introductions.\"",
+    "tags": [
+      "AI",
+      "funding"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-05-31",
+    "source_url": "https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-c2d20b4b",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Making sense of the debate over AI psychosis",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-05-31",
+    "source_url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-1a4e47d4",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "‘This is fine’ artist KC Green reaches agreement with AI startup Artisan",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "The startup has apparently taken down the ads using KC Green's \"This is fine\" meme.",
+    "tags": [
+      "AI",
+      "climate"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-05-31",
+    "source_url": "https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-ca689e4b",
     "type": "article",
     "title_zh": "",
@@ -186,68 +251,6 @@
     "market_en": "North America",
     "date": "2026-05-28",
     "source_url": "https://techcrunch.com/2026/05/28/startup-battlefield-200-application-deadline-extended-to-june-8-after-overwhelming-demand/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-4a41485c",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Why Paris may be the most important AI city outside Silicon Valley",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Europe’s startup ecosystem has matured significantly; its founders are increasingly willing to scale companies domestically instead of immediately looking to relocate to the U.S.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-05-28",
-    "source_url": "https://techcrunch.com/2026/05/28/why-paris-may-be-the-most-important-ai-city-outside-silicon-valley/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-2a4885a3",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "H1 secures $40M from CVS, proving SaaS startups can still attract investment",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "CEO Ariel Katz argues that while AI can replicate workflow SaaS, it can't copy H1’s unique doctor data.",
-    "tags": [
-      "AI",
-      "SaaS"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-05-28",
-    "source_url": "https://techcrunch.com/2026/05/28/h1-secures-40m-from-cvs-proving-saas-startups-can-still-attract-investment/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-7bb059da",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "How to apply to Startup Battlefield 2026, what you need ahead of the June 8 deadline",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!",
-    "tags": [],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-05-28",
-    "source_url": "https://techcrunch.com/2026/05/28/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-the-june-8-deadline/",
     "source_name": "TechCrunch"
   },
   {
