@@ -1,5 +1,68 @@
 [
   {
+    "id": "us-ceo-f1e0e616",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Quick commerce FirstClub doubles valuation to $255M in nine months",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "The Bengaluru startup has crossed 1 million orders and reached a $50 million annualized GMV run rate within a year of launch.",
+    "tags": [
+      "funding"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-06-04",
+    "source_url": "https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-d0391193",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monitor their behavior, troubleshoot failures, and provide the operational data needed to keep them running reliably.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-06-03",
+    "source_url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-c49dd3d2",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-06-03",
+    "source_url": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-f3567df9",
     "type": "article",
     "title_zh": "",
@@ -185,71 +248,6 @@
     "market_en": "North America",
     "date": "2026-06-01",
     "source_url": "https://techcrunch.com/2026/06/01/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-3823be9d",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "In a wild ride for 22-year-old founder and CEO Ethan Thornton, Mach Industries has raised another $300 million. It already has five autonomous vehicles in development and completed a major acquisition.",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-06-01",
-    "source_url": "https://techcrunch.com/2026/06/01/defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-jump-in-a-year/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-d5c777fa",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "How to make the Startup Battlefield Top 20 — and what every company gets regardless",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Every founder who applies to Startup Battlefield wants the same thing: the Disrupt Main Stage. Here’s how to get there and why the opportunity starts well before the main stage.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-06-01",
-    "source_url": "https://techcrunch.com/2026/06/01/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-dc9e7047",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Black founders raise highest amount of quarterly funding since 2022, but there’s a catch",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Speaking to TechCrunch, Crunchbase’s head of research Gené Teare, said the factors holding back Black founders include “access to networks, relationships, and early introductions.\"",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-05-31",
-    "source_url": "https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/",
     "source_name": "TechCrunch"
   },
   {
