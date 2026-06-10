@@ -1,5 +1,29 @@
 [
   {
+    "id": "jp-ceo-ec0fdecb",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "",
+    "tags": [],
+    "market_zh": "日本",
+    "market_en": "Japan",
+    "date": "2026-06-10",
+    "source_url": "https://www.fastgrow.jp/articles/kaen-umeki-johnny",
+    "source_name": "FastGrow",
+    "title_ja": "ファウンダーの“火種”を200億円の“火炎”へ──「キタキタ！」の感覚を事業構造に落とし込む、KAEN梅木氏の「かまど型」経営論【FastGrowジョニーが聞く】",
+    "speaker_ja": "",
+    "company_ja": "",
+    "desc_ja": "先日公開した「ノンエクイティ戦略解剖記事」で紐解いた、株式会社KAENのドラスティックな戦略転換。10兆円超とも試算できる巨大な「潜在顧客マーケティング」という市場の創出へと全リソースを集中させるという。その裏には、スタートアップ業界におけるVC投資主導の考え方に対するアンチテーゼも見て取れた。それだけ独自の路線で戦う同社の実態をさらに探っていくのが、この記事だ。\n\nどれほど経営陣が合理的な戦略を描こうとも、それが自動的に組織のモメンタムへと変換されるわけではない。むしろ、多角化からの撤退という痛みを伴う意思決定は、現場に深い亀裂を生むリスクを常に孕んでいる。\n\nKAENは、1億円ものサンクコ",
+    "market_ja": "日本"
+  },
+  {
     "id": "jp-ceo-08286054",
     "type": "article",
     "title_zh": "",
@@ -304,33 +328,6 @@
     "speaker_ja": "",
     "company_ja": "",
     "desc_ja": "2026年5月に、シリーズBラウンドとして総額42.6億円の資金調達を発表したmovus technologies株式会社（ムーブステクノロジーズ。以下、movus）。FastGrowでは2023年に、共同創業者の酒井丈虎氏・北口理人氏の独占インタビューを実施。その後も順調な事業成長・組織拡大を続けている。\n\n今回は酒井氏から、より詳しい創業背景、そして最新状況と今後の展望を語ってもらった。目次【セクション1】中学生の頃の将来の夢は内閣総理大臣→起業を志すに至った理由【セクション2】戦う舞台を東南アジア・インドネシアに選んだ背景【セクション3】movusが解決する、モビリティインフラ構築に向け",
-    "market_ja": "日本"
-  },
-  {
-    "id": "jp-ceo-7fe83c96",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "",
-    "tags": [
-      "AI",
-      "SaaS"
-    ],
-    "market_zh": "日本",
-    "market_en": "Japan",
-    "date": "2026-05-15",
-    "source_url": "https://www.fastgrow.jp/articles/movustechnologies-hiramitsu-takei-hiraishi",
-    "source_name": "FastGrow",
-    "title_ja": "若手BizDevよ、「この国を出よ」──ラクスル・リクルート・サイバーエージェント出身者がインドネシアで見出した、日本発スタートアップの海外展開戦略",
-    "speaker_ja": "",
-    "company_ja": "",
-    "desc_ja": "20～30代の若手で、著名ベンチャーで事業開発に精を出していても、ここ数年間は常に「焦り」のようなものを感じている者も多いようだ。人から羨まれるような環境にいながら、胸の内に得体の知れない焦燥感と危機意識を抱いているのだ。\n\nそれは、徐々に縮小していく国内市場でのパイの奪い合い、その中で急角度の成長を求められるプレッシャー、そして勝ち筋が定式化されたようにすら見えるSaaS偏重の成長モデル。何より、「AI is eating the world」あるいは「SaaS is dead」といった言葉がよく話題に上がるように、新興企業への期待もしぼむ場面があり、成長産業とされてきた領域にも人口減少の影",
     "market_ja": "日本"
   },
   {
