@@ -1,5 +1,43 @@
 [
   {
+    "id": "us-ceo-0bd70abe",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Diana Hu Is YC's Newest Managing Partner",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "We're thrilled to announce that Diana Hu has been promoted to Managing Partner at Y Combinator.\n\nFew people have built a startup from zero and also shipped tech to 100 million people. Diana has done both.",
+    "tags": [],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-06-11",
+    "source_url": "https://www.ycombinator.com/blog/diana-hu-managing-partner/",
+    "source_name": "Y Combinator"
+  },
+  {
+    "id": "us-ceo-444e311c",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Bluesky launches group chats, as company shifts focus to community features",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Bluesky's latest feature is group chats, arriving amid a shift in focus on building features for smaller communities.",
+    "tags": [],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-06-11",
+    "source_url": "https://techcrunch.com/2026/06/11/bluesky-launches-group-chats-as-company-shifts-focus-to-community-features/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-ae1ff06b",
     "type": "article",
     "title_zh": "",
@@ -208,49 +246,6 @@
     "market_en": "North America",
     "date": "2026-06-05",
     "source_url": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-77e86c12",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "The most interesting startups right now want to get you off your phone",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction.  Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences. Cyberdeck creators are going vir",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-06-05",
-    "source_url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-f244c385",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Startup Battlefield 200 applications officially close in 3 days",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-06-05",
-    "source_url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
     "source_name": "TechCrunch"
   },
   {
