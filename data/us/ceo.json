@@ -1,5 +1,26 @@
 [
   {
+    "id": "us-ceo-f514ea6b",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
+    "tags": [
+      "food"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-06-13",
+    "source_url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-0bd70abe",
     "type": "article",
     "title_zh": "",
@@ -225,28 +246,6 @@
     "date": "2026-06-08",
     "source_url": "https://www.lennysnewsletter.com/p/shopping-with-claude",
     "source_name": "Lenny's Podcast"
-  },
-  {
-    "id": "us-ceo-68b087ad",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction.  Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences. Cyberdeck creators are going vir",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-06-05",
-    "source_url": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
-    "source_name": "TechCrunch"
   },
   {
     "id": "us-ceo-005",
