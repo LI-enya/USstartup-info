@@ -1,5 +1,26 @@
 [
   {
+    "id": "us-ceo-acdebc96",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "🧠 Community Wisdom: How AI is changing product operating models, tracking work stress with Whoop, whether you need a portfolio of AI side projects, marketing for tiny teams, and more",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Community Wisdom 189",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-06-13",
+    "source_url": "https://www.lennysnewsletter.com/p/community-wisdom-how-ai-is-changing",
+    "source_name": "Lenny's Podcast"
+  },
+  {
     "id": "us-ceo-f514ea6b",
     "type": "article",
     "title_zh": "",
@@ -224,28 +245,6 @@
     "date": "2026-06-08",
     "source_url": "https://techcrunch.com/2026/06/08/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-todays-june-8-deadline/",
     "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-bf83ed30",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Shopping with Claude: How to find quality brands, automate returns, and buy things that last 100 years | Nicole Ruiz",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Watch now | 🎙️She uses Claude to shop for high-quality items that last, automate returns when products fail, and spend less time on administrative tasks and more time with her kids",
-    "tags": [
-      "AI",
-      "e-commerce"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-06-08",
-    "source_url": "https://www.lennysnewsletter.com/p/shopping-with-claude",
-    "source_name": "Lenny's Podcast"
   },
   {
     "id": "us-ceo-005",
