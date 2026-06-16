@@ -1,5 +1,27 @@
 [
   {
+    "id": "us-ceo-b8e7c987",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
+    "tags": [
+      "AI",
+      "funding"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-06-15",
+    "source_url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-d4c4152e",
     "type": "article",
     "title_zh": "",
@@ -226,27 +248,6 @@
     "market_en": "North America",
     "date": "2026-06-10",
     "source_url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-197ed58d",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Zest launches a restaurant discovery app powered by where people actually eat",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Backed by Alexis Ohanian’s 776 and Kindred Ventures, Zest uses transaction data and AI to generate restaurant recommendations based on users’ real dining habits and the places they frequent.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-06-10",
-    "source_url": "https://techcrunch.com/2026/06/10/zest-launches-a-restaurant-discovery-app-powered-by-where-people-actually-eat/",
     "source_name": "TechCrunch"
   },
   {
