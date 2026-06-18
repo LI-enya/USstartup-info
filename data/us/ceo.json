@@ -1,5 +1,70 @@
 [
   {
+    "id": "us-ceo-e3c69834",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation — where errors can be costly and reliability is at a premium.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-06-17",
+    "source_url": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-31c9fcd4",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.",
+    "tags": [
+      "AI",
+      "funding"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-06-17",
+    "source_url": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-9064cbb7",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "NEA’s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Tokenmaxxing was the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far as it would go. Then the bill came due. Uber reportedly blew through its annual AI budget in a few months, some companies cut Claude licenses for parts of their org, and Me",
+    "tags": [
+      "AI",
+      "IPO"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-06-17",
+    "source_url": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-9e33314c",
     "type": "article",
     "title_zh": "",
@@ -190,67 +255,6 @@
     "date": "2026-06-14",
     "source_url": "https://www.lennysnewsletter.com/p/the-common-pattern-behind-successful",
     "source_name": "Lenny's Podcast"
-  },
-  {
-    "id": "us-ceo-acdebc96",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "🧠 Community Wisdom: How AI is changing product operating models, tracking work stress with Whoop, whether you need a portfolio of AI side projects, marketing for tiny teams, and more",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Community Wisdom 189",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-06-13",
-    "source_url": "https://www.lennysnewsletter.com/p/community-wisdom-how-ai-is-changing",
-    "source_name": "Lenny's Podcast"
-  },
-  {
-    "id": "us-ceo-f514ea6b",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
-    "tags": [
-      "food"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-06-13",
-    "source_url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-0bd70abe",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Diana Hu Is YC's Newest Managing Partner",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "We're thrilled to announce that Diana Hu has been promoted to Managing Partner at Y Combinator.\n\nFew people have built a startup from zero and also shipped tech to 100 million people. Diana has done both.",
-    "tags": [],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-06-11",
-    "source_url": "https://www.ycombinator.com/blog/diana-hu-managing-partner/",
-    "source_name": "Y Combinator"
   },
   {
     "id": "us-ceo-005",
