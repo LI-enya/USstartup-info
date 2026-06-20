@@ -1,5 +1,29 @@
 [
   {
+    "id": "us-dtc-5a3f7ca5",
+    "name": "Is Prime Day",
+    "name_zh": "",
+    "name_en": "Is Prime Day",
+    "tagline_zh": "",
+    "tagline_en": "Is Prime Day still worth it?",
+    "url": "https://www.modernretail.co/operations/is-prime-day-still-worth-it/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "desc_zh": "",
+    "desc_en": "This week's Modern Retail Podcast looked at the pros and cons of participating in Prime Day.",
+    "category_zh": "DTC品牌",
+    "category_en": "DTC Brand",
+    "market_zh": "美国",
+    "market_en": "United States",
+    "tags": [
+      "AI",
+      "e-commerce"
+    ],
+    "founded": "",
+    "funding": "",
+    "source_url": "https://www.modernretail.co/operations/is-prime-day-still-worth-it/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "source_name": "Modern Retail",
+    "date": "2026-06-20"
+  },
+  {
     "id": "us-dtc-0f32745e",
     "name": "World Cup tourists",
     "name_zh": "",
@@ -255,29 +279,6 @@
     "source_url": "https://www.modernretail.co/marketing/why-more-better-for-you-brands-are-leading-with-taste-over-health-claims/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
     "source_name": "Modern Retail",
     "date": "2026-06-16"
-  },
-  {
-    "id": "us-dtc-3c8d42f2",
-    "name": "customer signals hiding",
-    "name_zh": "",
-    "name_en": "customer signals hiding",
-    "tagline_zh": "",
-    "tagline_en": "The customer signals hiding in your ecommerce data — and wha",
-    "url": "https://www.retaildive.com/spons/the-customer-signals-hiding-in-your-ecommerce-data-and-what-to-do-with-th/821939/",
-    "desc_zh": "",
-    "desc_en": "Most ecommerce brands don’t use these 3 retention tactics. Learn how smart brands keep their customers.",
-    "category_zh": "DTC品牌",
-    "category_en": "DTC Brand",
-    "market_zh": "美国",
-    "market_en": "United States",
-    "tags": [
-      "e-commerce"
-    ],
-    "founded": "",
-    "funding": "",
-    "source_url": "https://www.retaildive.com/spons/the-customer-signals-hiding-in-your-ecommerce-data-and-what-to-do-with-th/821939/",
-    "source_name": "Retail Dive",
-    "date": "2026-06-15"
   },
   {
     "id": "us-dtc-005",

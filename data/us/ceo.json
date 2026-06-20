@@ -1,5 +1,27 @@
 [
   {
+    "id": "us-ceo-4ad45ffe",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Every fusion startup that has raised over $100M",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+    "tags": [
+      "AI",
+      "funding"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-06-19",
+    "source_url": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-f7a5a469",
     "type": "article",
     "title_zh": "",
@@ -232,30 +254,6 @@
     "market_en": "North America",
     "date": "2026-06-16",
     "source_url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-1fc42e4a",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Payments startup Flutterwave hits $3.2B valuation, backed by Ripple",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "African payments infrastructure company Flutterwave has hit a new valuation and landed blockchain company Ripple as an investor and partner.",
-    "tags": [
-      "AI",
-      "fintech",
-      "crypto",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-06-16",
-    "source_url": "https://techcrunch.com/2026/06/16/payments-startup-flutterwave-hits-3-2b-valuation-backed-by-ripple/",
     "source_name": "TechCrunch"
   },
   {
