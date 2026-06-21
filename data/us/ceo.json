@@ -1,5 +1,43 @@
 [
   {
+    "id": "us-ceo-5bf4acb7",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Founders Fund’s outlier bet on humanely killed fish",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Shinkei makes a refrigerator-sized robot called Poseidon to kill fish quickly and humanely.",
+    "tags": [],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-06-20",
+    "source_url": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-991197ee",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "🧠 Community Wisdom: Fractional CPO compensation, free e-signature tools, why some users pay but never use your product, sharing Claude Code context across a team, and more",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Community Wisdom 190",
+    "tags": [],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-06-20",
+    "source_url": "https://www.lennysnewsletter.com/p/community-wisdom-fractional-cpo-compensation",
+    "source_name": "Lenny's Podcast"
+  },
+  {
     "id": "us-ceo-4ad45ffe",
     "type": "article",
     "title_zh": "",
@@ -174,6 +212,30 @@
     "source_name": "TechCrunch"
   },
   {
+    "id": "us-ceo-1fc42e4a",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Payments startup Flutterwave hits $3.2B valuation, backed by Ripple",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "African payments infrastructure company Flutterwave has hit a new valuation and landed blockchain company Ripple as an investor and partner.",
+    "tags": [
+      "AI",
+      "fintech",
+      "crypto",
+      "funding"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-06-16",
+    "source_url": "https://techcrunch.com/2026/06/16/payments-startup-flutterwave-hits-3-2b-valuation-backed-by-ripple/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-9e33314c",
     "type": "article",
     "title_zh": "",
@@ -191,70 +253,6 @@
     "date": "2026-06-16",
     "source_url": "https://www.ycombinator.com/blog/chris-golda-and-grey-baker-general-partners/",
     "source_name": "Y Combinator"
-  },
-  {
-    "id": "us-ceo-9e8c964d",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Respond.io, one of Malaysia's startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-06-16",
-    "source_url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-63305d18",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "This startup’s super metals could soon be in military drones, luxury watches, and chef’s knives",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Instead of heating metals, Foundation Alloy beats them into submission. The startup has raised $22 million to scale up production of its alloys.",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-06-16",
-    "source_url": "https://techcrunch.com/2026/06/16/this-startups-super-metals-could-soon-be-in-military-drones-luxury-watches-and-chefs-knives/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-1a181841",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Probably raises $9M to build a more reliable kind of AI",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-06-16",
-    "source_url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
-    "source_name": "TechCrunch"
   },
   {
     "id": "us-ceo-005",
