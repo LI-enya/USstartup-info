@@ -1,5 +1,29 @@
 [
   {
+    "id": "us-dtc-a5d50557",
+    "name": "AI is now",
+    "name_zh": "",
+    "name_en": "AI is now",
+    "tagline_zh": "",
+    "tagline_en": "AI is now doing parts of merchants’ jobs, managing products ",
+    "url": "https://www.modernretail.co/technology/ai-is-now-doing-parts-of-merchants-jobs-managing-products-and-vendors/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "desc_zh": "",
+    "desc_en": "Retailers are beginning to use AI to automate certain parts of the merchandising process, to determine what to order or even make deals on their behalf.",
+    "category_zh": "DTC品牌",
+    "category_en": "DTC Brand",
+    "market_zh": "美国",
+    "market_en": "United States",
+    "tags": [
+      "AI",
+      "e-commerce"
+    ],
+    "founded": "",
+    "funding": "",
+    "source_url": "https://www.modernretail.co/technology/ai-is-now-doing-parts-of-merchants-jobs-managing-products-and-vendors/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "source_name": "Modern Retail",
+    "date": "2026-06-22"
+  },
+  {
     "id": "us-dtc-5a3f7ca5",
     "name": "Is Prime Day",
     "name_zh": "",
@@ -252,31 +276,6 @@
     "founded": "",
     "funding": "",
     "source_url": "https://www.modernretail.co/operations/rising-fuel-costs-push-brands-to-adjust-shipping-policies/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "source_name": "Modern Retail",
-    "date": "2026-06-16"
-  },
-  {
-    "id": "us-dtc-0d4bb8c8",
-    "name": "more better-for-you brands",
-    "name_zh": "",
-    "name_en": "more better-for-you brands",
-    "tagline_zh": "",
-    "tagline_en": "Why more better-for-you brands are leading with taste over h",
-    "url": "https://www.modernretail.co/marketing/why-more-better-for-you-brands-are-leading-with-taste-over-health-claims/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "desc_zh": "",
-    "desc_en": "Better-for-you brands are prioritizing taste and fun packaging to attract more customers while still offering healthier food options.",
-    "category_zh": "DTC品牌",
-    "category_en": "DTC Brand",
-    "market_zh": "美国",
-    "market_en": "United States",
-    "tags": [
-      "AI",
-      "health",
-      "food"
-    ],
-    "founded": "",
-    "funding": "",
-    "source_url": "https://www.modernretail.co/marketing/why-more-better-for-you-brands-are-leading-with-taste-over-health-claims/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
     "source_name": "Modern Retail",
     "date": "2026-06-16"
   },

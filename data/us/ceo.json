@@ -212,47 +212,47 @@
     "source_name": "TechCrunch"
   },
   {
-    "id": "us-ceo-1fc42e4a",
+    "id": "us-ceo-63305d18",
     "type": "article",
     "title_zh": "",
-    "title_en": "Payments startup Flutterwave hits $3.2B valuation, backed by Ripple",
+    "title_en": "This startup’s super metals could soon be in military drones, luxury watches, and chef’s knives",
     "speaker": "",
     "speaker_zh": "",
     "speaker_en": "",
     "company": "",
     "company_zh": "",
     "desc_zh": "",
-    "desc_en": "African payments infrastructure company Flutterwave has hit a new valuation and landed blockchain company Ripple as an investor and partner.",
+    "desc_en": "Instead of heating metals, Foundation Alloy beats them into submission. The startup has raised $22 million to scale up production of its alloys.",
     "tags": [
       "AI",
-      "fintech",
-      "crypto",
       "funding"
     ],
     "market_zh": "北美",
     "market_en": "North America",
     "date": "2026-06-16",
-    "source_url": "https://techcrunch.com/2026/06/16/payments-startup-flutterwave-hits-3-2b-valuation-backed-by-ripple/",
+    "source_url": "https://techcrunch.com/2026/06/16/this-startups-super-metals-could-soon-be-in-military-drones-luxury-watches-and-chefs-knives/",
     "source_name": "TechCrunch"
   },
   {
-    "id": "us-ceo-9e33314c",
+    "id": "us-ceo-1a181841",
     "type": "article",
     "title_zh": "",
-    "title_en": "Christopher Golda and Grey Baker Join YC as General Partners",
+    "title_en": "Probably raises $9M to build a more reliable kind of AI",
     "speaker": "",
     "speaker_zh": "",
     "speaker_en": "",
     "company": "",
     "company_zh": "",
     "desc_zh": "",
-    "desc_en": "We're excited to announce that Christopher Golda and Grey Baker are joining YC as General Partners.",
-    "tags": [],
+    "desc_en": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems.",
+    "tags": [
+      "AI"
+    ],
     "market_zh": "北美",
     "market_en": "North America",
     "date": "2026-06-16",
-    "source_url": "https://www.ycombinator.com/blog/chris-golda-and-grey-baker-general-partners/",
-    "source_name": "Y Combinator"
+    "source_url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+    "source_name": "TechCrunch"
   },
   {
     "id": "us-ceo-005",
