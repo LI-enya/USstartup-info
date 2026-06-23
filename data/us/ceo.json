@@ -1,5 +1,45 @@
 [
   {
+    "id": "us-ceo-9859dc4c",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register today.",
+    "tags": [],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-06-22",
+    "source_url": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-59f66ad4",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "WhatsApp gets new chief as Meta taps India’s CRED founder Kunal Shah and invests $900M in startup",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "WhatsApp gets a new boss, as Will Cathcart moves to a new role at Meta, while Shah steps down as CEO of Indian fintech giant CRED to replace Cathcart.",
+    "tags": [
+      "fintech"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-06-22",
+    "source_url": "https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-5bf4acb7",
     "type": "article",
     "title_zh": "",
@@ -209,49 +249,6 @@
     "market_en": "North America",
     "date": "2026-06-17",
     "source_url": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-63305d18",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "This startup’s super metals could soon be in military drones, luxury watches, and chef’s knives",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Instead of heating metals, Foundation Alloy beats them into submission. The startup has raised $22 million to scale up production of its alloys.",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-06-16",
-    "source_url": "https://techcrunch.com/2026/06/16/this-startups-super-metals-could-soon-be-in-military-drones-luxury-watches-and-chefs-knives/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-1a181841",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Probably raises $9M to build a more reliable kind of AI",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-06-16",
-    "source_url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
     "source_name": "TechCrunch"
   },
   {
