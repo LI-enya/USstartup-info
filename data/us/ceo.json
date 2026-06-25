@@ -1,5 +1,66 @@
 [
   {
+    "id": "us-ceo-ed622b33",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Slate Auto’s radically simple electric truck starts at $24,950",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "The Jeff Bezos-backed startup finally revealed more pricing details for its debut EV, including a $29,950 starting price for the SUV variant, and boosted the base range to 205 miles.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-06-24",
+    "source_url": "https://techcrunch.com/2026/06/24/slate-autos-radically-simple-electric-truck-starts-at-24950/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-8f2f5044",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
+    "tags": [],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-06-24",
+    "source_url": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-89d1d58f",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-06-24",
+    "source_url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-3da17e8c",
     "type": "article",
     "title_zh": "",
@@ -179,72 +240,6 @@
     "market_en": "North America",
     "date": "2026-06-19",
     "source_url": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-f7a5a469",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-06-19",
-    "source_url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-67920512",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "After spending a year and a half focusing on his own journey — from fitness and nutrition to meditation, sobriety, relationships, and personal growth — Brown wants to help others do the same.",
-    "tags": [
-      "AI",
-      "health",
-      "food"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-06-18",
-    "source_url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-b7d03f65",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "The 11 standout startups from YC’s Demo Day, according to VCs",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "TechCrunch spoke to investors to find the hottest startups in the Spring 2026 YC batch. Some of them commanded valuations of over $175 million, VCs said.",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-06-18",
-    "source_url": "https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/",
     "source_name": "TechCrunch"
   },
   {
