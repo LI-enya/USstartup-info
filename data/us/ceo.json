@@ -1,5 +1,48 @@
 [
   {
+    "id": "us-ceo-78d14654",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "What is Mistral AI? Everything to know about the OpenAI competitor",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+    "tags": [
+      "AI",
+      "funding"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-07-04",
+    "source_url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-dca520c5",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "🧠 Community Wisdom: Quarterly planning and AI, cash vs. equity comp, paying for interview exercises, AI-powered outbound, compliance startup opportunities, and more",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Community Wisdom 192",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-07-04",
+    "source_url": "https://www.lennysnewsletter.com/p/community-wisdom-quarterly-planning",
+    "source_name": "Lenny's Podcast"
+  },
+  {
     "id": "us-ceo-739c163b",
     "type": "article",
     "title_zh": "",
@@ -200,46 +243,6 @@
     "market_en": "North America",
     "date": "2026-06-29",
     "source_url": "https://www.lennysnewsletter.com/p/how-i-ai-glm-52-review-and-how-gusto",
-    "source_name": "Lenny's Podcast"
-  },
-  {
-    "id": "us-ceo-ed2df99e",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "OpenAI Codex lead on the new shape of product work | Andrew Ambrosino",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Listen now | OpenAI’s Andrew Ambrosino on why software is getting cheaper to build, why taste matters more than ever, and what’s next for the Codex desktop app",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-06-28",
-    "source_url": "https://www.lennysnewsletter.com/p/openai-codex-lead-on-the-new-shape",
-    "source_name": "Lenny's Podcast"
-  },
-  {
-    "id": "us-ceo-545bf8cf",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "🧠 Community Wisdom: Beating a career slump, adding more structure to an established team, questions for new-team 1:1s, the evolving shape of the growth role, and more",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Community Wisdom 191",
-    "tags": [],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-06-27",
-    "source_url": "https://www.lennysnewsletter.com/p/community-wisdom-beating-a-career",
     "source_name": "Lenny's Podcast"
   },
   {
