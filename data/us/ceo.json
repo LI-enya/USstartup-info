@@ -1,5 +1,48 @@
 [
   {
+    "id": "us-ceo-7b93f849",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Even Realities, an ex-Apple team building camera-free smart glasses, raised $150 million from Meituan and Tencent at a $1 billion valuation.",
+    "tags": [
+      "AI",
+      "funding"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-07-06",
+    "source_url": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-6a468cf3",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-07-06",
+    "source_url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-2d8a5283",
     "type": "article",
     "title_zh": "",
@@ -198,49 +241,6 @@
     "market_en": "North America",
     "date": "2026-06-30",
     "source_url": "https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-1ea57770",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Arena, the AI leaderboard everyone uses, is now a $100M business",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-06-29",
-    "source_url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-3d605623",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "VCs remain thirsty to fund AI coding startups. This one, founded by investor Chamath Palihapitiya, is no exception.",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-06-29",
-    "source_url": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
     "source_name": "TechCrunch"
   },
   {
