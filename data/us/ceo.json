@@ -1,5 +1,89 @@
 [
   {
+    "id": "us-ceo-89925223",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions and credit for sales it did not actually generate, per a Bloomberg investigation.",
+    "tags": [
+      "e-commerce"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-07-11",
+    "source_url": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-9d3fd491",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Hugging Face’s CEO on why companies are done renting their AI",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out ag",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-07-10",
+    "source_url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-b6cadc76",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "The massive round was co-led by ARCH Venture Partners, Spark Capital, and Khosla Ventures.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-07-10",
+    "source_url": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-3d20c17c",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out ag",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-07-10",
+    "source_url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-83231430",
     "type": "article",
     "title_zh": "",
@@ -163,91 +247,6 @@
     "market_en": "North America",
     "date": "2026-07-08",
     "source_url": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-730b21bc",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "These AI startups are growing  revenue at faster and faster rates",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-07-08",
-    "source_url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-747bb21d",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Founded in 2024, Prime Intellect’s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs.",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-07-08",
-    "source_url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-7d04db76",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Why this CEO thinks video games make better training data than the internet",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT and Claude are great at text, but they’re less skilled at understanding how things actually move through space and time — an essential skill for producing intell",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-07-08",
-    "source_url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-6ecc68c2",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Like its U.S. counterpart, the European Chips Act aims to foster the semiconductor industry — in part thanks to state subsidies. One of the beneficiaries is QuantumDiamonds, a German startup that applies a novel approach to inspecting chips.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-07-08",
-    "source_url": "https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/",
     "source_name": "TechCrunch"
   },
   {
