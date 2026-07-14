@@ -1,5 +1,27 @@
 [
   {
+    "id": "us-ceo-7361a567",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
+    "tags": [
+      "AI",
+      "funding"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-07-13",
+    "source_url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-89925223",
     "type": "article",
     "title_zh": "",
@@ -188,17 +210,38 @@
     "source_name": "Lenny's Podcast"
   },
   {
-    "id": "us-ceo-561966a5",
+    "id": "us-ceo-730b21bc",
     "type": "article",
     "title_zh": "",
-    "title_en": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+    "title_en": "These AI startups are growing  revenue at faster and faster rates",
     "speaker": "",
     "speaker_zh": "",
     "speaker_en": "",
     "company": "",
     "company_zh": "",
     "desc_zh": "",
-    "desc_en": "AI chip maker SambaNova has raised at an $11 billion valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
+    "desc_en": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-07-08",
+    "source_url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-747bb21d",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Founded in 2024, Prime Intellect’s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs.",
     "tags": [
       "AI",
       "funding"
@@ -206,47 +249,7 @@
     "market_zh": "北美",
     "market_en": "North America",
     "date": "2026-07-08",
-    "source_url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-4d252996",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-07-08",
-    "source_url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-6b4eb56a",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT and Claude are great at text, but they’re less skilled at understanding how things actually move through space and time — an essential skill for producing intell",
-    "tags": [],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-07-08",
-    "source_url": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
+    "source_url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
     "source_name": "TechCrunch"
   },
   {
