@@ -1,5 +1,24 @@
 [
   {
+    "id": "us-ceo-952875f5",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Pinwheel launches a retro-inspired landline phone for kids",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Kid-friendly tech company Pinwheel announced the launch of a new landline phone designed to let children stay connected without the distractions of a smartphone.",
+    "tags": [],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-07-14",
+    "source_url": "https://techcrunch.com/2026/07/14/pinwheel-launches-a-retro-inspired-landline-phone-for-kids/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-7361a567",
     "type": "article",
     "title_zh": "",
@@ -210,46 +229,22 @@
     "source_name": "Lenny's Podcast"
   },
   {
-    "id": "us-ceo-730b21bc",
+    "id": "us-ceo-6b4eb56a",
     "type": "article",
     "title_zh": "",
-    "title_en": "These AI startups are growing  revenue at faster and faster rates",
+    "title_en": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
     "speaker": "",
     "speaker_zh": "",
     "speaker_en": "",
     "company": "",
     "company_zh": "",
     "desc_zh": "",
-    "desc_en": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
-    "tags": [
-      "AI"
-    ],
+    "desc_en": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT and Claude are great at text, but they’re less skilled at understanding how things actually move through space and time — an essential skill for producing intell",
+    "tags": [],
     "market_zh": "北美",
     "market_en": "North America",
     "date": "2026-07-08",
-    "source_url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-747bb21d",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Founded in 2024, Prime Intellect’s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs.",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-07-08",
-    "source_url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+    "source_url": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
     "source_name": "TechCrunch"
   },
   {
