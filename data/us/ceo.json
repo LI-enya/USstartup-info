@@ -1,5 +1,26 @@
 [
   {
+    "id": "us-ceo-590a10de",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Netflix CPTO on AI and the future of product and tech roles | Elizabeth Stone",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Elizabeth Stone, CPTO of Netflix, on managing AI-era product teams, the rise of systems thinking, and how to build excellence as an operating system",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-07-19",
+    "source_url": "https://www.lennysnewsletter.com/p/netflix-cpto-on-ai-and-the-future",
+    "source_name": "Lenny's Podcast"
+  },
+  {
     "id": "us-ceo-cce8cc2f",
     "type": "article",
     "title_zh": "",
@@ -189,61 +210,17 @@
     "source_name": "TechCrunch"
   },
   {
-    "id": "us-ceo-00c3cada",
+    "id": "us-ceo-10364b27",
     "type": "article",
     "title_zh": "",
-    "title_en": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+    "title_en": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
     "speaker": "",
     "speaker_zh": "",
     "speaker_en": "",
     "company": "",
     "company_zh": "",
     "desc_zh": "",
-    "desc_en": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
-    "tags": [
-      "AI",
-      "e-commerce"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-07-15",
-    "source_url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-11d72ef4",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Daniel Ek’s body-scanning startup Neko Health raises another $700M",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person's health.",
-    "tags": [
-      "AI",
-      "health"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-07-15",
-    "source_url": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-709b6ce5",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Backed by $60M in funding, Oak steps out of stealth to fix the identity mess that AI agents are making worse",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Co-founded by serial entrepreneur Shai Morag, Israeli identity management startup Oak is emerging out of stealth with $60 million in seed funding.",
+    "desc_en": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
     "tags": [
       "AI",
       "funding"
@@ -251,7 +228,28 @@
     "market_zh": "北美",
     "market_en": "North America",
     "date": "2026-07-15",
-    "source_url": "https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/",
+    "source_url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-333149bb",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-07-15",
+    "source_url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
     "source_name": "TechCrunch"
   },
   {
