@@ -1,5 +1,27 @@
 [
   {
+    "id": "us-ceo-b2b212b6",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Bluecore Energy raises $10M to build portable nuclear reactors on barges",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Maritime nuclear energy startup Bluecore Energy has raised $10 million in a pre-seed funding round led by Slauson & Co.",
+    "tags": [
+      "AI",
+      "funding"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-07-21",
+    "source_url": "https://techcrunch.com/2026/07/21/this-uber-alumn-just-raised-a-10m-pre-seed-to-build-portable-nuclear-enegry/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-57d16d8a",
     "type": "article",
     "title_zh": "",
@@ -225,25 +247,6 @@
     "market_en": "North America",
     "date": "2026-07-17",
     "source_url": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-f7905ed6",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Australian tech community. One startup walks away with automatic entry into TechCrunch Disrupt in San Francisco — no application, no further competition, a g",
-    "tags": [],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-07-17",
-    "source_url": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
     "source_name": "TechCrunch"
   },
   {
