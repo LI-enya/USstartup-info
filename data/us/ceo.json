@@ -1,5 +1,47 @@
 [
   {
+    "id": "us-ceo-25d46ca9",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training effectiveness.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-07-22",
+    "source_url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-507fdf27",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Cascade raises $3.5M to help construction firms find and win projects",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "a16z Speedrun, Ada Ventures, and Snowball VC have invested in Cascade's $3.5 million seed round.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-07-22",
+    "source_url": "https://techcrunch.com/2026/07/22/cascade-raises-3-5m-to-help-construction-firms-find-and-win-projects/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-b2b212b6",
     "type": "article",
     "title_zh": "",
@@ -204,50 +246,6 @@
     "date": "2026-07-18",
     "source_url": "https://www.lennysnewsletter.com/p/community-wisdom-syncing-claude-code",
     "source_name": "Lenny's Podcast"
-  },
-  {
-    "id": "us-ceo-4f3c38bf",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "No product? No problem. This Disrupt 2026 session shows how to get pre-seed funding with conviction, storytelling",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "It’s not just you: AI startups are taking in a huge amount of seed funding, and in the process making things harder for anyone looking for funding even at a pre-seed stage. We’ve covered the trend in detail, and at this year’s TechCrunch Disrupt event, we want to help pre-seed founders now being hel",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-07-17",
-    "source_url": "https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-d90a7afb",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices.",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-07-17",
-    "source_url": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
-    "source_name": "TechCrunch"
   },
   {
     "id": "us-ceo-005",

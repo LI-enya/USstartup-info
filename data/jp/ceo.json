@@ -1,5 +1,32 @@
 [
   {
+    "id": "jp-ceo-564a45cb",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "",
+    "tags": [
+      "AI",
+      "funding"
+    ],
+    "market_zh": "日本",
+    "market_en": "Japan",
+    "date": "2026-07-23",
+    "source_url": "https://www.fastgrow.jp/articles/finance-sideview-buddycompass",
+    "source_name": "FastGrow",
+    "title_ja": "均一化するAI時代を、“熱狂工学”で突破──泥臭い現場伴走とブランド共創のBuddyCompass、1.5億円調達で事業を加速へ",
+    "speaker_ja": "",
+    "company_ja": "",
+    "desc_ja": "重要なのは、調達額の大きさ？バリュエーション？ラウンド？いやいや、スタートアップの資金調達とは、もっと奥深く、緻密で複雑なものである。\n\nFastGrow編集部では、調達リリースを見るたび、その裏側について思いを巡らせ、その後のビジョンについて予測や仮説立てをしてきた。そのために知りたい情報を、ぜひ外部向けにも記事としてまとめてみよう──そんな想いで始まったこの連載。\n\n今回は、2026年7月に1.5億円の資金調達を発表した株式会社BuddyCompassについて、その「横顔」をまとめる。",
+    "market_ja": "日本"
+  },
+  {
     "id": "jp-ceo-78b643cc",
     "type": "article",
     "title_zh": "",
@@ -305,30 +332,6 @@
     "speaker_ja": "",
     "company_ja": "",
     "desc_ja": "マネーフォワードの最高戦略責任者（CSO）という確固たるキャリアを手放し、自ら泥臭くプロダクト創りの最前線に立つ起業家がいる。株式会社Efficの代表、菅藤達也氏だ。\n\n情報収集から提案書の作成まで、AIが人間の営業活動を代替し始める中、同社は「営業の本来の価値は、意思決定を前に進める『新たな気づきを得る対話』にある」と定義。商談を解析して暗黙知を組織の力に変えるセールスAIエージェント『Analyst』と『Presenter』を展開している。\n\n自身が苦手とする「経理」や「営業」といった業務を、あえて起業のテーマに選び続けてきた菅藤氏。その根底には、理不尽な反復作業を消し去り、人間がより人間",
-    "market_ja": "日本"
-  },
-  {
-    "id": "jp-ceo-f2b48e6e",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "",
-    "tags": [],
-    "market_zh": "日本",
-    "market_en": "Japan",
-    "date": "2026-06-17",
-    "source_url": "https://www.fastgrow.jp/articles/legrp-kugimiya-fujii",
-    "source_name": "FastGrow",
-    "title_ja": "どのベンチャーよりも早く「Day1から事業家」の打席を用意します──わずか35名で70億円。“ポートフォリオカンパニー”に変貌しだしたL&E Groupの実態",
-    "speaker_ja": "",
-    "company_ja": "",
-    "desc_ja": "「1,000人のうちの1人として完成された仕組みを学ぶか、未開の地の責任者として自力で事業を創るか」──。\n\n「事業家になりたい」「裁量のある環境で成長したい」。そう志す優秀な学生の多くは、数千人規模の有名IT企業や名だたるメガベンチャーをファーストキャリアに選ぶ傾向がある。そこで選ばれる企業群が、「人材輩出企業」として確固たる地位を築いているのは、紛れもない事実だ。\n\nだが、FastGrowはあえて一つの問いを投げかけたい。すでに「完成された事業の仕組み」を持つ巨大組織で、新卒の若手に「ゼロからビジネスモデルを着想し、課題を定義し、事業を創り上げる打席」は、どれほどの確率で回ってくるのか。そ",
     "market_ja": "日本"
   },
   {
