@@ -1,5 +1,26 @@
 [
   {
+    "id": "us-ceo-6ba612d6",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Build in public, fail in public: what it’s like to be a founder under 20 right now",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-07-24",
+    "source_url": "https://techcrunch.com/2026/07/24/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-c60cb092",
     "type": "article",
     "title_zh": "",
@@ -211,42 +232,23 @@
     "source_name": "TechCrunch"
   },
   {
-    "id": "us-ceo-57d16d8a",
+    "id": "us-ceo-39395b13",
     "type": "article",
     "title_zh": "",
-    "title_en": "StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community",
+    "title_en": "How the founder of Morning Brew built a Claude content machine that never runs out of ideas and never sounds like slop | Alex Lieberman",
     "speaker": "",
     "speaker_zh": "",
     "speaker_en": "",
     "company": "",
     "company_zh": "",
     "desc_zh": "",
-    "desc_en": "For the first time since 2024, StrictlyVC is coming back to New York City — and we're bringing the kind of access you’d expect from an under-wraps event to the whole startup, VC, and dealmaking community.",
+    "desc_en": "Listen now | 🎙 How Alex Lieberman (Morning Brew) built a Claude workflow that interviews him before drafting, codes his voice in Markdown, and runs a six-persona revision loop before posting",
     "tags": [],
     "market_zh": "北美",
     "market_en": "North America",
     "date": "2026-07-20",
-    "source_url": "https://techcrunch.com/2026/07/20/strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-huge-year-for-the-citys-startup-community/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-9c76c65c",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Watch Flock Safety CEO Garrett Langley discuss the future of surveillance at TechCrunch Disrupt 2026",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Flock Safety sits right at the center of the debate over where the line should be drawn between privacy and public safety. That’s why we’re bringing Flock’s founder and CEO Garrett Langley to the stage to speak about those very issues.",
-    "tags": [],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-07-20",
-    "source_url": "https://techcrunch.com/2026/07/20/watch-flock-safety-ceo-garrett-langley-discuss-the-future-of-surveillance-at-techcrunch-disrupt-2026/",
-    "source_name": "TechCrunch"
+    "source_url": "https://www.lennysnewsletter.com/p/how-the-founder-of-morning-brew-built",
+    "source_name": "Lenny's Podcast"
   },
   {
     "id": "us-ceo-005",
