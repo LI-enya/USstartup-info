@@ -232,22 +232,24 @@
     "source_name": "TechCrunch"
   },
   {
-    "id": "us-ceo-39395b13",
+    "id": "us-ceo-beeee2d6",
     "type": "article",
     "title_zh": "",
-    "title_en": "How the founder of Morning Brew built a Claude content machine that never runs out of ideas and never sounds like slop | Alex Lieberman",
+    "title_en": "🎙️ How I AI: How the founder of Morning Brew built a Claude content machine that never runs out of ideas",
     "speaker": "",
     "speaker_zh": "",
     "speaker_en": "",
     "company": "",
     "company_zh": "",
     "desc_zh": "",
-    "desc_en": "Listen now | 🎙 How Alex Lieberman (Morning Brew) built a Claude workflow that interviews him before drafting, codes his voice in Markdown, and runs a six-persona revision loop before posting",
-    "tags": [],
+    "desc_en": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+    "tags": [
+      "AI"
+    ],
     "market_zh": "北美",
     "market_en": "North America",
     "date": "2026-07-20",
-    "source_url": "https://www.lennysnewsletter.com/p/how-the-founder-of-morning-brew-built",
+    "source_url": "https://www.lennysnewsletter.com/p/how-i-ai-how-the-founder-of-morning",
     "source_name": "Lenny's Podcast"
   },
   {
