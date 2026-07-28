@@ -1,5 +1,48 @@
 [
   {
+    "id": "us-ceo-11fc4631",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-07-27",
+    "source_url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-db1ba1ba",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Antares raises $470M to build nuclear reactors for the US military",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Antares has raised $470 million to build small modular reactors — 100 kW to 1 MW — for U.S. Air Force bases.",
+    "tags": [
+      "AI",
+      "funding"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-07-27",
+    "source_url": "https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-6ba612d6",
     "type": "article",
     "title_zh": "",
@@ -208,47 +251,6 @@
     "date": "2026-07-22",
     "source_url": "https://techcrunch.com/2026/07/22/cascade-raises-3-5m-to-help-construction-firms-find-and-win-projects/",
     "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-b2b212b6",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Bluecore Energy raises $10M to build portable nuclear reactors on barges",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Maritime nuclear energy startup Bluecore Energy has raised $10 million in a pre-seed funding round led by Slauson & Co.",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-07-21",
-    "source_url": "https://techcrunch.com/2026/07/21/this-uber-alumn-just-raised-a-10m-pre-seed-to-build-portable-nuclear-enegry/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-39395b13",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "How the founder of Morning Brew built a Claude content machine that never runs out of ideas and never sounds like slop | Alex Lieberman",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Listen now | 🎙 How Alex Lieberman (Morning Brew) built a Claude workflow that interviews him before drafting, codes his voice in Markdown, and runs a six-persona revision loop before posting",
-    "tags": [],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-07-20",
-    "source_url": "https://www.lennysnewsletter.com/p/how-the-founder-of-morning-brew-built",
-    "source_name": "Lenny's Podcast"
   },
   {
     "id": "us-ceo-005",
