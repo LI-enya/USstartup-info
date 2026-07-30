@@ -1,5 +1,90 @@
 [
   {
+    "id": "us-ceo-c20311bb",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "As AI content floods the internet, Pangram raises $9M to detect it",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
+    "tags": [
+      "AI",
+      "funding"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-07-29",
+    "source_url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-14a2d9ac",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "‘No one’s making a phone like this’: Light’s co-founders on building for the anti-smartphone generation",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "With the Light Phone, Kaiwei Tang and Joe Hollier have spent over a decade exploring the value of simplicity in our relationship to technology, partnering along the way with players like Andrew Yang, Kendrick Lamar, and Pete Davidson. Now, with a new flip phone and a growing wave of “attention activ",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-07-29",
+    "source_url": "https://techcrunch.com/video/no-ones-making-a-phone-like-this-lights-co-founders-on-building-for-the-anti-smartphone-generation/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-14a36ac5",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-07-29",
+    "source_url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-e025db61",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "‘If this isn’t addiction, I don’t know what is’: Light’s founders get real about screen time",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "With the Light Phone, Kaiwei Tang and Joe Hollier have spent over a decade exploring the value of simplicity in our relationship to technology, partnering along the way with players like Andrew Yang, Kendrick Lamar, and Pete Davidson. Now, with a new flip phone and a growing wave of “attention activ",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-07-29",
+    "source_url": "https://techcrunch.com/podcast/if-this-isnt-addiction-i-dont-know-what-is-lights-founders-get-real-about-screen-time/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-33cb6476",
     "type": "article",
     "title_zh": "",
@@ -161,91 +246,6 @@
     "market_en": "North America",
     "date": "2026-07-24",
     "source_url": "https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-244f2a1a",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Your backstage pass to TechCrunch Disrupt 2026 is waiting",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Volunteer at TechCrunch Disrupt 2026 and get a behind-the-scenes look at how one of the world's biggest startup conferences gets built.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-07-23",
-    "source_url": "https://techcrunch.com/2026/07/23/your-backstage-pass-to-techcrunch-disrupt-2026-is-waiting/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-2f870aa2",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-07-23",
-    "source_url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-71181222",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Edtech platform raises $4.5M to help teach students how to vibe code",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Imagi announced a $4.5 million seed round, with investors including Brighteye Ventures, Day One Capital, and artist Will.i.am.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-07-23",
-    "source_url": "https://techcrunch.com/2026/07/23/edtech-platform-raises-4-5m-to-help-teach-students-how-to-vibe-code/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-3521e25b",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Runway launches AI model router as generative media gets crowded",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-07-23",
-    "source_url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
     "source_name": "TechCrunch"
   },
   {
