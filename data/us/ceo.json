@@ -1,5 +1,26 @@
 [
   {
+    "id": "us-ceo-bcfd3899",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)",
+    "speaker": "Tom Verrilli",
+    "speaker_zh": "Tom Verrilli",
+    "speaker_en": "Tom Verrilli",
+    "company": "CPO of Whatnot",
+    "company_zh": "CPO of Whatnot",
+    "desc_zh": "",
+    "desc_en": "Listen now | Tom Verrilli explains why fewer, more senior PMs doing real IC work outperform any ratio-driven org structure",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-08-02",
+    "source_url": "https://www.lennysnewsletter.com/p/this-cpo-regrets-that-product-management",
+    "source_name": "Lenny's Podcast"
+  },
+  {
     "id": "us-ceo-7cf46008",
     "type": "article",
     "title_zh": "",
@@ -225,28 +246,6 @@
     "market_en": "North America",
     "date": "2026-07-30",
     "source_url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-9989e2e3",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Add another member to the fast-and-furious AI unicorn club: Simile.",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-07-30",
-    "source_url": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/",
     "source_name": "TechCrunch"
   },
   {
