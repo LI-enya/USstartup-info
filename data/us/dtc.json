@@ -1,5 +1,26 @@
 [
   {
+    "id": "us-dtc-2fb60112",
+    "name": "the New York",
+    "name_zh": "",
+    "name_en": "the New York",
+    "tagline_zh": "",
+    "tagline_en": "Inside the New York Liberty’s year-round merch machine",
+    "url": "https://www.modernretail.co/marketing/inside-the-new-york-libertys-year-round-merch-machine/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "desc_zh": "",
+    "desc_en": "Merch is proving big business for the New York Liberty, with sales up double-digits and \"selling like hotcakes.\" The team is now creating more products year-round, as it works to become a full lifestyle brand.",
+    "category_zh": "DTC品牌",
+    "category_en": "DTC Brand",
+    "market_zh": "美国",
+    "market_en": "United States",
+    "tags": [],
+    "founded": "",
+    "funding": "",
+    "source_url": "https://www.modernretail.co/marketing/inside-the-new-york-libertys-year-round-merch-machine/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "source_name": "Modern Retail",
+    "date": "2026-08-07"
+  },
+  {
     "id": "us-dtc-8a8b427c",
     "name": "Digital Brands Group",
     "name_zh": "",
@@ -250,31 +271,6 @@
     "funding": "",
     "source_url": "https://www.retaildive.com/news/digital-brands-group-strategic-review-sale-merger/826813/",
     "source_name": "Retail Dive",
-    "date": "2026-08-03"
-  },
-  {
-    "id": "us-dtc-afc05390",
-    "name": "Retail’s new operating",
-    "name_zh": "",
-    "name_en": "Retail’s new operating",
-    "tagline_zh": "",
-    "tagline_en": "Retail’s new operating model centers on leaner teams, smarte",
-    "url": "https://www.modernretail.co/operations/what-retail-leaders-are-actually-doing-with-ai-modern-retail/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "desc_zh": "",
-    "desc_en": "The conversation around AI has moved well beyond experimentation. At the recent Glossy & Modern Retail Brand Leaders Dinner, with partner Global Payments, founders and executives shared how they're using artificial intelligence to automate operations, rethink hiring, build internal knowledge platfor",
-    "category_zh": "DTC品牌",
-    "category_en": "DTC Brand",
-    "market_zh": "美国",
-    "market_en": "United States",
-    "tags": [
-      "AI",
-      "fintech",
-      "e-commerce"
-    ],
-    "founded": "",
-    "funding": "",
-    "source_url": "https://www.modernretail.co/operations/what-retail-leaders-are-actually-doing-with-ai-modern-retail/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "source_name": "Modern Retail",
     "date": "2026-08-03"
   },
   {
