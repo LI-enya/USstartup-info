@@ -1,5 +1,29 @@
 [
   {
+    "id": "us-dtc-eeb8ddf3",
+    "name": "Once Upon a",
+    "name_zh": "",
+    "name_en": "Once Upon a",
+    "tagline_zh": "",
+    "tagline_en": "How Once Upon a Farm is shaking up the baby aisle with coole",
+    "url": "https://www.modernretail.co/podcasts/how-once-upon-a-farm-is-shaking-up-the-baby-aisle-with-coolers/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "desc_zh": "",
+    "desc_en": "This week's episode of the Modern Retail Podcast features a conversation with Once Upon a Farm Chief Marketing Officer Katie Marston about how the company has sought to shake up the baby aisle with coolers. Marston shares what she's learned over the years about what it takes to get retailers on boar",
+    "category_zh": "DTC品牌",
+    "category_en": "DTC Brand",
+    "market_zh": "美国",
+    "market_en": "United States",
+    "tags": [
+      "AI",
+      "e-commerce"
+    ],
+    "founded": "",
+    "funding": "",
+    "source_url": "https://www.modernretail.co/podcasts/how-once-upon-a-farm-is-shaking-up-the-baby-aisle-with-coolers/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "source_name": "Modern Retail",
+    "date": "2026-08-08"
+  },
+  {
     "id": "us-dtc-2fb60112",
     "name": "the New York",
     "name_zh": "",
@@ -248,30 +272,6 @@
     "source_url": "https://www.modernretail.co/operations/brands-briefing-why-apparel-ipos-are-creeping-back-up/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
     "source_name": "Modern Retail",
     "date": "2026-08-04"
-  },
-  {
-    "id": "us-dtc-c1ea2e11",
-    "name": "Digital Brands Group",
-    "name_zh": "",
-    "name_en": "Digital Brands Group",
-    "tagline_zh": "",
-    "tagline_en": "Digital Brands Group considers sale, merger",
-    "url": "https://www.retaildive.com/news/digital-brands-group-strategic-review-sale-merger/826813/",
-    "desc_zh": "",
-    "desc_en": "The apparel conglomerate is undergoing a strategic review and has retained financial advisers.",
-    "category_zh": "DTC品牌",
-    "category_en": "DTC Brand",
-    "market_zh": "美国",
-    "market_en": "United States",
-    "tags": [
-      "AI",
-      "fashion"
-    ],
-    "founded": "",
-    "funding": "",
-    "source_url": "https://www.retaildive.com/news/digital-brands-group-strategic-review-sale-merger/826813/",
-    "source_name": "Retail Dive",
-    "date": "2026-08-03"
   },
   {
     "id": "us-dtc-005",

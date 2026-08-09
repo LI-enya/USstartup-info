@@ -1,5 +1,45 @@
 [
   {
+    "id": "us-ceo-fb8a4585",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "OpenAI acquires presentation startup NextSlide",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "NextSlide says its team members are now working on ChatGPT.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-08-08",
+    "source_url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-ef971487",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "🧠 Community Wisdom: Crafting outreach that reads as authentic, finding design partners, what counts as a moat when anyone can build, making a product vision stick, and more",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Community Wisdom 196",
+    "tags": [],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-08-08",
+    "source_url": "https://www.lennysnewsletter.com/p/community-wisdom-crafting-outreach",
+    "source_name": "Lenny's Podcast"
+  },
+  {
     "id": "us-ceo-f6c7825c",
     "type": "article",
     "title_zh": "",
@@ -202,47 +242,6 @@
     "market_en": "North America",
     "date": "2026-08-05",
     "source_url": "https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-2007c6f5",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
-    "tags": [
-      "AI",
-      "e-commerce"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-08-05",
-    "source_url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-f0301afd",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
-    "tags": [],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-08-05",
-    "source_url": "https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
     "source_name": "TechCrunch"
   },
   {
