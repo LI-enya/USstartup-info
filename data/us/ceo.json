@@ -1,5 +1,27 @@
 [
   {
+    "id": "us-ceo-ac8f72bb",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
+    "tags": [
+      "AI",
+      "health"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-08-13",
+    "source_url": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-6e0fcfcd",
     "type": "article",
     "title_zh": "",
@@ -227,25 +249,6 @@
     "date": "2026-08-08",
     "source_url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
     "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-ef971487",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "🧠 Community Wisdom: Crafting outreach that reads as authentic, finding design partners, what counts as a moat when anyone can build, making a product vision stick, and more",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Community Wisdom 196",
-    "tags": [],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-08-08",
-    "source_url": "https://www.lennysnewsletter.com/p/community-wisdom-crafting-outreach",
-    "source_name": "Lenny's Podcast"
   },
   {
     "id": "us-ceo-005",
