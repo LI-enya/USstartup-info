@@ -1,5 +1,69 @@
 [
   {
+    "id": "us-ceo-32932d6a",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Every fusion startup that has raised over $100M",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+    "tags": [
+      "AI",
+      "funding"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-08-15",
+    "source_url": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-8b4e45a3",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "SpaceX officially closes its Cursor acquisition",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "AI coding startup Cursor is now officially a part of SpaceX.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-08-15",
+    "source_url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-851e8556",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "🧠 Community Wisdom: Recovering from burnout, what Airtable’s sale says about the ceiling on a startup, keeping architecture docs up to date, running competitor analysis, and more",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Community Wisdom 197",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-08-15",
+    "source_url": "https://www.lennysnewsletter.com/p/community-wisdom-recovering-from",
+    "source_name": "Lenny's Podcast"
+  },
+  {
     "id": "us-ceo-b71221a8",
     "type": "article",
     "title_zh": "",
@@ -185,68 +249,6 @@
     "date": "2026-08-11",
     "source_url": "https://techcrunch.com/2026/08/11/kyoto-fusioneering-starts-work-on-key-fusion-power-plant-device/",
     "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-83ea7021",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "General Catalyst leads $1.1B round into 2-month-old River AI",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-08-11",
-    "source_url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-a19dcce1",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.",
-    "tags": [
-      "AI",
-      "e-commerce"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-08-11",
-    "source_url": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-445af97d",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "How to make people care about your startup",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Three founder archetypes—and how to turn your origin story into a communications strategy",
-    "tags": [],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-08-11",
-    "source_url": "https://www.lennysnewsletter.com/p/how-to-make-people-care-about-your",
-    "source_name": "Lenny's Podcast"
   },
   {
     "id": "us-ceo-005",
