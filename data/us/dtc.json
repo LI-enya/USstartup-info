@@ -1,5 +1,54 @@
 [
   {
+    "id": "us-dtc-c6e555d1",
+    "name": "Roots to be",
+    "name_zh": "",
+    "name_en": "Roots to be",
+    "tagline_zh": "",
+    "tagline_en": "Roots to be acquired by Roberto Cavalli parent company",
+    "url": "https://www.retaildive.com/news/roots-acquired-marquee-brands/828478/",
+    "desc_zh": "",
+    "desc_en": "The outdoor retailer will go private in a deal led by Marquee Brands that is designed to ensure it “remains anchored in Canadian culture.”",
+    "category_zh": "DTC品牌",
+    "category_en": "DTC Brand",
+    "market_zh": "美国",
+    "market_en": "United States",
+    "tags": [
+      "AI",
+      "e-commerce"
+    ],
+    "founded": "",
+    "funding": "",
+    "source_url": "https://www.retaildive.com/news/roots-acquired-marquee-brands/828478/",
+    "source_name": "Retail Dive",
+    "date": "2026-08-21"
+  },
+  {
+    "id": "us-dtc-335dbe1b",
+    "name": "Walmart finally starts",
+    "name_zh": "",
+    "name_en": "Walmart finally starts",
+    "tagline_zh": "",
+    "tagline_en": "Walmart finally starts supporting Apple Pay and Google Pay",
+    "url": "https://www.modernretail.co/technology/walmart-finally-starts-supporting-apple-pay-and-google-pay/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "desc_zh": "",
+    "desc_en": "By the end of this year, shoppers will finally be able to use Apple Pay and Google Pay in Walmart stores, ending years of frustration that the retailer didn't support what is now a nearly ubiquitous payment option.",
+    "category_zh": "DTC品牌",
+    "category_en": "DTC Brand",
+    "market_zh": "美国",
+    "market_en": "United States",
+    "tags": [
+      "AI",
+      "fintech",
+      "e-commerce"
+    ],
+    "founded": "",
+    "funding": "",
+    "source_url": "https://www.modernretail.co/technology/walmart-finally-starts-supporting-apple-pay-and-google-pay/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "source_name": "Modern Retail",
+    "date": "2026-08-21"
+  },
+  {
     "id": "us-dtc-d944b9ec",
     "name": "Beyond the backlash:",
     "name_zh": "",
@@ -227,53 +276,6 @@
     "funding": "",
     "source_url": "https://www.retaildive.com/news/indochino-plots-small-format-showroom-expansion/828015/",
     "source_name": "Retail Dive",
-    "date": "2026-08-18"
-  },
-  {
-    "id": "us-dtc-2cb3231d",
-    "name": "Brands Briefing: Ugg’s",
-    "name_zh": "",
-    "name_en": "Brands Briefing: Ugg’s",
-    "tagline_zh": "",
-    "tagline_en": "Brands Briefing: Ugg’s latest creators aren’t conventional f",
-    "url": "https://www.modernretail.co/marketing/brands-briefing-uggs-latest-creators-arent-conventional-fashion-influencers-theyre-art-students/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "desc_zh": "",
-    "desc_en": "Class is in session at Ugg. The brand is creating a new college ambassador program as it works to establish itself as a go-to style destination.",
-    "category_zh": "DTC品牌",
-    "category_en": "DTC Brand",
-    "market_zh": "美国",
-    "market_en": "United States",
-    "tags": [
-      "fashion"
-    ],
-    "founded": "",
-    "funding": "",
-    "source_url": "https://www.modernretail.co/marketing/brands-briefing-uggs-latest-creators-arent-conventional-fashion-influencers-theyre-art-students/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "source_name": "Modern Retail",
-    "date": "2026-08-18"
-  },
-  {
-    "id": "us-dtc-bd57c484",
-    "name": "AI is changing",
-    "name_zh": "",
-    "name_en": "AI is changing",
-    "tagline_zh": "",
-    "tagline_en": "AI is changing retail commerce integrations, but it isn’t vi",
-    "url": "https://www.modernretail.co/sponsored/ai-is-changing-retail-commerce-integrations-but-it-isnt-vibe-coding/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "desc_zh": "",
-    "desc_en": "AI is changing how retail commerce teams build, manage and scale integrations. But the next phase isn’t about generating more code — it’s about creating faster, more reliable workflows with the governance and controls needed to support retail operations. Sponsored by Celigo.",
-    "category_zh": "DTC品牌",
-    "category_en": "DTC Brand",
-    "market_zh": "美国",
-    "market_en": "United States",
-    "tags": [
-      "AI",
-      "e-commerce"
-    ],
-    "founded": "",
-    "funding": "",
-    "source_url": "https://www.modernretail.co/sponsored/ai-is-changing-retail-commerce-integrations-but-it-isnt-vibe-coding/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "source_name": "Modern Retail",
     "date": "2026-08-18"
   },
   {
