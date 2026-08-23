@@ -1,5 +1,29 @@
 [
   {
+    "id": "us-dtc-5d5f2e79",
+    "name": "big business of",
+    "name_zh": "",
+    "name_en": "big business of",
+    "tagline_zh": "",
+    "tagline_en": "The big business of dorm decor with Urban Outfitters",
+    "url": "https://www.modernretail.co/operations/the-big-business-of-dorm-decor-with-urban-outfitters/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "desc_zh": "",
+    "desc_en": "This week on the Modern Retail podcast, Urban Outfitters' Karen Booker dives into the company's dorm room decor strategy.",
+    "category_zh": "DTC品牌",
+    "category_en": "DTC Brand",
+    "market_zh": "美国",
+    "market_en": "United States",
+    "tags": [
+      "AI",
+      "e-commerce"
+    ],
+    "founded": "",
+    "funding": "",
+    "source_url": "https://www.modernretail.co/operations/the-big-business-of-dorm-decor-with-urban-outfitters/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "source_name": "Modern Retail",
+    "date": "2026-08-22"
+  },
+  {
     "id": "us-dtc-c6e555d1",
     "name": "Roots to be",
     "name_zh": "",
@@ -249,32 +273,6 @@
     "founded": "",
     "funding": "",
     "source_url": "https://www.retaildive.com/news/crocs-hatches-new-mascot-niles-to-enrich-brand-storytelling/828119/",
-    "source_name": "Retail Dive",
-    "date": "2026-08-18"
-  },
-  {
-    "id": "us-dtc-2e6dc602",
-    "name": "Indochino plots small-format",
-    "name_zh": "",
-    "name_en": "Indochino plots small-format",
-    "tagline_zh": "",
-    "tagline_en": "Indochino plots small-format showroom expansion",
-    "url": "https://www.retaildive.com/news/indochino-plots-small-format-showroom-expansion/828015/",
-    "desc_zh": "",
-    "desc_en": "The DTC apparel retailer will open 10 locations in 2027, its “largest investment in standalone retail in years.”",
-    "category_zh": "DTC品牌",
-    "category_en": "DTC Brand",
-    "market_zh": "美国",
-    "market_en": "United States",
-    "tags": [
-      "AI",
-      "e-commerce",
-      "DTC",
-      "fashion"
-    ],
-    "founded": "",
-    "funding": "",
-    "source_url": "https://www.retaildive.com/news/indochino-plots-small-format-showroom-expansion/828015/",
     "source_name": "Retail Dive",
     "date": "2026-08-18"
   },

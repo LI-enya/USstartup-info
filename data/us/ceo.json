@@ -1,5 +1,26 @@
 [
   {
+    "id": "us-ceo-5303ae79",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "🧠 Community Wisdom: Favorite Lenny’s Product Pass tools, how AI is reshaping hiring, what to prioritize when you join a new company, and more",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Community Wisdom 198",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-08-22",
+    "source_url": "https://www.lennysnewsletter.com/p/community-wisdom-favorite-lennys",
+    "source_name": "Lenny's Podcast"
+  },
+  {
     "id": "us-ceo-d685e08d",
     "type": "article",
     "title_zh": "",
@@ -204,43 +225,25 @@
     "source_name": "TechCrunch"
   },
   {
-    "id": "us-ceo-9200d39b",
+    "id": "us-ceo-8efb75bb",
     "type": "article",
     "title_zh": "",
-    "title_en": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+    "title_en": "Sachin Bansal’s fintech Navi raises first outside capital with $100M Prosus investment",
     "speaker": "",
     "speaker_zh": "",
     "speaker_en": "",
     "company": "",
     "company_zh": "",
     "desc_zh": "",
-    "desc_en": "It's the data, stupid.",
+    "desc_en": "The investment comes amid Navi plans to go public.",
     "tags": [
-      "AI"
+      "AI",
+      "fintech"
     ],
     "market_zh": "北美",
     "market_en": "North America",
     "date": "2026-08-19",
-    "source_url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-4b209123",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "The founder’s secret weapon: Work at TechCrunch Disrupt 2026 and learn how the pros do it",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Volunteer at TechCrunch Disrupt 2026 and get an insider's view of how world-class tech events get built and more.",
-    "tags": [],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-08-19",
-    "source_url": "https://techcrunch.com/2026/08/19/the-founders-secret-weapon-work-at-techcrunch-disrupt-2026-and-learn-how-the-pros-do-it/",
+    "source_url": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/",
     "source_name": "TechCrunch"
   },
   {
