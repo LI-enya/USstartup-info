@@ -1,5 +1,32 @@
 [
   {
+    "id": "jp-ceo-97104d26",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "",
+    "tags": [
+      "AI",
+      "funding"
+    ],
+    "market_zh": "日本",
+    "market_en": "Japan",
+    "date": "2026-08-28",
+    "source_url": "https://www.fastgrow.jp/articles/wondercamel-wada-yoshimura-fukumoto-okumura",
+    "source_name": "FastGrow",
+    "title_ja": "AI時代こそ「現場」「対話」に全振りする──売上30億円ベンチャー・Wonder Camelの裏側",
+    "speaker_ja": "",
+    "company_ja": "",
+    "desc_ja": "​大手コンサルティングファームでは、現場のプロフェッショナル人材が高いバリューを発揮しても、その成果がそのまま本人の報酬に直接反映されにくいと言われる。なぜなら、本社機能や間接部門、非稼働人員などのコストを組織全体で負担することになり、顧客企業からの売上のうちメンバーに還元される原資となるのは4割程度にとどまってしまう企業が少なくないと言われているからだ。\n\n2021年の創業以来、Wonder Camelはこの産業構造を疑い、間接コストを削ぎ落として個人へ直接還元する仕組みを構築してきた。\n\n​同社は、高還元の仕組みを維持しながら事業を拡大。創業1年目は6,000万円だった売上高が、2025年",
+    "market_ja": "日本"
+  },
+  {
     "id": "jp-ceo-c234de33",
     "type": "article",
     "title_zh": "",
@@ -302,30 +329,6 @@
     "speaker_ja": "",
     "company_ja": "",
     "desc_ja": "日本経済の停滞が叫ばれて久しい。\n\n「昔は政治が三流で経済は一流だったが、今は政治が一流になりつつある一方で、経済は三流に成り下がった」。Terra Charge株式会社代表の徳重徹氏は、そう警鐘を鳴らす。\n\n最後の砦である自動車産業においてすら、EVのメインプレイヤーとなる日本企業が不在であるという危うい事実がある。そんな中、東京電力や関西電力、エネオスといった超大手が名を連ねるEV充電インフラ市場に最後発として果敢に参入し、わずか4年でシェアトップを獲得したのが、その徳重氏だ。彼は世界トップレベルのドローン企業であるテラドローンを率い、上場企業へと育て上げた日本を代表する起業家でもある。\n",
-    "market_ja": "日本"
-  },
-  {
-    "id": "jp-ceo-36f1d90d",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "",
-    "tags": [],
-    "market_zh": "日本",
-    "market_en": "Japan",
-    "date": "2026-07-15",
-    "source_url": "https://www.fastgrow.jp/articles/cxo-grit-trustandtrust-nakayama",
-    "source_name": "FastGrow",
-    "title_ja": "「信用」をベースに設計する金融サービス？──来日前費用を後払いに。Trust & Trust中山氏が外国人材の“最初の壁”に挑むワケ",
-    "speaker_ja": "",
-    "company_ja": "",
-    "desc_ja": "「意欲のある人が、生まれた場所や家庭の経済状況で、挑戦そのものを諦めなくていい」。Trust＆Trust株式会社の代表、中山平祐氏が変えようとしているのは日本で働きたいと願う外国人材がいちばん最初にぶつかる“入り口”だ。\n\n特定技能や技能実習の在留資格で来日するには、来日前費用がかかる。金額は国によって異なるが、インドネシアでは約35万円が相場となる。これは送り出し機関での日本語教育などにかかるお金だ。だが対象になるのは、地方のマス層にあたる20歳前後の若者たち。世帯月収が3万円ほどという家庭も少なくない。Trust&Trustは、この来日前費用を「来日後の後払い」に変え、あわせて金融教育を届",
     "market_ja": "日本"
   },
   {
