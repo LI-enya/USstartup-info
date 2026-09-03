@@ -1,5 +1,28 @@
 [
   {
+    "id": "us-dtc-3e6a3827",
+    "name": "State fairs are",
+    "name_zh": "",
+    "name_en": "State fairs are",
+    "tagline_zh": "",
+    "tagline_en": "State fairs are the hot new pop-up spot for brands like E.l.",
+    "url": "https://www.modernretail.co/marketing/state-fairs-are-the-hot-new-spot-for-pop-ups-by-brands-like-e-l-f-and-levis/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "desc_zh": "",
+    "desc_en": "State Fairs have been a staple of the U.S. since the 1800s. Now, they've become a prime spot for pop-ups for brands like E.l.f. and Levi's, as they look to show up at events where their competitors haven't yet touched.",
+    "category_zh": "DTC品牌",
+    "category_en": "DTC Brand",
+    "market_zh": "美国",
+    "market_en": "United States",
+    "tags": [
+      "AI"
+    ],
+    "founded": "",
+    "funding": "",
+    "source_url": "https://www.modernretail.co/marketing/state-fairs-are-the-hot-new-spot-for-pop-ups-by-brands-like-e-l-f-and-levis/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "source_name": "Modern Retail",
+    "date": "2026-09-03"
+  },
+  {
     "id": "us-dtc-cfac274f",
     "name": "Ace Hardware adds",
     "name_zh": "",
@@ -250,29 +273,6 @@
     "source_url": "https://www.modernretail.co/marketing/the-new-life-cycle-of-a-brand-cancellation/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
     "source_name": "Modern Retail",
     "date": "2026-08-29"
-  },
-  {
-    "id": "us-dtc-9e3cd084",
-    "name": "Weekly Closeout: Arc’teryx",
-    "name_zh": "",
-    "name_en": "Weekly Closeout: Arc’teryx",
-    "tagline_zh": "",
-    "tagline_en": "The Weekly Closeout: Arc’teryx vet heads to Helly Hansen, Av",
-    "url": "https://www.retaildive.com/news/arcteryx-vet-lead-helly-hansen-avon-north-america-acquired/829028/",
-    "desc_zh": "",
-    "desc_en": "Kontoor Brands tapped C.J. King to lead Helly Hansen’s North American sports division, while Regent’s deal reunites the beauty company with Avon International.",
-    "category_zh": "DTC品牌",
-    "category_en": "DTC Brand",
-    "market_zh": "美国",
-    "market_en": "United States",
-    "tags": [
-      "fashion"
-    ],
-    "founded": "",
-    "funding": "",
-    "source_url": "https://www.retaildive.com/news/arcteryx-vet-lead-helly-hansen-avon-north-america-acquired/829028/",
-    "source_name": "Retail Dive",
-    "date": "2026-08-28"
   },
   {
     "id": "us-dtc-005",
