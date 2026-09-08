@@ -1,5 +1,26 @@
 [
   {
+    "id": "us-ceo-077c6719",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Build your own company brain: the enterprise AI playbook from Stripe’s engineering team | Sharadh Krishnamurthy",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Watch now | 🎙️ Learn how Stripe scaled AI to everyone at a complex global company by building context, governance, and a shared skills platform directly into their internal agent",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-09-07",
+    "source_url": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
+    "source_name": "Lenny's Podcast"
+  },
+  {
     "id": "us-ceo-84537847",
     "type": "article",
     "title_zh": "",
@@ -144,6 +165,25 @@
     "source_name": "Lenny's Podcast"
   },
   {
+    "id": "us-ceo-1d6c79f6",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+    "tags": [],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-09-02",
+    "source_url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-35218d65",
     "type": "article",
     "title_zh": "",
@@ -205,48 +245,6 @@
     "market_en": "North America",
     "date": "2026-09-02",
     "source_url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-9abf06fc",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s real.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-09-02",
-    "source_url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-14fb82da",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-09-02",
-    "source_url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
     "source_name": "TechCrunch"
   },
   {
