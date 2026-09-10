@@ -1,5 +1,27 @@
 [
   {
+    "id": "us-ceo-376ecc73",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Harvey hits $15.5B valuation, months after reaching $11B",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "The legal AI startup and VC darling has nearly doubled its valuation in nine months.",
+    "tags": [
+      "AI",
+      "funding"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-09-09",
+    "source_url": "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-3f755356",
     "type": "article",
     "title_zh": "",
@@ -229,25 +251,6 @@
     "date": "2026-09-03",
     "source_url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
     "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-3c4060be",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "GPT-6 Astra is a banger - here’s everything I’ve built",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Watch now | 🎙️ My hands-on GPT-6 Astra review covers real production work in Figma, Flora, and Adio, one-shot coding wins 5.6 and Fable couldn’t match, and a hardware hack I’ve chased for months",
-    "tags": [],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-09-03",
-    "source_url": "https://www.lennysnewsletter.com/p/gpt-6-astra-is-a-banger-heres-everything",
-    "source_name": "Lenny's Podcast"
   },
   {
     "id": "us-ceo-005",
