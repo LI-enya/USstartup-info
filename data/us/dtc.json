@@ -1,5 +1,29 @@
 [
   {
+    "id": "us-dtc-3de15983",
+    "name": "Where Boll &",
+    "name_zh": "",
+    "name_en": "Where Boll &",
+    "tagline_zh": "",
+    "tagline_en": "Where Boll & Branch draws the line on AI-generated advertisi",
+    "url": "https://www.modernretail.co/operations/where-boll-branch-draws-the-line-on-ai-generated-advertising/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "desc_zh": "",
+    "desc_en": "As companies take a stance on AI use, Boll & Branch is one of many brands integrating generative AI into their ad imagery and copy. On this week's episode of the Modern Retail Podcast, Boll & Branch Chief Creative Officer Kristen Deyco spoke about how the brand's playbook and frameworks around the u",
+    "category_zh": "DTC品牌",
+    "category_en": "DTC Brand",
+    "market_zh": "美国",
+    "market_en": "United States",
+    "tags": [
+      "AI",
+      "e-commerce"
+    ],
+    "founded": "",
+    "funding": "",
+    "source_url": "https://www.modernretail.co/operations/where-boll-branch-draws-the-line-on-ai-generated-advertising/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "source_name": "Modern Retail",
+    "date": "2026-09-12"
+  },
+  {
     "id": "us-dtc-31084e1f",
     "name": "Reformation charts path",
     "name_zh": "",
@@ -255,29 +279,6 @@
     "founded": "",
     "funding": "",
     "source_url": "https://www.retaildive.com/news/bed-bath-beyond-cancels-deal-to-acquire-cabinets-to-go-owner/829787/",
-    "source_name": "Retail Dive",
-    "date": "2026-09-08"
-  },
-  {
-    "id": "us-dtc-796f613f",
-    "name": "Nike, Simon Property",
-    "name_zh": "",
-    "name_en": "Nike, Simon Property",
-    "tagline_zh": "",
-    "tagline_en": "Nike, Simon Property Group dropped from S&P 100",
-    "url": "https://www.retaildive.com/news/nike-simon-property-group-dropped-sp-100/829760/",
-    "desc_zh": "",
-    "desc_en": "The shift, effective Sept. 21, is mostly symbolic, especially for the mall company. But for the apparel brand it’s a fresh reminder of ongoing struggles.",
-    "category_zh": "DTC品牌",
-    "category_en": "DTC Brand",
-    "market_zh": "美国",
-    "market_en": "United States",
-    "tags": [
-      "fashion"
-    ],
-    "founded": "",
-    "funding": "",
-    "source_url": "https://www.retaildive.com/news/nike-simon-property-group-dropped-sp-100/829760/",
     "source_name": "Retail Dive",
     "date": "2026-09-08"
   },
