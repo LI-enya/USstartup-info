@@ -1,5 +1,32 @@
 [
   {
+    "id": "jp-ceo-9fcc6d65",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "",
+    "tags": [
+      "AI",
+      "funding"
+    ],
+    "market_zh": "日本",
+    "market_en": "Japan",
+    "date": "2026-09-15",
+    "source_url": "https://www.fastgrow.jp/articles/finance-sideview-advatec",
+    "source_name": "FastGrow",
+    "title_ja": "「カルテ入力」に変革を──記録時間7割減を“医療ドメイン×多職種連携AI”で実現、1.6億円調達のADVATECが描く地域医療連携構想とは",
+    "speaker_ja": "",
+    "company_ja": "",
+    "desc_ja": "重要なのは、調達額の大きさ？バリュエーション？ラウンド？いやいや、スタートアップの資金調達とは、もっと奥深く、緻密で複雑なものである。\n\nFastGrow編集部では、調達リリースを見るたび、その裏側について思いを巡らせ、その後のビジョンについて予測や仮説立てをしてきた。そのために知りたい情報を、ぜひ外部向けにも記事としてまとめてみよう──そんな想いで始まったこの連載。\n\n今回は、2026年8月に1.6億円の資金調達を発表した株式会社ADVATECについて、その「横顔」をまとめる。",
+    "market_ja": "日本"
+  },
+  {
     "id": "jp-ceo-97104d26",
     "type": "article",
     "title_zh": "",
@@ -303,32 +330,6 @@
     "speaker_ja": "",
     "company_ja": "",
     "desc_ja": "重要なのは、調達額の大きさ？バリュエーション？ラウンド？いやいや、スタートアップの資金調達とは、もっと奥深く、緻密で複雑なものである。\n\nFastGrow編集部では、調達リリースを見るたび、その裏側について思いを巡らせ、その後のビジョンについて予測や仮説立てをしてきた。そのために知りたい情報を、ぜひ外部向けにも記事としてまとめてみよう──そんな想いで始まったこの連載。\n\n今回は、2026年5月に総額1.5億円の資金調達を発表したNoahlogy株式会社について、その「横顔」をまとめる。",
-    "market_ja": "日本"
-  },
-  {
-    "id": "jp-ceo-17ee8d1a",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "",
-    "tags": [
-      "IPO"
-    ],
-    "market_zh": "日本",
-    "market_en": "Japan",
-    "date": "2026-07-16",
-    "source_url": "https://www.fastgrow.jp/articles/cxo-grit-terracharge-tokushige",
-    "source_name": "FastGrow",
-    "title_ja": "「前に倣うな、偉人に倣え」──上場企業を経営しても私財ゼロ。Terra Charge代表・徳重徹が抱く“日本人への怒り”の真意",
-    "speaker_ja": "",
-    "company_ja": "",
-    "desc_ja": "日本経済の停滞が叫ばれて久しい。\n\n「昔は政治が三流で経済は一流だったが、今は政治が一流になりつつある一方で、経済は三流に成り下がった」。Terra Charge株式会社代表の徳重徹氏は、そう警鐘を鳴らす。\n\n最後の砦である自動車産業においてすら、EVのメインプレイヤーとなる日本企業が不在であるという危うい事実がある。そんな中、東京電力や関西電力、エネオスといった超大手が名を連ねるEV充電インフラ市場に最後発として果敢に参入し、わずか4年でシェアトップを獲得したのが、その徳重氏だ。彼は世界トップレベルのドローン企業であるテラドローンを率い、上場企業へと育て上げた日本を代表する起業家でもある。\n",
     "market_ja": "日本"
   },
   {

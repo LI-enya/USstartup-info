@@ -1,5 +1,26 @@
 [
   {
+    "id": "us-dtc-b550c7b0",
+    "name": "Kohl’s turns to",
+    "name_zh": "",
+    "name_en": "Kohl’s turns to",
+    "tagline_zh": "",
+    "tagline_en": "Kohl’s turns to Babies R Us as Sephora falters",
+    "url": "https://www.retaildive.com/news/kohls-expands-babies-r-us-shops-sephora-falters/830256/",
+    "desc_zh": "",
+    "desc_en": "The department store is bringing the brand to more stores and adding an exclusive collection. Meanwhile Sephora at Kohl’s sales are down this year.",
+    "category_zh": "DTC品牌",
+    "category_en": "DTC Brand",
+    "market_zh": "美国",
+    "market_en": "United States",
+    "tags": [],
+    "founded": "",
+    "funding": "",
+    "source_url": "https://www.retaildive.com/news/kohls-expands-babies-r-us-shops-sephora-falters/830256/",
+    "source_name": "Retail Dive",
+    "date": "2026-09-14"
+  },
+  {
     "id": "us-dtc-793e0a64",
     "name": "Meta Lab, known",
     "name_zh": "",
@@ -258,30 +279,6 @@
     "founded": "",
     "funding": "",
     "source_url": "https://www.modernretail.co/sponsored/glassesusa-online-eyewear-market-matures/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "source_name": "Modern Retail",
-    "date": "2026-09-09"
-  },
-  {
-    "id": "us-dtc-32b36cf6",
-    "name": "Lands’ End is",
-    "name_zh": "",
-    "name_en": "Lands’ End is",
-    "tagline_zh": "",
-    "tagline_en": "Why Lands’ End is showing up at college football game days t",
-    "url": "https://www.modernretail.co/marketing/why-lands-end-is-showing-up-at-college-football-game-days-this-fall/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "desc_zh": "",
-    "desc_en": "Lands’ End is doing a concerted marketing push around college football this fall, as part of its quest to introduce the brand to more people. Chief Marketing Officer Sarah Sylvester, who joined the company a little over six months ago, spoke with Modern Retail about why she thinks college football g",
-    "category_zh": "DTC品牌",
-    "category_en": "DTC Brand",
-    "market_zh": "美国",
-    "market_en": "United States",
-    "tags": [
-      "AI",
-      "e-commerce"
-    ],
-    "founded": "",
-    "funding": "",
-    "source_url": "https://www.modernretail.co/marketing/why-lands-end-is-showing-up-at-college-football-game-days-this-fall/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
     "source_name": "Modern Retail",
     "date": "2026-09-09"
   },
