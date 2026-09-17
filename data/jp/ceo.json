@@ -1,5 +1,29 @@
 [
   {
+    "id": "jp-ceo-3b55e074",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "",
+    "tags": [],
+    "market_zh": "日本",
+    "market_en": "Japan",
+    "date": "2026-09-17",
+    "source_url": "https://www.fastgrow.jp/articles/early-phase-startups-12pharmacy",
+    "source_name": "FastGrow",
+    "title_ja": "動物医療に「医薬分業」を実装する──ペット医療インフラのリーディングカンパニー「12薬局」",
+    "speaker_ja": "",
+    "company_ja": "",
+    "desc_ja": "FastGrowが実施した特別アンケートでは、シード〜シリーズAの140社のうち51.8%がCOOを、66.0%が「将来の幹部候補」を募集していた。\n\nだが、同じ肩書を掲げていても、実際に委ねられる経営課題や意思決定の範囲は会社ごとにまったく異なる。本連載「事業開発のその先へ──アーリー期スタートアップ140選」では、アンケートに回答した企業を一社ずつ取り上げ、その会社がいま抱える経営課題と、そこに参画する人材がどこまでの意思決定を担うのかを具体的に見ていく。今回紹介するのは、株式会社12薬局だ。",
+    "market_ja": "日本"
+  },
+  {
     "id": "jp-ceo-40647b10",
     "type": "article",
     "title_zh": "",
@@ -303,32 +327,6 @@
     "speaker_ja": "",
     "company_ja": "",
     "desc_ja": "重要なのは、調達額の大きさ？バリュエーション？ラウンド？いやいや、スタートアップの資金調達とは、もっと奥深く、緻密で複雑なものである。\n\nFastGrow編集部では、調達リリースを見るたび、その裏側について思いを巡らせ、その後のビジョンについて予測や仮説立てをしてきた。そのために知りたい情報を、ぜひ外部向けにも記事としてまとめてみよう──そんな想いで始まったこの連載。\n\n今回は、2026年7月に1.5億円の資金調達を発表した株式会社BuddyCompassについて、その「横顔」をまとめる。",
-    "market_ja": "日本"
-  },
-  {
-    "id": "jp-ceo-78b643cc",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "",
-    "tags": [
-      "funding"
-    ],
-    "market_zh": "日本",
-    "market_en": "Japan",
-    "date": "2026-07-22",
-    "source_url": "https://www.fastgrow.jp/articles/finance-sideview-movustechnologies",
-    "source_name": "FastGrow",
-    "title_ja": "「新興国のインフラ」に持続可能な選択肢を──Grab公認唯一の日本パートナー、42.6億円調達のmovusが描く新時代の社会インフラ構築とは",
-    "speaker_ja": "",
-    "company_ja": "",
-    "desc_ja": "重要なのは、調達額の大きさ？バリュエーション？ラウンド？いやいや、スタートアップの資金調達とは、もっと奥深く、緻密で複雑なものである。\n\nFastGrow編集部では、調達リリースを見るたび、その裏側について思いを巡らせ、その後のビジョンについて予測や仮説立てをしてきた。そのために知りたい情報を、ぜひ外部向けにも記事としてまとめてみよう──そんな想いで始まったこの連載。\n\n今回は、2026年5月に42.6億円の資金調達を発表したmovus technologies株式会社について、その「横顔」をまとめる。",
     "market_ja": "日本"
   },
   {
