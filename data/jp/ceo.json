@@ -1,5 +1,29 @@
 [
   {
+    "id": "jp-ceo-439a6a75",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "",
+    "tags": [],
+    "market_zh": "日本",
+    "market_en": "Japan",
+    "date": "2026-09-18",
+    "source_url": "https://www.fastgrow.jp/articles/early-phase-startups-castee",
+    "source_name": "FastGrow",
+    "title_ja": "連続起業家が挑む“エンタメDX”──エンターテインメントの次世代インフラを創るCastee",
+    "speaker_ja": "",
+    "company_ja": "",
+    "desc_ja": "FastGrowが実施した特別アンケートでは、シード〜シリーズAの140社のうち51.8%がCOOを、66.0%が「将来の幹部候補」を募集していた。\n\nだが、同じ肩書を掲げていても、実際に委ねられる経営課題や意思決定の範囲は会社ごとにまったく異なる。本連載「事業開発のその先へ──アーリー期スタートアップ140選」では、アンケートに回答した企業を一社ずつ取り上げ、その会社がいま抱える経営課題と、そこに参画する人材がどこまでの意思決定を担うのかを具体的に見ていく。今回紹介するのは、株式会社Casteeだ。",
+    "market_ja": "日本"
+  },
+  {
     "id": "jp-ceo-3b55e074",
     "type": "article",
     "title_zh": "",
@@ -300,33 +324,6 @@
     "speaker_ja": "",
     "company_ja": "",
     "desc_ja": "「あの会社の急成長は、なぜ実現できたのか？」その答えは、最前線で事業の課題と格闘し、成果を出し続けている「ベンチャーキーパーソン」の仕事術に隠されています。\n\n本連載では、スタートアップやベンチャー企業が事業を伸ばす上で避けて通れない具体的な「業務の壁」を、彼ら/彼女たちがどう乗り越えてきたのかを徹底解剖。\n\n日々の業務ですぐに役立つ実践的なノウハウ、困難な意思決定を支えた思考プロセス、そしてリアルな成功と失敗の事例、そこから得たノウハウを、ご本人たちの言葉で共有する。（掲載希望企業はこちらのフォームからご回答ください。）\n\n彼ら/彼女たちの生きた経験は、あなた自身の課題解決のヒントとなり、ス",
-    "market_ja": "日本"
-  },
-  {
-    "id": "jp-ceo-564a45cb",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "日本",
-    "market_en": "Japan",
-    "date": "2026-07-23",
-    "source_url": "https://www.fastgrow.jp/articles/finance-sideview-buddycompass",
-    "source_name": "FastGrow",
-    "title_ja": "均一化するAI時代を、“熱狂工学”で突破──泥臭い現場伴走とブランド共創のBuddyCompass、1.5億円調達で事業を加速へ",
-    "speaker_ja": "",
-    "company_ja": "",
-    "desc_ja": "重要なのは、調達額の大きさ？バリュエーション？ラウンド？いやいや、スタートアップの資金調達とは、もっと奥深く、緻密で複雑なものである。\n\nFastGrow編集部では、調達リリースを見るたび、その裏側について思いを巡らせ、その後のビジョンについて予測や仮説立てをしてきた。そのために知りたい情報を、ぜひ外部向けにも記事としてまとめてみよう──そんな想いで始まったこの連載。\n\n今回は、2026年7月に1.5億円の資金調達を発表した株式会社BuddyCompassについて、その「横顔」をまとめる。",
     "market_ja": "日本"
   },
   {
