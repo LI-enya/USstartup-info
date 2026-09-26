@@ -1,5 +1,54 @@
 [
   {
+    "id": "us-dtc-f90bef77",
+    "name": "rise of the",
+    "name_zh": "",
+    "name_en": "rise of the",
+    "tagline_zh": "",
+    "tagline_en": "The rise of the AI shelf",
+    "url": "https://www.modernretail.co/operations/the-rise-of-the-ai-shelf/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "desc_zh": "",
+    "desc_en": "This week's episode of the Modern Retail Podcast digs into how AI product recommendations are reshaping retail shelves. Increasingly, brands are strategizing around how to get their products surfaced in ChatGPT and Gemini results.",
+    "category_zh": "DTC品牌",
+    "category_en": "DTC Brand",
+    "market_zh": "美国",
+    "market_en": "United States",
+    "tags": [
+      "AI",
+      "e-commerce"
+    ],
+    "founded": "",
+    "funding": "",
+    "source_url": "https://www.modernretail.co/operations/the-rise-of-the-ai-shelf/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "source_name": "Modern Retail",
+    "date": "2026-09-26"
+  },
+  {
+    "id": "us-dtc-924dfba0",
+    "name": "Weekly Closeout: What",
+    "name_zh": "",
+    "name_en": "Weekly Closeout: What",
+    "tagline_zh": "",
+    "tagline_en": "The Weekly Closeout: What will happen to Michael Kors and J.",
+    "url": "https://www.retaildive.com/news/michael-kors-capri-sale-acquisition-j-crew-barn-jacket-anniversary/831321/",
+    "desc_zh": "",
+    "desc_en": "The fashion brand is dragging on Capri Holdings. Meanwhile, the specialty retailer observes 40 years of a key outerwear product.",
+    "category_zh": "DTC品牌",
+    "category_en": "DTC Brand",
+    "market_zh": "美国",
+    "market_en": "United States",
+    "tags": [
+      "AI",
+      "e-commerce",
+      "fashion"
+    ],
+    "founded": "",
+    "funding": "",
+    "source_url": "https://www.retaildive.com/news/michael-kors-capri-sale-acquisition-j-crew-barn-jacket-anniversary/831321/",
+    "source_name": "Retail Dive",
+    "date": "2026-09-25"
+  },
+  {
     "id": "us-dtc-d215552d",
     "name": "Big-Box Briefing: Best",
     "name_zh": "",
@@ -226,52 +275,6 @@
     "source_url": "https://www.retaildive.com/news/on-signs-mbappe-schertenleib-soccer-football-nike-adidas/830761/",
     "source_name": "Retail Dive",
     "date": "2026-09-18"
-  },
-  {
-    "id": "us-dtc-6aeed139",
-    "name": "Nike eyes innovation",
-    "name_zh": "",
-    "name_en": "Nike eyes innovation",
-    "tagline_zh": "",
-    "tagline_en": "Nike eyes innovation with LVMH board pick",
-    "url": "https://www.retaildive.com/news/nike-adds-lvmh-exec-alexandre-arnault-board-innovation-turnaround/830662/",
-    "desc_zh": "",
-    "desc_en": "Alexandre Arnault, deputy CEO of Moët Hennessy, has “a reputation for helping iconic global brands evolve, innovate and grow,” Executive Chairman Mark Parker said.",
-    "category_zh": "DTC品牌",
-    "category_en": "DTC Brand",
-    "market_zh": "美国",
-    "market_en": "United States",
-    "tags": [
-      "AI"
-    ],
-    "founded": "",
-    "funding": "",
-    "source_url": "https://www.retaildive.com/news/nike-adds-lvmh-exec-alexandre-arnault-board-innovation-turnaround/830662/",
-    "source_name": "Retail Dive",
-    "date": "2026-09-17"
-  },
-  {
-    "id": "us-dtc-5b0ee13b",
-    "name": "Jordan Brand debuts",
-    "name_zh": "",
-    "name_en": "Jordan Brand debuts",
-    "tagline_zh": "",
-    "tagline_en": "Jordan Brand debuts training equipment line",
-    "url": "https://www.retaildive.com/news/jordan-brand-debuts-strength-training-equipment-line/830659/",
-    "desc_zh": "",
-    "desc_en": "The brand is releasing a line of strength training products inspired by Michael Jordan, even as Nike says it is overindexed with its classic footwear franchises.",
-    "category_zh": "DTC品牌",
-    "category_en": "DTC Brand",
-    "market_zh": "美国",
-    "market_en": "United States",
-    "tags": [
-      "AI"
-    ],
-    "founded": "",
-    "funding": "",
-    "source_url": "https://www.retaildive.com/news/jordan-brand-debuts-strength-training-equipment-line/830659/",
-    "source_name": "Retail Dive",
-    "date": "2026-09-17"
   },
   {
     "id": "us-dtc-005",

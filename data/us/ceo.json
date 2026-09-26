@@ -1,5 +1,45 @@
 [
   {
+    "id": "us-ceo-f719de44",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needle.",
+    "tags": [],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-09-25",
+    "source_url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-2d57b525",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-09-25",
+    "source_url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-6e0d52a3",
     "type": "article",
     "title_zh": "",
@@ -180,66 +220,25 @@
     "source_name": "TechCrunch"
   },
   {
-    "id": "us-ceo-55ee6489",
+    "id": "us-ceo-89d64db7",
     "type": "article",
     "title_zh": "",
-    "title_en": "Morphotonics raises €40M to expand its display tech into data centers",
+    "title_en": "Advanced evals: How to find (and fix) hidden AI failures in your product",
     "speaker": "",
     "speaker_zh": "",
     "speaker_en": "",
     "company": "",
     "company_zh": "",
     "desc_zh": "",
-    "desc_en": "Deep tech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.",
+    "desc_en": "Why you should never skip error discovery",
     "tags": [
       "AI"
     ],
     "market_zh": "北美",
     "market_en": "North America",
     "date": "2026-09-22",
-    "source_url": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-d8e455dd",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Meta deal will help plastics recycling startup MacroCycle build its first factory",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Meta is giving plastic recycling a boost in a new deal with startup MacroCycle, which is building its first commercial plant.",
-    "tags": [],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-09-22",
-    "source_url": "https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-c34e8506",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Singapore’s Nexstrom wants to bring 2D semiconductors to chip fabs",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Singapore-based Nexstrom has raised new funding to develop equipment that could help chipmakers manufacture 2D semiconductor materials at scale.",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-09-22",
-    "source_url": "https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/",
-    "source_name": "TechCrunch"
+    "source_url": "https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix",
+    "source_name": "Lenny's Podcast"
   },
   {
     "id": "us-ceo-005",
