@@ -1,5 +1,28 @@
 [
   {
+    "id": "us-dtc-d08c9a20",
+    "name": "Canadian apparel brand",
+    "name_zh": "",
+    "name_en": "Canadian apparel brand",
+    "tagline_zh": "",
+    "tagline_en": "Canadian apparel brand Duer launches a print magazine as ana",
+    "url": "https://www.modernretail.co/marketing/canadian-apparel-brand-duer-launches-a-print-magazine-as-analog-comes-back-in-style/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "desc_zh": "",
+    "desc_en": "Duer, a performance jeans brand based in Canada, is leaning into print amid an analog resurgence. The company is publishing a quarterly magazine called Interval, with the first issue dropping in October.",
+    "category_zh": "DTC品牌",
+    "category_en": "DTC Brand",
+    "market_zh": "美国",
+    "market_en": "United States",
+    "tags": [
+      "fashion"
+    ],
+    "founded": "",
+    "funding": "",
+    "source_url": "https://www.modernretail.co/marketing/canadian-apparel-brand-duer-launches-a-print-magazine-as-analog-comes-back-in-style/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "source_name": "Modern Retail",
+    "date": "2026-09-28"
+  },
+  {
     "id": "us-dtc-f90bef77",
     "name": "rise of the",
     "name_zh": "",
@@ -252,27 +275,6 @@
     "founded": "",
     "funding": "",
     "source_url": "https://www.retaildive.com/news/beyond-yoga-new-york-city-pop-up-store/830754/",
-    "source_name": "Retail Dive",
-    "date": "2026-09-18"
-  },
-  {
-    "id": "us-dtc-fb1677c3",
-    "name": "On signs Mbappé",
-    "name_zh": "",
-    "name_en": "On signs Mbappé",
-    "tagline_zh": "",
-    "tagline_en": "On signs Mbappé as it preps entry into soccer",
-    "url": "https://www.retaildive.com/news/on-signs-mbappe-schertenleib-soccer-football-nike-adidas/830761/",
-    "desc_zh": "",
-    "desc_en": "The superstar, who signed with Nike as a child, will help the Swiss sneaker brand do battle in a sport dominated by Nike and Adidas.",
-    "category_zh": "DTC品牌",
-    "category_en": "DTC Brand",
-    "market_zh": "美国",
-    "market_en": "United States",
-    "tags": [],
-    "founded": "",
-    "funding": "",
-    "source_url": "https://www.retaildive.com/news/on-signs-mbappe-schertenleib-soccer-football-nike-adidas/830761/",
     "source_name": "Retail Dive",
     "date": "2026-09-18"
   },
