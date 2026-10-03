@@ -1,5 +1,30 @@
 [
   {
+    "id": "us-dtc-e4d8a13e",
+    "name": "Weekly Closeout: Revolve",
+    "name_zh": "",
+    "name_en": "Weekly Closeout: Revolve",
+    "tagline_zh": "",
+    "tagline_en": "The Weekly Closeout: Revolve debuts magazine and Cato closes",
+    "url": "https://www.retaildive.com/news/revolve-debuts-magazine-cato-closes-120-stores/831914/",
+    "desc_zh": "",
+    "desc_en": "The fashion retailer wants to connect more deeply with shoppers through a print publication. Meanwhile, the specialty apparel brand is accelerating closures.",
+    "category_zh": "DTC品牌",
+    "category_en": "DTC Brand",
+    "market_zh": "美国",
+    "market_en": "United States",
+    "tags": [
+      "AI",
+      "e-commerce",
+      "fashion"
+    ],
+    "founded": "",
+    "funding": "",
+    "source_url": "https://www.retaildive.com/news/revolve-debuts-magazine-cato-closes-120-stores/831914/",
+    "source_name": "Retail Dive",
+    "date": "2026-10-02"
+  },
+  {
     "id": "us-dtc-4e3f5527",
     "name": "Consumer AI use",
     "name_zh": "",
@@ -251,29 +276,6 @@
     "source_url": "https://www.modernretail.co/marketing/big-box-briefing-best-buy-puts-ctv-at-the-center-of-its-retail-media-pitch/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
     "source_name": "Modern Retail",
     "date": "2026-09-24"
-  },
-  {
-    "id": "us-dtc-da86c54c",
-    "name": "Spot & Tango",
-    "name_zh": "",
-    "name_en": "Spot & Tango",
-    "tagline_zh": "",
-    "tagline_en": "Spot & Tango is making a $3.5M bet on brand marketing after ",
-    "url": "https://www.modernretail.co/marketing/spot-tango-is-making-a-3-5m-bet-on-brand-marketing-after-years-of-spending-0/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "desc_zh": "",
-    "desc_en": "This year, dog food brand Spot & Tango is funneling $3.5 million into top-of-funnel marketing, an effort that spans from out-of-home ads to connected TV to events. It's a notable shift from last year, when the brand spent effectively $0 on top-of-funnel marketing.",
-    "category_zh": "DTC品牌",
-    "category_en": "DTC Brand",
-    "market_zh": "美国",
-    "market_en": "United States",
-    "tags": [
-      "food"
-    ],
-    "founded": "",
-    "funding": "",
-    "source_url": "https://www.modernretail.co/marketing/spot-tango-is-making-a-3-5m-bet-on-brand-marketing-after-years-of-spending-0/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "source_name": "Modern Retail",
-    "date": "2026-09-23"
   },
   {
     "id": "us-dtc-005",
