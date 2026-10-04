@@ -1,5 +1,27 @@
 [
   {
+    "id": "us-ceo-326e9171",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Spotify billionaire’s body scan startup has come to America",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.",
+    "tags": [
+      "AI",
+      "health"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-10-03",
+    "source_url": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-8f809dd3",
     "type": "article",
     "title_zh": "",
@@ -163,17 +185,38 @@
     "source_name": "TechCrunch"
   },
   {
-    "id": "us-ceo-b22a33ad",
+    "id": "us-ceo-85d1a788",
     "type": "article",
     "title_zh": "",
-    "title_en": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+    "title_en": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
     "speaker": "",
     "speaker_zh": "",
     "speaker_en": "",
     "company": "",
     "company_zh": "",
     "desc_zh": "",
-    "desc_en": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+    "desc_en": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-09-30",
+    "source_url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-d39d63a6",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "AI voice startup ElevenLabs doubles valuation to $22B",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
     "tags": [
       "AI",
       "funding"
@@ -181,68 +224,30 @@
     "market_zh": "北美",
     "market_en": "North America",
     "date": "2026-09-30",
-    "source_url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+    "source_url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
     "source_name": "TechCrunch"
   },
   {
-    "id": "us-ceo-e3052b71",
+    "id": "us-ceo-c876c641",
     "type": "article",
     "title_zh": "",
-    "title_en": "Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for",
+    "title_en": "A Neko Health investor on the $700M bet to scan your whole body",
     "speaker": "",
     "speaker_zh": "",
     "speaker_en": "",
     "company": "",
     "company_zh": "",
     "desc_zh": "",
-    "desc_en": "BAG Ventures announces close of a $11.3M Fund I to invest in all things AI.",
+    "desc_en": "Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner, while Function Health has also raised significant ",
     "tags": [
-      "AI"
+      "AI",
+      "health",
+      "funding"
     ],
     "market_zh": "北美",
     "market_en": "North America",
     "date": "2026-09-30",
-    "source_url": "https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-2e04875f",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Charter Space raises $5M to bring insurance to the stars",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "As Charter explains on its website, a common experience for space companies is that regular insurers \"heard a bunch of scary science words and freaked out.\"",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-09-30",
-    "source_url": "https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-dce7a34b",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders.",
-    "tags": [],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-09-30",
-    "source_url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
+    "source_url": "https://techcrunch.com/podcast/the-investor-behind-neko-healths-700m-bet-on-scanning-your-whole-body/",
     "source_name": "TechCrunch"
   },
   {
