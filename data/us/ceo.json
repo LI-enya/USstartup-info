@@ -185,53 +185,10 @@
     "source_name": "TechCrunch"
   },
   {
-    "id": "us-ceo-85d1a788",
+    "id": "us-ceo-7010cd68",
     "type": "article",
     "title_zh": "",
-    "title_en": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-09-30",
-    "source_url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-d39d63a6",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "AI voice startup ElevenLabs doubles valuation to $22B",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-09-30",
-    "source_url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-c876c641",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "A Neko Health investor on the $700M bet to scan your whole body",
+    "title_en": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
     "speaker": "",
     "speaker_zh": "",
     "speaker_en": "",
@@ -247,7 +204,50 @@
     "market_zh": "北美",
     "market_en": "North America",
     "date": "2026-09-30",
-    "source_url": "https://techcrunch.com/podcast/the-investor-behind-neko-healths-700m-bet-on-scanning-your-whole-body/",
+    "source_url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-ec3b6a20",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Factory CEO just accused his VC board adviser of spying for Cognition",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "VC Chris Degnan and former board adviser to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about it.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-09-30",
+    "source_url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-b22a33ad",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+    "tags": [
+      "AI",
+      "funding"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-09-30",
+    "source_url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
     "source_name": "TechCrunch"
   },
   {
