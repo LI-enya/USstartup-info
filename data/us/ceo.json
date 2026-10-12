@@ -1,5 +1,47 @@
 [
   {
+    "id": "us-ceo-7775aae7",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-10-12",
+    "source_url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-2730f13a",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)",
+    "speaker": "Josh Woodward",
+    "speaker_zh": "Josh Woodward",
+    "speaker_en": "Josh Woodward",
+    "company": "Google Labs, Gemini, AI Studio",
+    "company_zh": "Google Labs, Gemini, AI Studio",
+    "desc_zh": "",
+    "desc_en": "Listen now (62 mins) | Josh Woodward of Google Labs on where great ideas come from, knowing when to kill them, and building for a world where what’s possible changes every week",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-10-11",
+    "source_url": "https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think",
+    "source_name": "Lenny's Podcast"
+  },
+  {
     "id": "us-ceo-1dd49211",
     "type": "article",
     "title_zh": "",
@@ -197,48 +239,6 @@
     "market_en": "North America",
     "date": "2026-10-09",
     "source_url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-538c0748",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "A startup founder who served time in prison is looking to court an untapped market: ex-cons",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Richard Bronson, a former Stratton Oakmont partner who served time in federal prison for securities violations, has launched Commissary Club, a startup that uses AI to help people leaving prison find jobs, housing, community, and even dates.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-10-08",
-    "source_url": "https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-1bfd57eb",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-10-08",
-    "source_url": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
     "source_name": "TechCrunch"
   },
   {
