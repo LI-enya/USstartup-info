@@ -1,5 +1,53 @@
 [
   {
+    "id": "us-dtc-dc30a599",
+    "name": "Where has the",
+    "name_zh": "",
+    "name_en": "Where has the",
+    "tagline_zh": "",
+    "tagline_en": "Where has the aspirational luxury consumer gone?",
+    "url": "https://www.retaildive.com/news/where-has-aspirational-luxury-consumer-gone/832365/",
+    "desc_zh": "",
+    "desc_en": "High-end brands have raised their prices in the post-pandemic economy. They’re selling less in part because fewer consumers can afford them.",
+    "category_zh": "DTC品牌",
+    "category_en": "DTC Brand",
+    "market_zh": "美国",
+    "market_en": "United States",
+    "tags": [
+      "AI",
+      "funding"
+    ],
+    "founded": "",
+    "funding": "",
+    "source_url": "https://www.retaildive.com/news/where-has-aspirational-luxury-consumer-gone/832365/",
+    "source_name": "Retail Dive",
+    "date": "2026-10-13"
+  },
+  {
+    "id": "us-dtc-498bb0fe",
+    "name": "Brands Briefing: As",
+    "name_zh": "",
+    "name_en": "Brands Briefing: As",
+    "tagline_zh": "",
+    "tagline_en": "Brands Briefing: As AI reshapes retail, brands are investing",
+    "url": "https://www.modernretail.co/operations/brands-briefing-as-ai-reshapes-retail-brands-are-investing-even-more-in-stores/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "desc_zh": "",
+    "desc_en": "Executives at Rhone, Anthropologie, Kohl's, Brunt and Crocs weigh in on why brick-and-mortar is still standing strong heading into 2027.",
+    "category_zh": "DTC品牌",
+    "category_en": "DTC Brand",
+    "market_zh": "美国",
+    "market_en": "United States",
+    "tags": [
+      "AI",
+      "e-commerce"
+    ],
+    "founded": "",
+    "funding": "",
+    "source_url": "https://www.modernretail.co/operations/brands-briefing-as-ai-reshapes-retail-brands-are-investing-even-more-in-stores/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "source_name": "Modern Retail",
+    "date": "2026-10-13"
+  },
+  {
     "id": "us-dtc-89e65e23",
     "name": "‘ACOTAR’ is the",
     "name_zh": "",
@@ -221,53 +269,6 @@
     "funding": "",
     "source_url": "https://www.retaildive.com/news/neighborhood-intelligence-bed-bath-beyond-calls-off-fathom-acquisition/832373/",
     "source_name": "Retail Dive",
-    "date": "2026-10-07"
-  },
-  {
-    "id": "us-dtc-0920a2a4",
-    "name": "agentic commerce helps",
-    "name_zh": "",
-    "name_en": "agentic commerce helps",
-    "tagline_zh": "",
-    "tagline_en": "How agentic commerce helps brands like Willy Chavarria optim",
-    "url": "https://www.modernretail.co/sponsored/how-agentic-commerce-helps-brands-like-willy-chavarria-optimize-for-bfcm/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "desc_zh": "",
-    "desc_en": "Black Friday and Cyber Monday preparation begins for e-commerce brands and retailers well before those peak shopping days arrive. Besides planning marketing and promotion strategies, brands must consider how to convert shoppers and whether their e-commerce infrastructure can support demand. Agentic ",
-    "category_zh": "DTC品牌",
-    "category_en": "DTC Brand",
-    "market_zh": "美国",
-    "market_en": "United States",
-    "tags": [
-      "AI",
-      "e-commerce"
-    ],
-    "founded": "",
-    "funding": "",
-    "source_url": "https://www.modernretail.co/sponsored/how-agentic-commerce-helps-brands-like-willy-chavarria-optimize-for-bfcm/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "source_name": "Modern Retail",
-    "date": "2026-10-07"
-  },
-  {
-    "id": "us-dtc-62ed1c07",
-    "name": "Shoe tattoos and",
-    "name_zh": "",
-    "name_en": "Shoe tattoos and",
-    "tagline_zh": "",
-    "tagline_en": "Shoe tattoos and ballet ribbons: Why Crocs is embracing more",
-    "url": "https://www.modernretail.co/marketing/shoe-tattoos-and-ballet-ribbons-why-crocs-is-embracing-more-elevated-accessories/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "desc_zh": "",
-    "desc_en": "Temporary shoe tattoos, attachable ballet ribbons and clip-on sandal charms are becoming mainstays at Crocs as the company makes customization a bigger priority. In particular, the brand says it's embracing \"elevated\" personalization.",
-    "category_zh": "DTC品牌",
-    "category_en": "DTC Brand",
-    "market_zh": "美国",
-    "market_en": "United States",
-    "tags": [
-      "AI"
-    ],
-    "founded": "",
-    "funding": "",
-    "source_url": "https://www.modernretail.co/marketing/shoe-tattoos-and-ballet-ribbons-why-crocs-is-embracing-more-elevated-accessories/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "source_name": "Modern Retail",
     "date": "2026-10-07"
   },
   {
