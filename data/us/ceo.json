@@ -1,5 +1,24 @@
 [
   {
+    "id": "us-ceo-ad936a3a",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
+    "tags": [],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-10-16",
+    "source_url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-e2e125da",
     "type": "article",
     "title_zh": "",
@@ -203,44 +222,23 @@
     "source_name": "TechCrunch"
   },
   {
-    "id": "us-ceo-c51cc49e",
+    "id": "us-ceo-9b3106ce",
     "type": "article",
     "title_zh": "",
-    "title_en": "TechCrunch Disrupt 2026: Day 1",
+    "title_en": "How to tell if a startup has a moat",
     "speaker": "",
     "speaker_zh": "",
     "speaker_en": "",
     "company": "",
     "company_zh": "",
     "desc_zh": "",
-    "desc_en": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at the startup epicenter of the year.",
+    "desc_en": "A framework for assessing whether the company you’re considering joining is built to last",
     "tags": [],
     "market_zh": "北美",
     "market_en": "North America",
     "date": "2026-10-13",
-    "source_url": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-93aadda7",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Twenty founders just earned their shot at Disrupt glory. They're headed to the main stage at TechCrunch Disrupt to compete for the $100,000 prize and the coveted Disrupt Cup.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-10-13",
-    "source_url": "https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/",
-    "source_name": "TechCrunch"
+    "source_url": "https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat",
+    "source_name": "Lenny's Podcast"
   },
   {
     "id": "us-ceo-005",

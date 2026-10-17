@@ -1,5 +1,29 @@
 [
   {
+    "id": "us-dtc-0a44a74f",
+    "name": "Weekly Closeout: The",
+    "name_zh": "",
+    "name_en": "Weekly Closeout: The",
+    "tagline_zh": "",
+    "tagline_en": "The Weekly Closeout: The RealReal secures fresh financing, R",
+    "url": "https://www.retaildive.com/news/the-realreal-new-financing-gildan-ftc-price-fixing-scrutiny/833130/",
+    "desc_zh": "",
+    "desc_en": "The resale marketplace refinanced to help strengthen its balance sheet, while the apparel brand's shareholders approved its acquisition by Marquee Brands.",
+    "category_zh": "DTC品牌",
+    "category_en": "DTC Brand",
+    "market_zh": "美国",
+    "market_en": "United States",
+    "tags": [
+      "fintech",
+      "fashion"
+    ],
+    "founded": "",
+    "funding": "",
+    "source_url": "https://www.retaildive.com/news/the-realreal-new-financing-gildan-ftc-price-fixing-scrutiny/833130/",
+    "source_name": "Retail Dive",
+    "date": "2026-10-16"
+  },
+  {
     "id": "us-dtc-5d1fd269",
     "name": "Target bets on",
     "name_zh": "",
@@ -248,29 +272,6 @@
     "source_url": "https://www.modernretail.co/marketing/why-chatgpt-ads-wont-likely-impact-holiday-sales-in-a-major-way-this-year/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
     "source_name": "Modern Retail",
     "date": "2026-10-09"
-  },
-  {
-    "id": "us-dtc-0727741a",
-    "name": "Wholesale, tariff refunds",
-    "name_zh": "",
-    "name_en": "Wholesale, tariff refunds",
-    "tagline_zh": "",
-    "tagline_en": "Wholesale, tariff refunds deliver for Levi’s in rough Q3",
-    "url": "https://www.retaildive.com/news/levis-q3-wholesale-tariff-refunds-deliver/832468/",
-    "desc_zh": "",
-    "desc_en": "The denim maker’s direct-to-consumer sales were unexpectedly weak, and profits and margins were propped up by the trade reimbursements.",
-    "category_zh": "DTC品牌",
-    "category_en": "DTC Brand",
-    "market_zh": "美国",
-    "market_en": "United States",
-    "tags": [
-      "DTC"
-    ],
-    "founded": "",
-    "funding": "",
-    "source_url": "https://www.retaildive.com/news/levis-q3-wholesale-tariff-refunds-deliver/832468/",
-    "source_name": "Retail Dive",
-    "date": "2026-10-08"
   },
   {
     "id": "us-dtc-005",
