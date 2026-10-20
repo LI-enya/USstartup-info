@@ -1,5 +1,48 @@
 [
   {
+    "id": "us-ceo-c8e7558f",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
+    "tags": [
+      "AI",
+      "funding"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-10-19",
+    "source_url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-f3e9ba64",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-10-19",
+    "source_url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-01d642d1",
     "type": "article",
     "title_zh": "",
@@ -198,46 +241,6 @@
     "market_en": "North America",
     "date": "2026-10-14",
     "source_url": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-4e922c20",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-10-14",
-    "source_url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-8530fab7",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
-    "tags": [],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-10-14",
-    "source_url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
     "source_name": "TechCrunch"
   },
   {
