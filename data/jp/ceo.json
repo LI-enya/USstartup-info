@@ -1,5 +1,31 @@
 [
   {
+    "id": "jp-ceo-247c5865",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "日本",
+    "market_en": "Japan",
+    "date": "2026-10-23",
+    "source_url": "https://www.fastgrow.jp/articles/kaonavi-hiramatsu-third-intelligence-kusabuka",
+    "source_name": "FastGrow",
+    "title_ja": "今のAIは格差拡張機、今後はどうなる？カオナビ平松×Third Intelligence草深が語り合う、差を分ける環境と、本人の好奇心",
+    "speaker_ja": "",
+    "company_ja": "",
+    "desc_ja": "日本IBMとGoogleで人事領域のキャリアを歩み、いまはAGIスタートアップ株式会社Third IntelligenceのCPOを務める草深生馬氏には、エンジニアリングの経験がない。それでも社内で使う小さな自動化の仕組みを、自分で30分ほどでつくる。少し前まで、エンジニアに頼んで「1週間ぐらいでやっておきますね」と言われ、完成を待っていた仕事だった。\n\nこういうことが起きるなら、人と人との能力差は縮まるはずだ。ところが、現実には逆に開いた。生成AIを社内へ入れる試みを重ねてきた株式会社カオナビ執行役員CBOの平松達矢氏は、AIを「格差拡張機」と呼ぶ。\n\n正直に書くと、FastGrow編集部は",
+    "market_ja": "日本"
+  },
+  {
     "id": "jp-ceo-9a5004ca",
     "type": "article",
     "title_zh": "",
@@ -295,30 +321,6 @@
     "speaker_ja": "",
     "company_ja": "",
     "desc_ja": "FastGrowが実施した特別アンケートでは、シード〜シリーズAの140社のうち51.8%がCOOを、66.0%が「将来の幹部候補」を募集していた。\n\nだが、同じ肩書を掲げていても、実際に委ねられる経営課題や意思決定の範囲は会社ごとにまったく異なる。本連載「事業開発のその先へ──アーリー期スタートアップ140選」では、アンケートに回答した企業を一社ずつ取り上げ、その会社がいま抱える経営課題と、そこに参画する人材がどこまでの意思決定を担うのかを具体的に見ていく。今回紹介するのは、ミニイク株式会社だ。",
-    "market_ja": "日本"
-  },
-  {
-    "id": "jp-ceo-dd8fd678",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "",
-    "tags": [],
-    "market_zh": "日本",
-    "market_en": "Japan",
-    "date": "2026-10-16",
-    "source_url": "https://www.fastgrow.jp/articles/early-phase-startups-nextnewworld",
-    "source_name": "FastGrow",
-    "title_ja": "発売2ヶ月で35万食売れた猫用サプリ──絶滅危機の国産シルクを守るNEXT NEW WORLD",
-    "speaker_ja": "",
-    "company_ja": "",
-    "desc_ja": "FastGrowが実施した特別アンケートでは、シード〜シリーズAの140社のうち51.8%がCOOを、66.0%が「将来の幹部候補」を募集していた。\n\nだが、同じ肩書を掲げていても、実際に委ねられる経営課題や意思決定の範囲は会社ごとにまったく異なる。本連載「事業開発のその先へ──アーリー期スタートアップ140選」では、アンケートに回答した企業を一社ずつ取り上げ、その会社がいま抱える経営課題と、そこに参画する人材がどこまでの意思決定を担うのかを具体的に見ていく。今回紹介するのは、株式会社NEXT NEW WORLDだ。",
     "market_ja": "日本"
   },
   {
