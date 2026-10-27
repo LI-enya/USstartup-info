@@ -1,5 +1,29 @@
 [
   {
+    "id": "us-dtc-a42c9051",
+    "name": "Retailers are still",
+    "name_zh": "",
+    "name_en": "Retailers are still",
+    "tagline_zh": "",
+    "tagline_en": "Retailers are still figuring out how to tie AI goals to exec",
+    "url": "https://www.modernretail.co/operations/why-retailers-are-having-a-hard-time-tying-increased-ai-usage-to-executive-compensation/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "desc_zh": "",
+    "desc_en": "AI is starting to show up more in conversations around executive incentive plans. But those conversations are still largely relegated to the tech industry. Here's why it's still an anomaly in retail.",
+    "category_zh": "DTC品牌",
+    "category_en": "DTC Brand",
+    "market_zh": "美国",
+    "market_en": "United States",
+    "tags": [
+      "AI",
+      "e-commerce"
+    ],
+    "founded": "",
+    "funding": "",
+    "source_url": "https://www.modernretail.co/operations/why-retailers-are-having-a-hard-time-tying-increased-ai-usage-to-executive-compensation/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "source_name": "Modern Retail",
+    "date": "2026-10-27"
+  },
+  {
     "id": "us-dtc-611c0a27",
     "name": "Retailers take a",
     "name_zh": "",
@@ -257,30 +281,6 @@
     "source_url": "https://www.retaildive.com/news/nike-ceo-elliott-hill-problems-keep-growing-china-sportswear-jordan/832803/",
     "source_name": "Retail Dive",
     "date": "2026-10-19"
-  },
-  {
-    "id": "us-dtc-0a44a74f",
-    "name": "Weekly Closeout: The",
-    "name_zh": "",
-    "name_en": "Weekly Closeout: The",
-    "tagline_zh": "",
-    "tagline_en": "The Weekly Closeout: The RealReal secures fresh financing, R",
-    "url": "https://www.retaildive.com/news/the-realreal-new-financing-gildan-ftc-price-fixing-scrutiny/833130/",
-    "desc_zh": "",
-    "desc_en": "The resale marketplace refinanced to help strengthen its balance sheet, while the apparel brand's shareholders approved its acquisition by Marquee Brands.",
-    "category_zh": "DTC品牌",
-    "category_en": "DTC Brand",
-    "market_zh": "美国",
-    "market_en": "United States",
-    "tags": [
-      "fintech",
-      "fashion"
-    ],
-    "founded": "",
-    "funding": "",
-    "source_url": "https://www.retaildive.com/news/the-realreal-new-financing-gildan-ftc-price-fixing-scrutiny/833130/",
-    "source_name": "Retail Dive",
-    "date": "2026-10-16"
   },
   {
     "id": "us-dtc-005",
