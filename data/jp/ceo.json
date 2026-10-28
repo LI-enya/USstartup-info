@@ -1,5 +1,31 @@
 [
   {
+    "id": "jp-ceo-968dc52d",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "日本",
+    "market_en": "Japan",
+    "date": "2026-10-27",
+    "source_url": "https://www.fastgrow.jp/articles/next-gen-consulting-quest",
+    "source_name": "FastGrow",
+    "title_ja": "「一次データ」を自ら生み、「経営」へとつなぐ。Questグループが塗り替える、リサーチとコンサルの価値",
+    "speaker_ja": "",
+    "company_ja": "",
+    "desc_ja": "外から助言するだけが、コンサルティングではない。AIやテクノロジーを武器に、クライアントの事業を“共に創る”当事者として動くファームが増えている。\n\nだが同じ「コンサルティングファーム」を名乗っていても、何を強みとし、若手にどこまで任せるのかは会社ごとにまったく異なる。\n\n本連載「「助言者」から「当事者」へ──次世代コンサルティングファーム特集」では、IT・AI・テック領域のファームを一社ずつ取り上げ、その会社ならではの「違い」と「いま入る価値」を編集部の視点で言語化していく。\n\n今回紹介するのは、株式会社Quest Researchと株式会社QuestからなるQuestグループだ。",
+    "market_ja": "日本"
+  },
+  {
     "id": "jp-ceo-7f17c7d5",
     "type": "article",
     "title_zh": "",
@@ -299,30 +325,6 @@
     "speaker_ja": "",
     "company_ja": "",
     "desc_ja": "FastGrowが実施した特別アンケートでは、シード〜シリーズAの140社のうち51.8%がCOOを、66.0%が「将来の幹部候補」を募集していた。\n\nだが、同じ肩書を掲げていても、実際に委ねられる経営課題や意思決定の範囲は会社ごとにまったく異なる。本連載「事業開発のその先へ──アーリー期スタートアップ140選」では、アンケートに回答した企業を一社ずつ取り上げ、その会社がいま抱える経営課題と、そこに参画する人材がどこまでの意思決定を担うのかを具体的に見ていく。今回紹介するのは、AironWorks株式会社だ。",
-    "market_ja": "日本"
-  },
-  {
-    "id": "jp-ceo-5978514d",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "",
-    "tags": [],
-    "market_zh": "日本",
-    "market_en": "Japan",
-    "date": "2026-10-21",
-    "source_url": "https://www.fastgrow.jp/articles/early-phase-startups-resilire",
-    "source_name": "FastGrow",
-    "title_ja": "企業ごとに分断されたサプライチェーン情報をつなぎ、有事の生産を守る──災害・地政学リスク時代の“データ基盤”をつくるResilire",
-    "speaker_ja": "",
-    "company_ja": "",
-    "desc_ja": "FastGrowが実施した特別アンケートでは、シード〜シリーズAの140社のうち51.8%がCOOを、66.0%が「将来の幹部候補」を募集していた。\n\nだが、同じ肩書を掲げていても、実際に委ねられる経営課題や意思決定の範囲は会社ごとにまったく異なる。本連載「事業開発のその先へ──アーリー期スタートアップ140選」では、アンケートに回答した企業を一社ずつ取り上げ、その会社がいま抱える経営課題と、そこに参画する人材がどこまでの意思決定を担うのかを具体的に見ていく。今回紹介するのは、株式会社Resilireだ。",
     "market_ja": "日本"
   },
   {
