@@ -1,5 +1,46 @@
 [
   {
+    "id": "us-ceo-58973197",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.",
+    "tags": [],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-10-28",
+    "source_url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-271bc4ef",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Upwind raises $400M after walking away from Datadog acquisition offer",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+    "tags": [
+      "AI",
+      "funding"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-10-28",
+    "source_url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-ce0f44ff",
     "type": "article",
     "title_zh": "",
@@ -199,48 +240,6 @@
     "date": "2026-10-24",
     "source_url": "https://www.lennysnewsletter.com/p/community-wisdom-negotiating-a-lowball",
     "source_name": "Lenny's Podcast"
-  },
-  {
-    "id": "us-ceo-2cf38325",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
-    "tags": [
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-10-23",
-    "source_url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-b78b969f",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-10-23",
-    "source_url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-    "source_name": "TechCrunch"
   },
   {
     "id": "us-ceo-005",
