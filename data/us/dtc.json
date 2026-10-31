@@ -1,5 +1,32 @@
 [
   {
+    "id": "us-dtc-e7a6fd8b",
+    "name": "constitutes a wellness",
+    "name_zh": "",
+    "name_en": "constitutes a wellness",
+    "tagline_zh": "",
+    "tagline_en": "What constitutes a wellness brand?",
+    "url": "https://www.modernretail.co/operations/what-is-a-wellness-brand/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "desc_zh": "",
+    "desc_en": "This week's Modern Retail Podcast explores how categories like food, beauty and home gadgets are reshaping the definition of wellness.",
+    "category_zh": "DTC品牌",
+    "category_en": "DTC Brand",
+    "market_zh": "美国",
+    "market_en": "United States",
+    "tags": [
+      "AI",
+      "health",
+      "e-commerce",
+      "food",
+      "fashion"
+    ],
+    "founded": "",
+    "funding": "",
+    "source_url": "https://www.modernretail.co/operations/what-is-a-wellness-brand/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "source_name": "Modern Retail",
+    "date": "2026-10-31"
+  },
+  {
     "id": "us-dtc-62a5ae24",
     "name": "Cotopaxi adopts a",
     "name_zh": "",
@@ -247,30 +274,6 @@
     "source_url": "https://www.modernretail.co/operations/why-retailers-are-having-a-hard-time-tying-increased-ai-usage-to-executive-compensation/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
     "source_name": "Modern Retail",
     "date": "2026-10-27"
-  },
-  {
-    "id": "us-dtc-611c0a27",
-    "name": "Retailers take a",
-    "name_zh": "",
-    "name_en": "Retailers take a",
-    "tagline_zh": "",
-    "tagline_en": "Retailers take a targeted approach to seasonal hiring in pre",
-    "url": "https://www.modernretail.co/operations/retailers-take-a-targeted-approach-to-seasonal-hiring-in-preparation-for-historic-holiday-sales-year/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "desc_zh": "",
-    "desc_en": "Retailers and logistics players are taking a more surgical approach to holiday hiring with flexible staffing and a focus on logistics cross-training in anticipation of a $1 trillion sales season.",
-    "category_zh": "DTC品牌",
-    "category_en": "DTC Brand",
-    "market_zh": "美国",
-    "market_en": "United States",
-    "tags": [
-      "AI",
-      "e-commerce"
-    ],
-    "founded": "",
-    "funding": "",
-    "source_url": "https://www.modernretail.co/operations/retailers-take-a-targeted-approach-to-seasonal-hiring-in-preparation-for-historic-holiday-sales-year/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "source_name": "Modern Retail",
-    "date": "2026-10-26"
   },
   {
     "id": "us-dtc-005",
