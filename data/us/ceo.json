@@ -1,5 +1,45 @@
 [
   {
+    "id": "us-ceo-2af3ec04",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+    "tags": [],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-10-31",
+    "source_url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-2aba538d",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "🧠 Community Wisdom: The biggest sources of interruptions for PMs, hiring junior PMs with case studies vs. behavioral interviews, building a product harness for AI-driven development, and more",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Community Wisdom 304",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-10-31",
+    "source_url": "https://www.lennysnewsletter.com/p/community-wisdom-the-biggest-sources",
+    "source_name": "Lenny's Podcast"
+  },
+  {
     "id": "us-ceo-c612b32c",
     "type": "article",
     "title_zh": "",
@@ -199,46 +239,6 @@
     "market_en": "North America",
     "date": "2026-10-29",
     "source_url": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-cc0b1e15",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-10-29",
-    "source_url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-58973197",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.",
-    "tags": [],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-10-28",
-    "source_url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
     "source_name": "TechCrunch"
   },
   {
