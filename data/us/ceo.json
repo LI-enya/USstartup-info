@@ -1,5 +1,93 @@
 [
   {
+    "id": "us-ceo-15bb7883",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.",
+    "tags": [
+      "AI",
+      "funding"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-11-05",
+    "source_url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-db62a80f",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Axiom Math wants to keep AI slop out of mathematics",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-11-05",
+    "source_url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-01ab2c6b",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Food delivery startup Wonder files for IPO as it explores its next big bite",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Following years of fundraising, acquisitions, and expansion, food delivery startup Wonder is moving closer to becoming a publicly traded company.",
+    "tags": [
+      "AI",
+      "food",
+      "IPO"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-11-05",
+    "source_url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-c0f0ac78",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Harbinger raises $240M after expanding into defense",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military.",
+    "tags": [
+      "AI",
+      "funding"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-11-05",
+    "source_url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-72f08381",
     "type": "article",
     "title_zh": "",
@@ -157,89 +245,6 @@
     "market_en": "North America",
     "date": "2026-11-03",
     "source_url": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-84d0acda",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "The five-year-old startup raised a $1.3  billion round led by Bessemer.",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-11-03",
-    "source_url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-27793e93",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
-    "tags": [],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-11-02",
-    "source_url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-0f9aa6fb",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-11-02",
-    "source_url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-c6d773d8",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "The one-year-old startup is now valued at $300 million.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-11-02",
-    "source_url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
     "source_name": "TechCrunch"
   },
   {
