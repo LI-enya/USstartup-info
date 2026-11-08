@@ -238,6 +238,29 @@
     "date": "2026-11-05"
   },
   {
+    "id": "us-dtc-eac13e23",
+    "name": "Stitch Fix is",
+    "name_zh": "",
+    "name_en": "Stitch Fix is",
+    "tagline_zh": "",
+    "tagline_en": "How Stitch Fix is using AI and customer feedback to build it",
+    "url": "https://www.modernretail.co/operations/how-stitch-fix-is-using-ai-and-customer-feedback-to-build-its-private-brands/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "desc_zh": "",
+    "desc_en": "Stitch Fix is going narrow and deep with its private brands, a strategy it says is contributing to revenue growth.",
+    "category_zh": "DTC品牌",
+    "category_en": "DTC Brand",
+    "market_zh": "美国",
+    "market_en": "United States",
+    "tags": [
+      "AI"
+    ],
+    "founded": "",
+    "funding": "",
+    "source_url": "https://www.modernretail.co/operations/how-stitch-fix-is-using-ai-and-customer-feedback-to-build-its-private-brands/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "source_name": "Modern Retail",
+    "date": "2026-11-04"
+  },
+  {
     "id": "us-dtc-262ff67d",
     "name": "Hydro Flask, Osprey",
     "name_zh": "",
@@ -255,29 +278,6 @@
     "founded": "",
     "funding": "",
     "source_url": "https://www.retaildive.com/news/hydro-flask-osprey-owner-receives-acquisition-proposal-valued-at-16b/873719/",
-    "source_name": "Retail Dive",
-    "date": "2026-11-04"
-  },
-  {
-    "id": "us-dtc-594e6917",
-    "name": "Outdoor Voices inks",
-    "name_zh": "",
-    "name_en": "Outdoor Voices inks",
-    "tagline_zh": "",
-    "tagline_en": "Outdoor Voices inks licensing deal for UK and EU",
-    "url": "https://www.retaildive.com/news/outdoor-voices-expands-uk-eu/873730/",
-    "desc_zh": "",
-    "desc_en": "The activewear lifestyle brand is partnering with Focus Brands to expand into new markets, with an initial focus on wholesale and e-commerce.",
-    "category_zh": "DTC品牌",
-    "category_en": "DTC Brand",
-    "market_zh": "美国",
-    "market_en": "United States",
-    "tags": [
-      "e-commerce"
-    ],
-    "founded": "",
-    "funding": "",
-    "source_url": "https://www.retaildive.com/news/outdoor-voices-expands-uk-eu/873730/",
     "source_name": "Retail Dive",
     "date": "2026-11-04"
   },
