@@ -1,5 +1,26 @@
 [
   {
+    "id": "us-ceo-1d42678d",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)",
+    "speaker": "Tulsee Doshi",
+    "speaker_zh": "Tulsee Doshi",
+    "speaker_en": "Tulsee Doshi",
+    "company": "Head of Product, Gemini",
+    "company_zh": "Head of Product, Gemini",
+    "desc_zh": "",
+    "desc_en": "Listen now (59 mins) | Tulsee Doshi on building Google’s frontier models, why evals and vibes both matter, and her 60-20-20 framework for shipping ahead of the curve",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-11-08",
+    "source_url": "https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier",
+    "source_name": "Lenny's Podcast"
+  },
+  {
     "id": "us-ceo-15bb7883",
     "type": "article",
     "title_zh": "",
@@ -170,6 +191,25 @@
     "source_name": "TechCrunch"
   },
   {
+    "id": "us-ceo-13ea817d",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "On November 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
+    "tags": [],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-11-03",
+    "source_url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-b6d6b598",
     "type": "article",
     "title_zh": "",
@@ -208,46 +248,6 @@
     "market_en": "North America",
     "date": "2026-11-03",
     "source_url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-42a0625b",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-11-03",
-    "source_url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-e3d74126",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
-    "tags": [],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-11-03",
-    "source_url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
     "source_name": "TechCrunch"
   },
   {
