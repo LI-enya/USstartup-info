@@ -1,5 +1,49 @@
 [
   {
+    "id": "us-ceo-2bd079b7",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
+    "tags": [
+      "AI",
+      "fintech",
+      "health"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-11-12",
+    "source_url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-edf6b105",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-11-12",
+    "source_url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-0de24327",
     "type": "article",
     "title_zh": "",
@@ -210,48 +254,6 @@
     "market_en": "North America",
     "date": "2026-11-05",
     "source_url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-93d6d70f",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Open source AI is booming. Hugging Face explains who profits.",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-11-04",
-    "source_url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-ae33bc96",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-11-04",
-    "source_url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
     "source_name": "TechCrunch"
   },
   {
