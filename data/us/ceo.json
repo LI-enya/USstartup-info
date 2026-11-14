@@ -1,5 +1,49 @@
 [
   {
+    "id": "us-ceo-2afc3cd8",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "AI agent startup LangChain hits $3B valuation",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+    "tags": [
+      "AI",
+      "funding"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-11-13",
+    "source_url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-83b091d9",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+    "tags": [
+      "AI",
+      "funding"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-11-13",
+    "source_url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-2bd079b7",
     "type": "article",
     "title_zh": "",
@@ -209,51 +253,6 @@
     "market_en": "North America",
     "date": "2026-11-05",
     "source_url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-01ab2c6b",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Food delivery startup Wonder files for IPO as it explores its next big bite",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Following years of fundraising, acquisitions, and expansion, food delivery startup Wonder is moving closer to becoming a publicly traded company.",
-    "tags": [
-      "AI",
-      "food",
-      "IPO"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-11-05",
-    "source_url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-c0f0ac78",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Harbinger raises $240M after expanding into defense",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military.",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-11-05",
-    "source_url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
     "source_name": "TechCrunch"
   },
   {
