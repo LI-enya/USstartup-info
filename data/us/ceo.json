@@ -1,5 +1,26 @@
 [
   {
+    "id": "us-ceo-67bfbae4",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "🧠 Community Wisdom: When you become the bottleneck for your AI agents, the PULL framework for PMs, product growth vs. growth marketing, boosting feedback response rates, and more",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Community Wisdom 305",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-11-14",
+    "source_url": "https://www.lennysnewsletter.com/p/community-wisdom-when-you-become",
+    "source_name": "Lenny's Podcast"
+  },
+  {
     "id": "us-ceo-2afc3cd8",
     "type": "article",
     "title_zh": "",
@@ -213,46 +234,26 @@
     "source_name": "Lenny's Podcast"
   },
   {
-    "id": "us-ceo-15bb7883",
+    "id": "us-ceo-01ab2c6b",
     "type": "article",
     "title_zh": "",
-    "title_en": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
+    "title_en": "Food delivery startup Wonder files for IPO as it explores its next big bite",
     "speaker": "",
     "speaker_zh": "",
     "speaker_en": "",
     "company": "",
     "company_zh": "",
     "desc_zh": "",
-    "desc_en": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.",
+    "desc_en": "Following years of fundraising, acquisitions, and expansion, food delivery startup Wonder is moving closer to becoming a publicly traded company.",
     "tags": [
       "AI",
-      "funding"
+      "food",
+      "IPO"
     ],
     "market_zh": "北美",
     "market_en": "North America",
     "date": "2026-11-05",
-    "source_url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-db62a80f",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Axiom Math wants to keep AI slop out of mathematics",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-11-05",
-    "source_url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+    "source_url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
     "source_name": "TechCrunch"
   },
   {
