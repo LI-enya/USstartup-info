@@ -1,5 +1,47 @@
 [
   {
+    "id": "us-ceo-0c227f59",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-11-18",
+    "source_url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-bb2107fc",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-11-18",
+    "source_url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-93c1d3bc",
     "type": "article",
     "title_zh": "",
@@ -207,49 +249,6 @@
     "date": "2026-11-15",
     "source_url": "https://www.lennysnewsletter.com/p/metas-muse-how-we-launched-the-most",
     "source_name": "Lenny's Podcast"
-  },
-  {
-    "id": "us-ceo-67bfbae4",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "🧠 Community Wisdom: When you become the bottleneck for your AI agents, the PULL framework for PMs, product growth vs. growth marketing, boosting feedback response rates, and more",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Community Wisdom 305",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-11-14",
-    "source_url": "https://www.lennysnewsletter.com/p/community-wisdom-when-you-become",
-    "source_name": "Lenny's Podcast"
-  },
-  {
-    "id": "us-ceo-2afc3cd8",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "AI agent startup LangChain hits $3B valuation",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-11-13",
-    "source_url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-    "source_name": "TechCrunch"
   },
   {
     "id": "us-ceo-005",
