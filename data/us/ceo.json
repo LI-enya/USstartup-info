@@ -1,5 +1,48 @@
 [
   {
+    "id": "us-ceo-badecaea",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "The fallout from Nvidia’s Jensen Huang scandal continues",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed",
+    "tags": [
+      "AI",
+      "health"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-11-20",
+    "source_url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-67f6066a",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-11-20",
+    "source_url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-f1056cc4",
     "type": "article",
     "title_zh": "",
@@ -209,48 +252,6 @@
     "date": "2026-11-16",
     "source_url": "https://www.lennysnewsletter.com/p/how-i-fight-token-fraud-as-a-solo",
     "source_name": "Lenny's Podcast"
-  },
-  {
-    "id": "us-ceo-1437bfb1",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "🎙️ How I AI: Fable 5.2 Review + How I fight token fraud as a solo founder + Building a Claude Code family OS",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-11-16",
-    "source_url": "https://www.lennysnewsletter.com/p/how-i-ai-fable-52-review-how-i-fight",
-    "source_name": "Lenny's Podcast"
-  },
-  {
-    "id": "us-ceo-e821ea45",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-11-15",
-    "source_url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-    "source_name": "TechCrunch"
   },
   {
     "id": "us-ceo-005",
