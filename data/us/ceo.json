@@ -1,5 +1,26 @@
 [
   {
+    "id": "us-ceo-327f3976",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "First principles: What it takes to be a great product manager in the AI era | Sherif Mansour",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Sherif Mansour on why PMs are thriving in the AI era, the artist PM advantage, and why juniors are your secret weapon now",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-11-22",
+    "source_url": "https://www.lennysnewsletter.com/p/first-principles-what-it-takes-to",
+    "source_name": "Lenny's Podcast"
+  },
+  {
     "id": "us-ceo-badecaea",
     "type": "article",
     "title_zh": "",
@@ -194,6 +215,25 @@
     "source_name": "TechCrunch"
   },
   {
+    "id": "us-ceo-1c3f0045",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "How I fight token fraud as a solo founder",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Watch now (40 mins) | 🎙️ After losing tens of thousands of dollars to token fraud, I walk through six attack patterns, the defenses I built, and why I killed free trials",
+    "tags": [],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-11-16",
+    "source_url": "https://www.lennysnewsletter.com/p/how-i-fight-token-fraud-as-a-solo",
+    "source_name": "Lenny's Podcast"
+  },
+  {
     "id": "us-ceo-1437bfb1",
     "type": "article",
     "title_zh": "",
@@ -213,47 +253,6 @@
     "date": "2026-11-16",
     "source_url": "https://www.lennysnewsletter.com/p/how-i-ai-fable-52-review-how-i-fight",
     "source_name": "Lenny's Podcast"
-  },
-  {
-    "id": "us-ceo-91587d73",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "After dodging death, battery startup Our Next Energy is now going public",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Our Next Energy is the latest battery startup to go public via SPAC. Does it now have what it needs to survive in the cutthroat battery industry?",
-    "tags": [],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-11-16",
-    "source_url": "https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-caa86e6f",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-11-16",
-    "source_url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-    "source_name": "TechCrunch"
   },
   {
     "id": "us-ceo-005",
