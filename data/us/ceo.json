@@ -1,5 +1,45 @@
 [
   {
+    "id": "us-ceo-851167e1",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-11-23",
+    "source_url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-9549eccd",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Figma employee sues, alleging company forced her to confront harassers",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination.",
+    "tags": [],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-11-23",
+    "source_url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-327f3976",
     "type": "article",
     "title_zh": "",
@@ -213,46 +253,6 @@
     "date": "2026-11-17",
     "source_url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
     "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-1c3f0045",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "How I fight token fraud as a solo founder",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Watch now (40 mins) | 🎙️ After losing tens of thousands of dollars to token fraud, I walk through six attack patterns, the defenses I built, and why I killed free trials",
-    "tags": [],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-11-16",
-    "source_url": "https://www.lennysnewsletter.com/p/how-i-fight-token-fraud-as-a-solo",
-    "source_name": "Lenny's Podcast"
-  },
-  {
-    "id": "us-ceo-1437bfb1",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "🎙️ How I AI: Fable 5.2 Review + How I fight token fraud as a solo founder + Building a Claude Code family OS",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-11-16",
-    "source_url": "https://www.lennysnewsletter.com/p/how-i-ai-fable-52-review-how-i-fight",
-    "source_name": "Lenny's Podcast"
   },
   {
     "id": "us-ceo-005",
