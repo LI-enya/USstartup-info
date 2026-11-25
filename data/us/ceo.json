@@ -1,5 +1,70 @@
 [
   {
+    "id": "us-ceo-45cb540b",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "How Steven Basart forced his way into Beacon Health and became its first engineer",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "From dropping out of a YC batch to building an internal programming language at a healthcare startup, Steven does whatever it takes.",
+    "tags": [
+      "health"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-11-25",
+    "source_url": "https://www.ycombinator.com/blog/how-steven-basart-forced-his-way-into-beacon-health-and-became-its-first-engineer/",
+    "source_name": "Y Combinator"
+  },
+  {
+    "id": "us-ceo-3b93a86a",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+    "tags": [
+      "AI",
+      "funding",
+      "IPO"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-11-24",
+    "source_url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "id": "us-ceo-f68bf79f",
+    "type": "article",
+    "title_zh": "",
+    "title_en": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+    "speaker": "",
+    "speaker_zh": "",
+    "speaker_en": "",
+    "company": "",
+    "company_zh": "",
+    "desc_zh": "",
+    "desc_en": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+    "tags": [
+      "AI"
+    ],
+    "market_zh": "北美",
+    "market_en": "North America",
+    "date": "2026-11-24",
+    "source_url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+    "source_name": "TechCrunch"
+  },
+  {
     "id": "us-ceo-851167e1",
     "type": "article",
     "title_zh": "",
@@ -187,71 +252,6 @@
     "market_en": "North America",
     "date": "2026-11-18",
     "source_url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-e8af1975",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Hank Green is self-funding ClockwiseTV, a curated educational video platform for kids",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Alongside CEO Leslie Morgan, Hank Green set out to create the video platform he wished his kid had.",
-    "tags": [
-      "climate",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-11-17",
-    "source_url": "https://techcrunch.com/2026/11/17/hank-green-is-self-funding-clockwisetv-a-curated-educational-video-platform-for-kids/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-f26b96f3",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
-    "tags": [
-      "AI",
-      "funding"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-11-17",
-    "source_url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
-    "source_name": "TechCrunch"
-  },
-  {
-    "id": "us-ceo-b27407da",
-    "type": "article",
-    "title_zh": "",
-    "title_en": "Pedestal AI raises $4.7 million to agentify the supply chain",
-    "speaker": "",
-    "speaker_zh": "",
-    "speaker_en": "",
-    "company": "",
-    "company_zh": "",
-    "desc_zh": "",
-    "desc_en": "The company uses agentic AI to make supply chains faster and more reliable.",
-    "tags": [
-      "AI"
-    ],
-    "market_zh": "北美",
-    "market_en": "North America",
-    "date": "2026-11-17",
-    "source_url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
     "source_name": "TechCrunch"
   },
   {
